@@ -6,7 +6,7 @@
 #book-meta(
   title: "Historique des villages du Moyen Pays Niçois",
   description: "Essai historique sur différents villages de l'arrière-pays niçois",
-  repository: "https://github.com/06Games/xxx",
+  repository: "https://github.com/06Games/History-Blog",
   authors: ("Evan Galli",),
   language: "fr",
   summary: [
