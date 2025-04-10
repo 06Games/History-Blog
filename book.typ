@@ -1,0 +1,26 @@
+
+#import "@preview/shiroa:0.2.0": *
+
+#show: book
+
+#book-meta(
+  title: "Historique des villages du Moyen Pays Niçois",
+  description: "Essai historique sur différents villages de l'arrière-pays niçois",
+  repository: "https://github.com/06Games/xxx",
+  authors: ("Evan Galli",),
+  language: "fr",
+  summary: [
+    #prefix-chapter("pages/avant-propos/avant-propos.typ")[Avant-Propos]
+    == Vésubie
+    - #chapter("pages/vesubie/introduction/introduction.typ")[Introduction]
+    - #chapter("pages/vesubie/lantosque/lantosque.typ")[Lantosque]
+      - #chapter("pages/vesubie/lantosque/saint-colomban/saint-colomban.typ")[Saint-Colomban]
+      - #chapter(none)[Loda]
+  ]
+)
+
+
+
+// re-export page template
+#import "/templates/page.typ": project
+#let book-page = project
