@@ -11,11 +11,16 @@
   language: "fr",
   summary: [
     #prefix-chapter("pages/avant-propos/avant-propos.typ")[Avant-Propos]
-    == Vésubie
+    == La Vésubie
     - #chapter("pages/vesubie/introduction/introduction.typ")[Introduction]
     - #chapter("pages/vesubie/lantosque/lantosque.typ")[Lantosque]
       - #chapter("pages/vesubie/lantosque/saint-colomban/saint-colomban.typ")[Saint-Colomban]
       - #chapter(none)[Loda]
+    - #chapter(none)[Utelle]
+      - #chapter(none)[Figaret]
+    == Le Paillon
+    - #chapter(none)[Lucéram]
+      - #chapter(none)[Béasse]
   ]
 )
 
