@@ -13,7 +13,7 @@ Il est fait mention sur l'#link("https://fr.wikipedia.org/wiki/Arc_d%27Auguste_(
 
 Il est aussi probable que la tribu des _"ESVBIANI"_ mentionnée sur le #link("https://fr.wikipedia.org/wiki/Troph%C3%A9e_des_Alpes")[Trophée des Alpes] à La Turbie, soit la même que celle des Vésubians mentionnée à Suse.
 
-Nous n'avons que très peu de sources sur cette période, les tribus locales étant de culture orale.
+Nous n'avons que très peu d'informations sur cette période, les tribus locales étant de culture orale.
 
 #columns(2, [
 	#figure(image("Arco_di_Augusto-Susa.jpg", width: 100%),  caption: [
