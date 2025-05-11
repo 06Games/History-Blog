@@ -68,7 +68,7 @@
 == Les notaires
 
 #table(
-  columns: (1fr, 1fr, 2fr, 2fr, 2fr, 3fr),
+  columns: (1fr, 1fr, 1.5fr, 2fr, 2fr, 3fr),
   inset: (
     x: 5pt,
     y: 10pt,
@@ -77,7 +77,7 @@
   table.header(
     [*1#super[ère] Ment°*], [*D#super[ère] Ment°*], [*Prénom*], [*Nom*], [*Filiation*], [*Notes*]
   ),
-  [1579], [1588], [Jean-Antoine], [Auda], [], [Un chiffre "2" est écrit sur la couverture, cela signifie t-il qu'il s'agit du 2#super[nd] protocole ?],
+  [1579], [1588], [Jean \ Antoine], [Auda], [], [Un chiffre "2" est écrit sur la couverture, cela signifie t-il qu'il s'agit du 2#super[nd] protocole ?],
 	[1582 #footnote(link("https://archives06.fr/ark:/79346/765900.2436491/dao/0/75")[3E 113/1 f.74])], [1619], [Philippe], [Thaon], [fils de Paul], [],
 	[1583 #footnote(link("https://archives06.fr/ark:/79346/765900.2436491/dao/0/141")[3E 113/1 f.139])], [], [Honoré], [Thaon], [], [],
 	[1584 #footnote(link("https://archives06.fr/ark:/79346/765900.2436491/dao/0/159")[3E 113/1 f.158])], [], [Pierre], [Martel], [], [],
@@ -86,9 +86,10 @@
 	[1673], [1703], [Pierre], [Malaussena], [], [],
 	[1680], [1697], [André], [Fighiera], [], [],
 	[1713], [1757], [Charles \ Antoine], [Daloni], [], [],
+	[], [> 1747], [Antoine \ François], [Oddo], [], [],
 	[1738], [1783], [Joseph], [Buffonio], [], [],
-	[1760], [1772], [Pierre Thomas], [Daloni], [], [],
-	[1767], [1776], [Pierre Philippe], [Fighiera], [], [],
+	[1760], [1772], [Pierre \ Thomas], [Daloni], [], [],
+	[1767], [1776], [Pierre \ Philippe], [Fighiera], [], [],
 	[1777], [1800], [Barthélémy], [Passeroni], [], [],
 	[1785], [1794], [Alexandre], [Boetto], [], []
 )
@@ -115,14 +116,17 @@
 == Les capitaines
 
 #table(
-	columns: (1fr, 1fr, 1fr, 1fr, 1fr),
+	columns: (1fr, 1fr, 1.5fr, 2fr, 5fr),
 	inset: (
 		x: 5pt,
 		y: 10pt,
 	),
 	align: horizon,
 	table.header(
-		[*1#super[ère] Mention*], [*D#super[ère] Mention*], [*Prénom*], [*Nom*], [*Notes*]
+		[*1#super[ère] Ment°*], [*D#super[ère] Ment°*], [*Prénom*], [*Nom*], [*Notes*]
 	),
-	[], [], [], [], []
+	[° #sym.tilde.basic 1530], [† 1623], [Philippe], [Thaon], [Capitaine des milices de Lantosque et Belvédère \ Anobli par lettres patentes du duc Charles Emmanuel I#super[er] de Savoie le 16 janvier 1617 \ Père du S#super[gr] Pierre Thaon de Saint-André, dont descend la maison de Thaon de Revel],
+	[1665], [], [Jules César], [Auda], [Fils du notaire Jean Auda ?],
+	[1668], [1675], [Joseph \ François], [Buffonio], [],
+
 )
