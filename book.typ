@@ -14,8 +14,10 @@
     == La Vésubie
     - #chapter("pages/vesubie/introduction/introduction.typ")[Introduction]
     - #chapter("pages/vesubie/lantosque/lantosque.typ")[Lantosque]
-      - #chapter("pages/vesubie/lantosque/saint-colomban/saint-colomban.typ")[Saint-Colomban]
-      - #chapter(none)[Loda]
+      - #chapter("pages/vesubie/lantosque/notables.typ")[Les notables]
+      - #chapter(none)[Les hameaux]
+        - #chapter("pages/vesubie/lantosque/saint-colomban/saint-colomban.typ")[Saint-Colomban]
+        - #chapter(none)[Loda]
     - #chapter(none)[Utelle]
       - #chapter(none)[Figaret]
     == Le Paillon
