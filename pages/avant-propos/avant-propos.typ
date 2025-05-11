@@ -1,6 +1,7 @@
 #import "/book.typ": book-page
 
 #show: book-page.with(title: "Avant-propos")
+#set text(lang: "fr")
 
 = Avant-propos
 

@@ -1,6 +1,7 @@
 #import "/book.typ": book-page
 
 #show: book-page.with(title: "Saint-Colomban (Lantosque)")
+#set text(lang: "fr")
 
 = Saint-Colomban
 
