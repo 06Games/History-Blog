@@ -39,3 +39,15 @@ La vallée de la Vésubie est restée peuplée durant l'antiquité, mais les sou
 Nous savons tout de même que le littoral niçois avait été quelque peu délaissé en raison de nombreuses invasions Wisigoths au Ve siècle, et que l'arrière-pays avait servi de refuge aux populations.
 
 Ce n'est qu'au Moyen Âge central (XIIe-XIIIe siècles) que les traces écrites se multiplient.
+
+== Les XIVe et XVe siècles
+
+
+
+== Le XVIIe siècle
+
+Le XVIIe siècle est marqué par de nombreux tremblements de terre.
+
+31 juillet 1631, la peste arrive à Belvédère #footnote(link("https://www.geneanet.org/registres/view/17637/17")[Registres des sépultures 1609-1640 de Belvédère f. 17]).
+
+
