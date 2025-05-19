@@ -16,6 +16,36 @@ Les habitations sont décrites comme en ruine dans un texte datant de 1250. (dat
 Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou et Camari. Il existe également des écarts dorénavant abandonnés, comme la Couala de Guillerm _(La Colle)_ et Béasse sur la commune de Lucéram.
 
 #columns(2, [
+	#figure(image("saint-colomban dessus.jpg", width: 100%),  caption: [
+		Saint-Colomban vu du dessus
+	])
+	#colbreak()
+	#figure(image("saint-colomban face.jpg", width: 100%),  caption: [
+		Saint-Colomban vu d'en face
+	])
+])
+
+#columns(2, [
+	#figure(image("gorblaou.jpg", width: 100%),  caption: [
+		Gorbloau
+	])
+	#colbreak()
+	#figure(image("camari.jpg", width: 100%),  caption: [
+		Camari
+	])
+])
+
+#columns(2, [
+	#figure(image("la colle.jpg", width: 100%),  caption: [
+		La Couala de Guillerm
+	])
+	#colbreak()
+	#figure(image("la colle 2.jpg", width: 100%),  caption: [
+		La Couala de Guillerm
+	])
+])
+
+#columns(2, [
 	#figure(image("beasse-avant.jpg", width: 100%),  caption: [
 		Beasse autrefois
 	])
