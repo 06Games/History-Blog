@@ -58,14 +58,14 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
 
 == L'église
 
-Une première chapelle, probablement dédiée à Saint-Colomban, était située dans le quartier de la Gleya. Une nouvelle chapelle aurait ensuite été construite à l'emplacement de l'église actuelle. Celle-ci est devenue paroissiale pendant la Révolution française et a tenu ses propres registres officiels jusqu'en 1860, date de l'annexion du Comté de Nice par la France.
+Une première chapelle, vraisemblablement dédiée à Saint-Colomban, était située dans le quartier de la Gleya. Une seconde chapelle aurait ensuite été édifiée à l'emplacement de l'église actuelle. Cette dernière acquit le statut d'église paroissiale durant la Révolution française et conserva ses propres registres officiels jusqu'en 1860, date de l'annexion du Comté de Nice par la France.
 
-L'église que nous connaissons aujourd'hui, dédiée à Saint-Étienne, a été achevée en 1844. Elle est restée dans la mémoire collective comme un agrandissement de l'ancienne chapelle, dont on peut encore voir des traces dans le renforcement situé à gauche du maître-autel, d'où l'on accède au clocher.
+L'édifice actuel, dédié à Saint-Étienne, fut achevé en 1844. Il est resté ancré dans la mémoire collective comme un agrandissement de l'ancienne chapelle, dont il subsisterait des vestiges visibles dans le renforcement situé à gauche du maître-autel, donnant accès au clocher.
 
-Les pierres nécessaires à sa construction auraient été acheminées une à une depuis la vallée de la Vésubie. Leur nombre était tel que la maison en face, dite "des Thaons" – qui abritait un bar au siècle dernier –, aurait été construite avec les pierres restantes.
+Les matériaux nécessaires à sa construction auraient été transportés pierre par pierre depuis la vallée de la Vésubie. Leur quantité était telle que la maison en face, dite "des Thaons" – qui abritait un bar au siècle dernier –, aurait été construite avec les pierres excédentaires.
 
-Le clocher, plus tardif, n'a été terminé qu'en 1888. L'église a été rénovée vers 1915, à la suite d'un incendie accidentel qui avait détruit l'autel, puis à nouveau en 1933.
+Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des travaux de rénovation vers 1915, à la suite d'un incendie accidentel ayant détruit l'autel, puis à nouveau en 1933.
 
-Une plaque en hommage aux habitants morts pour la France est apposée sur le mur gauche en entrant.
+Une plaque commémorative rendant hommage aux habitants morts pour la France est apposée sur le mur gauche à l'entrée.
 
-Selon la tradition, les cloches de Saint-Colomban avaient le don d'éloigner les orages. #footnote("Un reportage RMC en relate")
+On prêtait aux cloches de Saint-Colomban le don d'éloigner les orages. #footnote("Un reportage RMC en relate")
