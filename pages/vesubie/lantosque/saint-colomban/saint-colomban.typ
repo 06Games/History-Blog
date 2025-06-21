@@ -64,8 +64,47 @@ L'édifice actuel, dédié à Saint-Étienne, fut achevé en 1844. Il est resté
 
 Les matériaux nécessaires à sa construction auraient été transportés pierre par pierre depuis la vallée de la Vésubie. Leur quantité était telle que la maison en face, dite "des Thaons" – qui abritait un bar au siècle dernier –, aurait été construite avec les pierres excédentaires.
 
-Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des travaux de rénovation vers 1915, à la suite d'un incendie accidentel ayant détruit l'autel, puis à nouveau en 1933.
+Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des travaux de rénovation vers 1915, à la suite d'un incendie accidentel ayant détruit l'autel, puis à nouveau en 1933. La facade fut refaite par la mairie durant les années 2010.
 
 Une plaque commémorative rendant hommage aux habitants morts pour la France est apposée sur le mur gauche à l'entrée.
 
 On prêtait aux cloches de Saint-Colomban le don d'éloigner les orages. #footnote("Un reportage RMC en relate")
+
+== Le café restaurant
+
+Sur le chemin de la Gleya, dans la ruelle descendant à la place, on peut encore voir sur le haut d'une porte à droite en descendant l'enseigne d'un ancien café restaurant tenu par François et Philippine Thaon.
+
+#columns(2, [
+	#figure(image("chemin_de_la_gleya_ruelle.jpg", width: 100%),  caption: [
+		La ruelle descendant à la place
+	])
+	#colbreak()
+	#figure(image("chemin_de_la_gleya_bar.jpg", width: 100%),  caption: [
+		L'enseigne du café restaurant de la place
+	])
+])
+
+== Les fours
+
+Il y avait 3 fours, un au Coulet à Saint-Colomban, un à l'entrée du hameau de Camari et un dernier, en sorti de Béasse.
+
+#pagebreak()
+
+== L'éducation
+
+Une école fut construite au dessus du quartier du Coulet à Saint-Colomban.
+Les enfants de Béasse montaient et descendaient chaque jour à l'école de Saint-Colomban, ce qui représente environ trois quarts d'heure de marche.
+Par la suite, une école y fut ouverte. Mais face à un exode rapide de la population de Béasse, elle fut contrainte de fermer, son nombre d'élève passant de 17 enfants en 1917 à seulement 3 en 1922, année de sa fermeture.
+
+L'école de Saint-Colomban ferma à son tour et fut reconvertie en gite. Puis, le gite fut contrait de fermer dans les années 2010 suite à une changement des normes en matière d'accessibilité, qui auraient nécessité des travaux, ce que la mairie n'a pas souhaité faire.
+Jusque vers 2020, l'ancienne école de Saint-Colomban servait de lieu de vote lors des élections.
+
+#columns(2, [
+	#figure(image("ecole-1930.jpg", width: 100%), caption: [
+		Les enfants à l'école de Saint-Colomban en 1930 (col. Emma Robini)
+	])
+	#colbreak()
+	#figure(image("ecole-1930-noms.jpg", width: 100%), caption: [
+		Photographie annotée avec le nom des enfants (réalisée pour une exposition)
+	])
+])
