@@ -68,7 +68,7 @@ Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des tr
 
 Une plaque commémorative rendant hommage aux habitants morts pour la France est apposée sur le mur gauche à l'entrée.
 
-On prêtait aux cloches de Saint-Colomban le don d'éloigner les orages. #footnote("Un reportage RMC en relate")
+On prêtait aux cloches de Saint-Colomban le don d'éloigner les orages. #footnote[Un #link("/assets/RMC - Cloches de St Colomban.m4a")[reportage RMC] en relate]
 
 == Le café restaurant
 
@@ -97,7 +97,8 @@ Les enfants de Béasse montaient et descendaient chaque jour à l'école de Sain
 Par la suite, une école y fut ouverte. Mais face à un exode rapide de la population de Béasse, elle fut contrainte de fermer, son nombre d'élève passant de 17 enfants en 1917 à seulement 3 en 1922, année de sa fermeture.
 
 L'école de Saint-Colomban ferma à son tour et fut reconvertie en gite. Puis, le gite fut contrait de fermer dans les années 2010 suite à une changement des normes en matière d'accessibilité, qui auraient nécessité des travaux, ce que la mairie n'a pas souhaité faire.
-Jusque vers 2020, l'ancienne école de Saint-Colomban servait de lieu de vote lors des élections.
+
+Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - Compte rendu conseil municipal 2016-10-17.pdf")[17/10/2016]], l'ancienne école de Saint-Colomban servait de bureau de vote lors des élections. Dorénavant, les électeurs de Saint-Colomban et Loda votent à Lantosque dans la salle Gilbert Gaglio.
 
 #columns(2, [
 	#figure(image("ecole-1930.jpg", width: 100%), caption: [
