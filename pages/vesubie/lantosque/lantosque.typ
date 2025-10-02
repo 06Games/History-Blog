@@ -9,7 +9,7 @@
 
 === La prise de Lantosque
 
-Entre 1792 et 1794, Lantosque se retrouve sur la ligne de front entre les troupes révolutionnaires françaises et celles de la coalition. Une famine s’abat sur le village, causant la mort de nombreux habitants. Le 20 octobre 1792 (ou 1793), le village tombe aux mains des Français.
+Entre 1792 et 1794, Lantosque se retrouve sur la ligne de front entre les troupes révolutionnaires françaises et celles de la coalition. Une famine s’abat sur le village, causant la mort de nombreux habitants. Le 20 (ou 23) octobre 1792, le village tombe aux mains des Français.
 
 La vallée de la Vésubie devient alors un axe stratégique pour les troupes françaises, leur permettant de surveiller les cols menant au Piémont, notamment le col de Fenestre et le col de Cerise. En 1794, Lantosque et Belvédère sont transformés en points de passage fortifiés pour les Français, qui peinent néanmoins à progresser sur la ligne de crête de Turrini/l’Authion, tenue par le marquis Charles-François Thaon de Revel depuis sa victoire lors de la Première bataille de Saorge, en juin 1793 (du 8 au 12).
 
