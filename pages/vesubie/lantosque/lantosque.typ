@@ -34,3 +34,16 @@ Peu après, la loi du 28 pluviôse an VIII (17 février 1800) abroge le système
 À compter du 2 pluviôse an IX (22 janvier 1801), le maire assure seul l’administration de la commune. Les conseillers ne sont consultés que lorsqu’il le juge nécessaire. Ce système restera en vigueur en France jusqu’en 1867.
 
 La liste des maires de Lantosque est présentée dans le chapitre consacré aux notables de la commune.
+
+== La Seconde Guerre Mondiale
+
+Le docteur Charles Louis Valentin Passeron (1883–1944), chevalier de la Légion d’honneur et maire de Lantosque depuis 1929, s’engage résolument en faveur du régime de Vichy. 
+Il préside la section locale de la Légion française des combattants (LFC) et occupe un poste influent au sein du Parti populaire français (PPF), un parti collaborationniste.
+
+Le 24 juillet 1944, un commando de résistants venu du Brec d’Utelle exécute, au quartier du Pivol, le docteur Passeron #footnote[#link("https://www.pressreader.com/france/var-matin-brignoles-le-luc-saint-maximin/20240518/282162181322525/textview")[Les résis­tants à l’offen­sive, Var Matin du 18 mai 2024]], son épouse Paule Lucienne Seitre (1900–1944), ainsi que leur fils Jean André Joseph (1921–1944), alors étudiant en médecine #footnote[#link("https://archives06.fr/ark:/79346/ec73d64368b31715749e47b5af1e7ee022/daogrp/0/28")[2 E 550 - 1944 - 4e feuillet]].
+
+#figure(image("Place des Tilleuls, libération.jpg", width: 100%), caption: [
+    Place des Tilleuls, Libération de Lantosque, août 1944
+])
+
+À la Libération, Thomas Otho, président du comité local de libération, assure l’intérim à la tête de la commune jusqu’en avril ou mai 1945, date à laquelle François Barberis lui succède.
