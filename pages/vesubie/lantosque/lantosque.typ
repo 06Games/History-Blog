@@ -13,7 +13,7 @@ Entre 1792 et 1794, Lantosque se retrouve sur la ligne de front entre les troupe
 
 La vallée de la Vésubie devient alors un axe stratégique pour les troupes françaises, leur permettant de surveiller les cols menant au Piémont, notamment le col de Fenestre et le col de Cerise. En 1794, Lantosque et Belvédère sont transformés en points de passage fortifiés pour les Français, qui peinent néanmoins à progresser sur la ligne de crête de Turrini/l’Authion, tenue par le marquis Charles-François Thaon de Revel depuis sa victoire lors de la Première bataille de Saorge, en juin 1793 (du 8 au 12).
 
-Pendant cette période, les hameaux de Saint-Colomban et de Loda se retrouvent isolés du reste de la commune, désormais sous contrôle français. Les morts y sont enterrés sans sacrements religieux. Ces hameaux sont finalement pris lors de la Seconde bataille de Saorge, en avril 1794 (du 24 au 28), au cours de laquelle les Français reprennent le contrôle des cols, jusque-là occupés par les Sardes.
+Pendant cette période, les hameaux de Saint-Colomban et de Loda se retrouvent isolés du reste de la commune, désormais sous contrôle français. Les morts y sont enterrés sans sacrements religieux. Ces hameaux sont finalement pris lors de la Seconde bataille de Saorge, en avril 1794 (du 24 au 28), au cours de laquelle les Français prennent le contrôle des cols, jusque-là défendus par les Sardes.
 
 La résistance à l’occupation française demeure forte dans la vallée de la Vésubie, portée par les Barbets, des groupes de résistants locaux. Ces actions ne cesseront qu’au début du XIXᵉ siècle, sous l’effet de répressions sévères. Lantosque sera temporairement reprise par les troupes sardes en mai 1800, lors des guerres de la Seconde Coalition.
 
