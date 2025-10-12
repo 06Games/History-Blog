@@ -5,7 +5,7 @@
 
 = Lantosque
 
-== La Révolution française
+== La Révolution française et l'Empire (1792-1814)
 
 === La prise de Lantosque
 
@@ -37,22 +37,36 @@ La liste des maires de Lantosque est présentée dans le chapitre consacré aux 
 
 #pagebreak()
 
-== La Seconde Guerre Mondiale
+== La Seconde Guerre Mondiale (1939-1944)
+
+=== L'exécution du maire
 
 Le docteur Charles Louis Valentin Passeron (1883–1944), chevalier de la Légion d’honneur et maire de Lantosque depuis 1929, s’engage résolument en faveur du régime de Vichy. 
 Il préside la section locale de la Légion française des combattants (LFC) et occupe un poste influent au sein du Parti populaire français (PPF), un parti collaborationniste.
 
 Le 24 juillet 1944, un commando de résistants venu du Brec d’Utelle exécute, au quartier du Pivol, le docteur Passeron #footnote[#link("https://www.pressreader.com/france/var-matin-brignoles-le-luc-saint-maximin/20240518/282162181322525/textview")[Les résis­tants à l’offen­sive, Var Matin du 18 mai 2024]], son épouse Paule Lucienne Seitre (1900–1944), ainsi que leur fils Jean André Joseph (1921–1944), alors étudiant en médecine #footnote[#link("https://archives06.fr/ark:/79346/ec73d64368b31715749e47b5af1e7ee022/daogrp/0/28")[AD06, 2 E 550 - 1944 - 4e feuillet]].
 
+=== La libération
+
+En août 1944, la présence allemande dans l’arrière-pays niçois relève presque du symbole. La 148e division d’infanterie, chargée de la défense de la région, concentre l’essentiel de ses forces le long du littoral, laissant l’intérieur des terres quasi dégarni. Seules quelques garnisons isolées subsistent, comme celle de Saint-Martin-Vésubie, qui sert de poste de commandement.
+Cette division, classée comme unité de second rang, souffre d'un mauvais équipement, d'un entraînement insuffisant, et d'un taux de désertion élevé. 
+Pire encore, 70 à 80 % de ses soldats ne sont pas allemands. Ce sont principalement des Polonais et des Russes, pour qui la capture représente souvent la seule issue pour survivre à la guerre. 
+La défense du Grand Reich n’est clairement pas leur priorité, et le moral des troupes est au plus bas.
+
+Dès l’annonce du débarquement allié en Provence, le 15 août 1944, la Résistance passe à l’action.
+La garnison de Saint-Martin-Vésubie capitule dès le 16 août, suivie par les autres postes allemands, abandonnés dans les 48 heures. 
+Cette reddition éclair permet aux maquisards de s’emparer de l’ensemble du bassin du Var, au nord de Saint-Martin-du-Var#footnote(link("https://archives06.fr/data/recherches_regionales_220_2023_3.pdf")[L’arrivée des Américains sur le Var, le retrait allemand et la libération de Nice, Alain OTHO, Recherches Régionales n°220 (2023)]).
+Dans ce contexte, Lantosque est controlé par les résistants dès le 21 août, et peut-être même quelques jours plus tôt. 
+
+Thomas Otho, président du comité local de libération, assure alors la gestion de la commune#footnote(link("https://archives06.fr/ark:/79346/ec73d64368b31715749e47b5af1e7ee022/daogrp/0/29")[AD06, 2 E 550 - 1944 - 5e feuillet]). Il reste en poste jusqu’en avril ou mai 1945, date à laquelle François Barberis lui succède officiellement.
+
 #figure(image("Place des Tilleuls, libération.jpg", width: 100%), caption: [
     Place des Tilleuls, Libération de Lantosque, août 1944
 ])
 
-À la Libération, Thomas Otho, président du comité local de libération, assure l’intérim à la tête de la commune jusqu’en avril ou mai 1945, date à laquelle François Barberis lui succède.
-
 #pagebreak()
 
-== Plus récemment
+== Plus récemment (de 1945 à nos jours)
 
 En mars 1978, un glissement de terrain d’ampleur frappe le village de Lantosque. 
 L’événement provoque la destruction partielle d’une maison située à proximité immédiate de la mairie. 
