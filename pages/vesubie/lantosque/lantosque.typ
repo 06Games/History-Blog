@@ -68,6 +68,8 @@ Thomas Otho, président du comité local de libération, assure alors la gestion
 
 == Plus récemment (de 1945 à nos jours)
 
+=== Le "trou de 1978"
+
 En mars 1978, un glissement de terrain d’ampleur frappe le village de Lantosque. 
 L’événement provoque la destruction partielle d’une maison située à proximité immédiate de la mairie. 
 Les dégâts sont tels que le bâtiment doit être rasé, laissant derrière lui une cicatrice dans le paysage : un "trou" toujours visible aujourd’hui.
@@ -83,4 +85,34 @@ Les dégâts sont tels que le bâtiment doit être rasé, laissant derrière lui
 ])
 #figure(image("FRAD006_03NUM_20160318_004_img.jpg", width: 100%), caption: [
     Vue d'ensemble du village laissant apparaître le "trou de 1978", 18/03/2016 (AD06, 3 Num 20160318/4)
+])
+
+=== La tempête Alex (02 octobre 2020)
+
+Le 2 octobre 2020, la tempête Alex touche violemment les vallées de la Vésubie et de la Roya. 
+En moins d’une journée, les précipitations dépassent localement les 500 millimètres, un volume équivalent à plusieurs mois de pluie.
+Sous l’effet de ces apports exceptionnels, la Vésubie déborde de manière brutale et incontrôlable, entraînant une crue torrentielle.
+
+Les dégâts matériels sont considérables dans toute la vallée.
+Lantosque est plus épargné que les villages de la haute vallée. Les principaux dégats se concentrent à la sortie du village au niveau de Peïra-Grossa où une habitation située trop près du cours d’eau est fortement endommagée necessitant sa démolition et en face au Mirail, où la M2565 est emportée. 
+Les réseaux essentiels (eau potable, électricité, télécommunications) sont coupés. 
+En quelques heures, la commune se retrouve isolée du reste du territoire.
+
+Dans un premier temps, les secours sont assurés par les habitants eux-mêmes. 
+Rapidement, l’armée et les unités de la sécurité civile interviennent. 
+Des hélicoptères sont mobilisés pour acheminer des denrées, du matériel et évacuer certaines personnes fragiles. 
+Des engins de travaux publics sont déployés afin de rouvrir au moins partiellement les accès routiers. 
+Les jours suivants sont consacrés à la mise en place de solutions de fortune : rétablissement temporaire des réseaux, aménagement de voies provisoires et hébergement d’urgence pour les sinistrés.
+
+#columns(2, [
+    #figure(image("IMG_5764.jpg", width: 100%), caption: [
+        Le lit de la rivière (26 février 2021)
+    ])
+	#colbreak()
+    #figure(image("IMG_5789.jpg", width: 100%), caption: [
+        Les dégats au Mirail (27 février 2021)
+    ])
+])
+#figure(image("IMG_5794.jpg", width: 100%), caption: [
+    La maison éventrée au-dessous du pont du tram (27 février 2021)
 ])
