@@ -42,7 +42,23 @@ Ce n'est qu'au Moyen Âge central (XIIe-XIIIe siècles) que les traces écrites 
 
 == Les XIVe et XVe siècles
 
+=== La route du sel
 
+
+
+#figure(image("p227, Storia di Cuneo e del suo territorio : 1198-1799, Rinaldo Comba.jpg", width: 100%),  caption: [
+Les routes reliant Coni à Nice entre 1430 et 1530\
+p. 227, #underline[Storia di Cuneo e del suo territorio : 1198-1799], Rinaldo Comba
+
+#align(left)[
+A : routes déjà en service\
+B : routes ayant fait l’objet de travaux d’entretien ou de réaménagement\
+C : routes nouvellement construites ou profondément restructurées à partir de 1430\
+D : routes nouvellement construites ou profondément restructurées à partir de 1440\
+E : localités abritant un dépôt de la gabelle du sel de Nice\
+F : localités où subsistent les toponymes Pagarì, Paganin, Pagarin\
+G : autres localités]
+])
 
 == Le XVIIe siècle
 
