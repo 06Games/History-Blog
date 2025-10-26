@@ -93,8 +93,9 @@ Le 2 octobre 2020, la tempête Alex touche violemment les vallées de la Vésubi
 En moins d’une journée, les précipitations dépassent localement les 500 millimètres, un volume équivalent à plusieurs mois de pluie.
 Sous l’effet de ces apports exceptionnels, la Vésubie déborde de manière brutale et incontrôlable, entraînant une crue torrentielle.
 
-Les dégâts matériels sont considérables dans toute la vallée.
-Lantosque est plus épargné que les villages de la haute vallée. Les principaux dégats se concentrent à la sortie du village au niveau de Peïra-Grossa où une habitation située trop près du cours d’eau est fortement endommagée necessitant sa démolition et en face au Mirail, où la M2565 est emportée. 
+Les dégâts matériels sont considérables dans la haute vallée.
+Lantosque est plus épargné, les principaux dégats se concentrent à la sortie du village au niveau de Peïra-Grossa où une habitation située trop près du cours d’eau est fortement endommagée, necessitant sa démolition, et en face au Mirail, où la M2565 est emportée. 
+
 Les réseaux essentiels (eau potable, électricité, télécommunications) sont coupés. 
 En quelques heures, la commune se retrouve isolée du reste du territoire.
 
