@@ -36,6 +36,8 @@
 	[], [], [], [], []
 )
 
+#pagebreak()
+
 === Les élections municipales depuis 1860
 
 #let elec_table(two_turns: false, ..args) = table(

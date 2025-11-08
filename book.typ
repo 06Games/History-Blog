@@ -23,6 +23,7 @@
     == Le Paillon
     - #chapter(none)[Lucéram]
       - #chapter(none)[Béasse]
+      - #chapter("pages/paillon/luceram/peira-cava/peira-cava.typ")[Peïra-Cava]
   ]
 )
 
