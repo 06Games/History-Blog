@@ -21,7 +21,7 @@
     - #chapter(none)[Utelle]
       - #chapter(none)[Figaret]
     == Le Paillon
-    - #chapter(none)[Lucéram]
+    - #chapter("pages/paillon/luceram/luceram.typ")[Lucéram]
       - #chapter(none)[Béasse]
       - #chapter("pages/paillon/luceram/peira-cava/peira-cava.typ")[Peïra-Cava]
   ]

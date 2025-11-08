@@ -5,6 +5,8 @@
 
 = Lantosque
 
+#figure(caption: [Blason de la commune], image(".assets/blason.svg", width: 15%))
+
 == La Révolution française et l'Empire (1792-1814)
 
 === La prise de Lantosque
