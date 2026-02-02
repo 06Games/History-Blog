@@ -1,5 +1,5 @@
-#import "@preview/shiroa:0.2.3": *
-#import "/contrib/typst/gh-pages.typ": project, part-style
+#import "@preview/shiroa:0.3.1": *
+#import "/templates/page.typ": part-style, project
 
 #let _page-project = project
 
