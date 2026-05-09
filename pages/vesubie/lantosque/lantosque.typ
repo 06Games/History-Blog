@@ -7,6 +7,10 @@
 
 #figure(caption: [Blason de la commune], image(".assets/blason.svg", width: 15%))
 
+== L'ancien régime
+
+#highlight[Vente du Figaret à Utelle]
+
 == La Révolution française et l'Empire (1792-1814)
 
 === La prise de Lantosque
@@ -21,10 +25,10 @@ La résistance à l’occupation française demeure forte dans la vallée de la 
 
 === L'administration
 
-Durant la période révolutionnaire, Lantosque est rattaché au département des Alpes-Maritimes, créé en 1793. 
+Durant la période révolutionnaire, Lantosque est rattaché au département des Alpes-Maritimes, créé en 1793.
 Le village dépend alors du canton d’Utelle, dont il ne partage la composition qu’avec la commune d’Utelle elle-même.
 
-Il est administré par une commission municipale composée d’agents communaux élus pour deux ans au suffrage direct par les « citoyens actifs », c’est-à-dire les hommes de plus de 21 ans acquittant un impôt équivalant à trois journées de travail. 
+Il est administré par une commission municipale composée d’agents communaux élus pour deux ans au suffrage direct par les « citoyens actifs », c’est-à-dire les hommes de plus de 21 ans acquittant un impôt équivalant à trois journées de travail.
 Pour pouvoir être éligibles, les agents communaux doivent eux-mêmes s’acquitter d’un impôt correspondant à dix journées de travail.
 
 À partir de la Constitution du 5 fructidor an III (22 août 1795), des municipalités cantonales sont instaurées pour les communes de moins de 5 000 habitants. Lantosque est alors administré par la municipalité cantonale d’Utelle, au sein de laquelle sont élus un agent municipal et un adjoint.
@@ -43,7 +47,7 @@ La liste des maires de Lantosque est présentée dans le chapitre consacré aux 
 
 === L'exécution du maire
 
-Le docteur Charles Louis Valentin Passeron (1883–1944), chevalier de la Légion d’honneur et maire de Lantosque depuis 1929, s’engage résolument en faveur du régime de Vichy. 
+Le docteur Charles Louis Valentin Passeron (1883–1944), chevalier de la Légion d’honneur et maire de Lantosque depuis 1929, s’engage résolument en faveur du régime de Vichy.
 Il préside la section locale de la Légion française des combattants (LFC) et occupe un poste influent au sein du Parti populaire français (PPF), un parti collaborationniste.
 
 Le 24 juillet 1944, un commando de résistants venu du Brec d’Utelle exécute, au quartier du Pivol, le docteur Passeron #footnote[#link("https://www.pressreader.com/france/var-matin-brignoles-le-luc-saint-maximin/20240518/282162181322525/textview")[#link("/assets/Les résistants à l'offensive.jpg")[Les résis­tants à l’offen­sive], Var Matin du 18 mai 2024]], son épouse Paule Lucienne Seitre (1900–1944), ainsi que leur fils Jean André Joseph (1921–1944), alors étudiant en médecine #footnote[#link("https://archives06.fr/ark:/79346/ec73d64368b31715749e47b5af1e7ee022/daogrp/0/28")[AD06, 2 E 550 - 1944 - 4e feuillet]].
@@ -51,19 +55,19 @@ Le 24 juillet 1944, un commando de résistants venu du Brec d’Utelle exécute,
 === La libération
 
 En août 1944, la présence allemande dans l’arrière-pays niçois relève presque du symbole. La 148e division d’infanterie, chargée de la défense de la région, concentre l’essentiel de ses forces le long du littoral, laissant l’intérieur des terres quasi dégarni. Seules quelques garnisons isolées subsistent, comme celle de Saint-Martin-Vésubie, qui sert de poste de commandement.
-Cette division, classée comme unité de second rang, souffre d'un mauvais équipement, d'un entraînement insuffisant, et d'un taux de désertion élevé. 
-Pire encore, 70 à 80 % de ses soldats ne sont pas allemands. Ce sont principalement des Polonais et des Russes, pour qui la capture représente souvent la seule issue pour survivre à la guerre. 
+Cette division, classée comme unité de second rang, souffre d'un mauvais équipement, d'un entraînement insuffisant, et d'un taux de désertion élevé.
+Pire encore, 70 à 80 % de ses soldats ne sont pas allemands. Ce sont principalement des Polonais et des Russes, pour qui la capture représente souvent la seule issue pour survivre à la guerre.
 La défense du Grand Reich n’est clairement pas leur priorité, et le moral des troupes est au plus bas.
 
 Dès l’annonce du débarquement allié en Provence, le 15 août 1944, la Résistance passe à l’action.
-La garnison de Saint-Martin-Vésubie capitule dès le 16 août, suivie par les autres postes allemands, abandonnés dans les 48 heures. 
+La garnison de Saint-Martin-Vésubie capitule dès le 16 août, suivie par les autres postes allemands, abandonnés dans les 48 heures.
 Cette reddition éclair permet aux maquisards de s’emparer de l’ensemble du bassin du Var, au nord de Saint-Martin-du-Var#footnote(link("https://archives06.fr/data/recherches_regionales_220_2023_3.pdf")[L’arrivée des Américains sur le Var, le retrait allemand et la libération de Nice, Alain OTHO, Recherches Régionales n°220 (2023)]).
-Dans ce contexte, Lantosque est controlé par les résistants dès le 21 août, et peut-être même quelques jours plus tôt. 
+Dans ce contexte, Lantosque est controlé par les résistants dès le 21 août, et peut-être même quelques jours plus tôt.
 
 Thomas Otho, président du comité local de libération, assure alors la gestion de la commune#footnote(link("https://archives06.fr/ark:/79346/ec73d64368b31715749e47b5af1e7ee022/daogrp/0/29")[AD06, 2 E 550 - 1944 - 5e feuillet]). Il reste en poste jusqu’en avril ou mai 1945, date à laquelle François Barberis lui succède officiellement.
 
 #figure(image("Place des Tilleuls, libération.jpg", width: 100%), caption: [
-    Place des Tilleuls, Libération de Lantosque, août 1944
+  Place des Tilleuls, Libération de Lantosque, août 1944
 ])
 
 #pagebreak()
@@ -72,50 +76,54 @@ Thomas Otho, président du comité local de libération, assure alors la gestion
 
 === Le "trou de 1978"
 
-En mars 1978, un glissement de terrain d’ampleur frappe le village de Lantosque. 
-L’événement provoque la destruction partielle d’une maison située à proximité immédiate de la mairie. 
+En mars 1978, un glissement de terrain d’ampleur frappe le village de Lantosque.
+L’événement provoque la destruction partielle d’une maison située à proximité immédiate de la mairie.
 Les dégâts sont tels que le bâtiment doit être rasé, laissant derrière lui une cicatrice dans le paysage : un "trou" toujours visible aujourd’hui.
 
 #columns(2, [
-    #figure(image("22FI_780308005_img.jpg", width: 100%), caption: [
-        La maison éventrée par le glissement, 08/03/1978 (AD06, 22 Fi 780308005)
-    ])
-	#colbreak()
-    #figure(image("22FI_780308002_img.jpg", width: 100%), caption: [
-        Plan large du glissement Turini, 08/03/1978 (AD06, 22 Fi 780308002)
-    ])
+  #figure(image("22FI_780308005_img.jpg", width: 100%), caption: [
+    La maison éventrée par le glissement, 08/03/1978 (AD06, 22 Fi 780308005)
+  ])
+  #colbreak()
+  #figure(image("22FI_780308002_img.jpg", width: 100%), caption: [
+    Plan large du glissement Turini, 08/03/1978 (AD06, 22 Fi 780308002)
+  ])
 ])
 #figure(image("FRAD006_03NUM_20160318_004_img.jpg", width: 100%), caption: [
-    Vue d'ensemble du village laissant apparaître le "trou de 1978", 18/03/2016 (AD06, 3 Num 20160318/4)
+  Vue d'ensemble du village laissant apparaître le "trou de 1978", 18/03/2016 (AD06, 3 Num 20160318/4)
 ])
 
 === La tempête Alex (02 octobre 2020)
 
-Le 2 octobre 2020, la tempête Alex touche violemment les vallées de la Vésubie et de la Roya. 
+Le 2 octobre 2020, la tempête Alex touche violemment les vallées de la Vésubie et de la Roya.
 En moins d’une journée, les précipitations dépassent localement les 500 millimètres, un volume équivalent à plusieurs mois de pluie.
 Sous l’effet de ces apports exceptionnels, la Vésubie déborde de manière brutale et incontrôlable, entraînant une crue torrentielle.
 
 Les dégâts matériels sont considérables dans la haute vallée.
-Lantosque est plus épargné, les principaux dégats se concentrent à la sortie du village au niveau de Peïra-Grossa où une habitation située trop près du cours d’eau est fortement endommagée, necessitant sa démolition, et en face au Mirail, où la M2565 est emportée. 
+Lantosque est plus épargné, les principaux dégats se concentrent à la sortie du village au niveau de Peïra-Grossa où une habitation située trop près du cours d’eau est fortement endommagée, necessitant sa démolition, et en face au Mirail, où la M2565 est emportée.
 
-Les réseaux essentiels (eau potable, électricité, télécommunications) sont coupés. 
+Les réseaux essentiels (eau potable, électricité, télécommunications) sont coupés.
 En quelques heures, la commune se retrouve isolée du reste du territoire.
 
-Dans un premier temps, les secours sont assurés par les habitants eux-mêmes. 
-Rapidement, l’armée et les unités de la sécurité civile interviennent. 
-Des hélicoptères sont mobilisés pour acheminer des denrées, du matériel et évacuer certaines personnes fragiles. 
-Des engins de travaux publics sont déployés afin de rouvrir au moins partiellement les accès routiers. 
+Dans un premier temps, les secours sont assurés par les habitants eux-mêmes.
+Rapidement, l’armée et les unités de la sécurité civile interviennent.
+Des hélicoptères sont mobilisés pour acheminer des denrées, du matériel et évacuer certaines personnes fragiles.
+Des engins de travaux publics sont déployés afin de rouvrir au moins partiellement les accès routiers.
 Les jours suivants sont consacrés à la mise en place de solutions de fortune : rétablissement temporaire des réseaux, aménagement de voies provisoires et hébergement d’urgence pour les sinistrés.
 
 #columns(2, [
-    #figure(image("IMG_5764.jpg", width: 100%), caption: [
-        Le lit de la rivière (26 février 2021)
-    ])
-	#colbreak()
-    #figure(image("IMG_5789.jpg", width: 100%), caption: [
-        Les dégats au Mirail (27 février 2021)
-    ])
+  #figure(image("IMG_5764.jpg", width: 100%), caption: [
+    Le lit de la rivière (26 février 2021)
+  ])
+  #colbreak()
+  #figure(image("IMG_5789.jpg", width: 100%), caption: [
+    Les dégats au Mirail (27 février 2021)
+  ])
 ])
 #figure(image("IMG_5794.jpg", width: 100%), caption: [
-    La maison éventrée au-dessous du pont du tram (27 février 2021)
+  La maison éventrée au-dessous du pont du tram (27 février 2021)
 ])
+
+=== La destruction de l’îlot de la Madonette
+
+#highlight[TODO]

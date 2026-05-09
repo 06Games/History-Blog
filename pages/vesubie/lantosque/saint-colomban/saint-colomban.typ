@@ -9,13 +9,17 @@ Saint-Colomban est un hameau de Lantosque, situé à 725 mètres d'altitude.
 
 Les premiers peuplements de Saint-Colomban remonterait au VIIe siècle selon la mairie de Lantosque #footnote[https://www.lantosque.fr/commune/histoire-et-patrimoine/], mais je n'ai pu trouver de source pour le confirmer.
 
-Les habitations sont décrites comme en ruine dans un texte datant de 1250. (date à affiner)
+Les habitations sont décrites comme en ruine dans un texte datant de 1250. #highlight[date à affiner à partir du livre]
+
+#highlight[Vue aérienne années 50]
 
 == Les écarts
 
 Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou et Camari. Il existe également des écarts dorénavant abandonnés, comme la Couala de Guillerm _(La Colle)_ et Béasse sur la commune de Lucéram.
 
 Les terrains de la Colle ont récemment été racheté par les Allari de Gorblaou qui ont entrepris des travaux de  restauration des granges ainsi que la création d'une piste à partir de la "Piste des Chasseurs" à Camari.
+
+#highlight[Dire que Béasse a été construit au tout début du XVIIe siècle par les Ciais. Parler du recensement de 1718.]
 
 #columns(2, [
   #figure(image("saint-colomban dessus.jpg", width: 100%), caption: [
@@ -95,6 +99,8 @@ Une plaque commémorative rendant hommage aux habitants morts pour la France est
 
 On prêtait aux cloches de Saint-Colomban le don d'éloigner les orages. #footnote[Un #link("/assets/RMC - Cloches de St Colomban.m4a")[reportage RMC] en relate]
 
+#highlight[Parler du presbytère]
+
 == Les cafés et buvettes
 
 Sur le chemin de la Gleya, dans la ruelle descendant à la place, on peut encore voir sur le haut d'une porte à droite en descendant l'enseigne d'un ancien café restaurant tenu par François et Philippine Thaon.
@@ -111,9 +117,13 @@ Sur le chemin de la Gleya, dans la ruelle descendant à la place, on peut encore
 
 Une buvettes était présente au quartier du Coulet dans la maison à droite de la placette.
 
+#highlight[Photo rené]
+
 == Les fours
 
 Il y avait 3 fours, un au Coulet à Saint-Colomban, un à l'entrée du hameau de Camari et un dernier, en sorti de Béasse.
+
+#highlight[Photos]
 
 #pagebreak()
 
@@ -138,6 +148,8 @@ Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - C
 ])
 
 == La route
+
+#highlight[Parler des anciens chemins et de ce qu'il en reste]
 
 Le pont au dessus de la Vésubie a été construit au alentours de 1883.
 
@@ -185,3 +197,15 @@ Tous les été, un festin est réalisé sur la place devant l'église.
 
 Les rambardes autour de la place et le "balcon" pour les musiciens (ou plus récemment le D.J.) ont été réalisés par Jean Robini.
 L'eau était fournis par les Robini, détenant la maison attenante à la place.
+
+== La population
+
+#highlight[Ressortir mes études démographiques]
+
+== Le bâti
+
+#highlight[Réaliser une carte avec les dates de construction]
+
+== L'agriculture
+
+#highlight[TODO]
