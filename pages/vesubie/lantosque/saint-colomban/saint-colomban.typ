@@ -16,45 +16,50 @@ Les habitations sont décrites comme en ruine dans un texte datant de 1250. (dat
 Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou et Camari. Il existe également des écarts dorénavant abandonnés, comme la Couala de Guillerm _(La Colle)_ et Béasse sur la commune de Lucéram.
 
 #columns(2, [
-	#figure(image("saint-colomban dessus.jpg", width: 100%),  caption: [
-		Saint-Colomban vu du dessus
-	])
-	#colbreak()
-	#figure(image("saint-colomban face.jpg", width: 100%),  caption: [
-		Saint-Colomban vu d'en face
-	])
+  #figure(image("saint-colomban dessus.jpg", width: 100%), caption: [
+    Saint-Colomban vu du dessus
+  ])
+  #colbreak()
+  #figure(image("saint-colomban face.jpg", width: 100%), caption: [
+    Saint-Colomban vu d'en face
+  ])
 ])
 
 #columns(2, [
-	#figure(image("gorblaou.jpg", width: 100%),  caption: [
-		Gorbloau
-	])
-	#colbreak()
-	#figure(image("camari.jpg", width: 100%),  caption: [
-		Camari
-	])
+  #figure(image("gorblaou.jpg", width: 100%), caption: [
+    Gorbloau
+  ])
+  #colbreak()
+  #figure(image("camari.jpg", width: 100%), caption: [
+    Camari
+  ])
 ])
 
 #columns(2, [
-	#figure(image("la colle.jpg", width: 100%),  caption: [
-		La Couala de Guillerm
-	])
-	#colbreak()
-	#figure(image("la colle 2.jpg", width: 100%),  caption: [
-		La Couala de Guillerm
-	])
+  #figure(image("la colle.jpg", width: 100%), caption: [
+    La Couala de Guillerm
+  ])
+  #colbreak()
+  #figure(image("la colle 2.jpg", width: 100%), caption: [
+    La Couala de Guillerm
+  ])
 ])
 
 #columns(2, [
-	#figure(image("beasse-avant.jpg", width: 100%),  caption: [
-		Beasse autrefois
-	])
-	#colbreak()
-	#figure(image("beasse-ajd.jpg", width: 100%),  caption: [
-		Beasse de nos jours
-		#link("https://maps.app.goo.gl/eeaLHk77rb2eL56n8")[Laurent planson crequer]
-	])
+  #figure(image("beasse-avant.jpg", width: 100%), caption: [
+    Beasse autrefois
+  ])
+  #colbreak()
+  #figure(image("beasse-ajd.jpg", width: 100%), caption: [
+    Beasse de nos jours
+    #link("https://maps.app.goo.gl/eeaLHk77rb2eL56n8")[Laurent planson crequer]
+  ])
 ])
+
+#figure(
+  image("carte_postale_coulet.webp", width: 100%),
+  caption: [Carte postale au dessus du Coulet (quartier de Saint-Colomban)],
+)
 
 == L'église
 
@@ -66,23 +71,43 @@ Les matériaux nécessaires à sa construction auraient été transportés pierr
 
 Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des travaux de rénovation vers 1915, à la suite d'un incendie accidentel ayant détruit l'autel, puis à nouveau en 1933. La facade fut refaite par la mairie durant les années 2010.
 
+#figure(caption: [Le maître-autel de l'Église avant l'incendie de 1915], columns(2)[
+  #image("eglise_maitre_autel_bef-1915.jpg", width: 100%)
+  #colbreak()
+  #image("eglise_maitre_autel_bef-1915_verso.jpg", width: 100%)
+])
+
+#columns(2)[
+  #figure(
+    caption: [Photo réalisée au Polaroid (s.d.)],
+    image("eglise_polaroid_s.d..jpg"),
+  )
+  #colbreak()
+  #figure(
+    caption: [L'Église de nos jours (2026-05-08)],
+    image("eglise_2026-05-08.jpg"),
+  )
+]
+
 Une plaque commémorative rendant hommage aux habitants morts pour la France est apposée sur le mur gauche à l'entrée.
 
 On prêtait aux cloches de Saint-Colomban le don d'éloigner les orages. #footnote[Un #link("/assets/RMC - Cloches de St Colomban.m4a")[reportage RMC] en relate]
 
-== Le café restaurant
+== Les cafés et buvettes
 
 Sur le chemin de la Gleya, dans la ruelle descendant à la place, on peut encore voir sur le haut d'une porte à droite en descendant l'enseigne d'un ancien café restaurant tenu par François et Philippine Thaon.
 
 #columns(2, [
-	#figure(image("chemin_de_la_gleya_ruelle.jpg", width: 100%),  caption: [
-		La ruelle descendant à la place
-	])
-	#colbreak()
-	#figure(image("chemin_de_la_gleya_bar.jpg", width: 100%),  caption: [
-		L'enseigne du café restaurant de la place
-	])
+  #figure(image("chemin_de_la_gleya_ruelle.jpg", width: 100%), caption: [
+    La ruelle descendant à la place
+  ])
+  #colbreak()
+  #figure(image("chemin_de_la_gleya_bar.jpg", width: 100%), caption: [
+    L'enseigne du café restaurant de la place
+  ])
 ])
+
+Une buvettes était présente au quartier du Coulet dans la maison à droite de la placette.
 
 == Les fours
 
@@ -101,11 +126,53 @@ L'école de Saint-Colomban ferma à son tour et fut reconvertie en gite. Puis, l
 Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - Compte rendu conseil municipal 2016-10-17.pdf")[17/10/2016]], l'ancienne école de Saint-Colomban servait de bureau de vote lors des élections. Dorénavant, les électeurs de Saint-Colomban et Loda votent à Lantosque dans la salle Gilbert Gaglio.
 
 #columns(2, [
-	#figure(image("ecole-1930.jpg", width: 100%), caption: [
-		Les enfants à l'école de Saint-Colomban en 1930 (col. Emma Robini)
-	])
-	#colbreak()
-	#figure(image("ecole-1930-noms.jpg", width: 100%), caption: [
-		Photographie annotée avec le nom des enfants (réalisée pour une exposition)
-	])
+  #figure(image("ecole-1930.jpg", width: 100%), caption: [
+    Les enfants à l'école de Saint-Colomban en 1930 (col. Emma Robini)
+  ])
+  #colbreak()
+  #figure(image("ecole-1930-noms.jpg", width: 100%), caption: [
+    Photographie annotée avec le nom des enfants (réalisée pour une exposition)
+  ])
 ])
+
+== La route
+
+Le pont au dessus de la Vésubie a été construit au alentours de 1883.
+
+#figure(
+  caption: [Les Travaux Publics de la France - Défilé de Lantosque (1883)],
+  image("Les Travaux Publics de la France - Défilé de Lantosque (1883).jpg"),
+)
+
+La première croix en vue de Saint-Colomban date de 1892 et à été restaurée par Jean Robini, mon arrière-grand-père, en 1992.
+
+La construction de la route du cimetière a été faite sous l'impulsion de ce même Jean Robini en 1978, faisant alors partie du conseil municipal. A cette occasion les arbres à droite en arrivant au cimetière ont été plantés. Il souhaitait faire continuer la route à partir du chateau d'eau jusqu'aux maisons de la Gleya, mais les propriétaires des terrains à traverser n'ont pas voulu céder. Il y a dorénavant une antenne Bouygues Telecom à l'emplacement où aurait commencé cette route.
+
+La piste des Maurins a été réalisée sous la municipalité Jean Thaon, Jean Robini, qui n'était alors plus au conseil, servi de médiateur pour négocier la cession des terrains necessaires. Il fut d'ailleurs un des principal contributeur. Des murs ont été construit sur cette même piste aux alentours de 2001.
+
+Un éboulement était survenu (à une date que je ne saurais donner) au tout début de la route de Saint-Colomban. Une grue avait alors été mise en place et à servie à libérer les véhicules pris au piège en amont.
+
+#figure(
+  caption: [Grutage d'un véhicule suite au blocage de la route],
+  image("eboulement_rte_st_col_grue.jpg", height: 12cm),
+)
+
+== Le festin
+
+Tous les été, un festin est réalisé sur la place devant l'église.
+
+#figure(
+  caption: [Bons d'entrée pour le bal de septembre 1936],
+  columns(2, [
+    #image("festin_bons_1936_hommes.jpg")
+    #colbreak()
+    #image("festin_bons_1936_femmes.jpg")
+  ]),
+)
+
+#figure(
+  caption: [Discours avant le festin en Juillet 1991],
+  image("festin_juillet-1991.jpg"),
+)
+
+Les rambardes autour de la place et le "balcon" pour les musiciens (ou plus récemment le D.J.) ont été réalisés par Jean Robini.
