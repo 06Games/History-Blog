@@ -15,6 +15,8 @@ Les habitations sont décrites comme en ruine dans un texte datant de 1250. (dat
 
 Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou et Camari. Il existe également des écarts dorénavant abandonnés, comme la Couala de Guillerm _(La Colle)_ et Béasse sur la commune de Lucéram.
 
+Les terrains de la Colle ont récemment été racheté par les Allari de Gorblaou qui ont entrepris des travaux de  restauration des granges ainsi que la création d'une piste à partir de la "Piste des Chasseurs" à Camari.
+
 #columns(2, [
   #figure(image("saint-colomban dessus.jpg", width: 100%), caption: [
     Saint-Colomban vu du dessus
@@ -146,16 +148,22 @@ Le pont au dessus de la Vésubie a été construit au alentours de 1883.
 
 La première croix en vue de Saint-Colomban date de 1892 et à été restaurée par Jean Robini, mon arrière-grand-père, en 1992.
 
-La construction de la route du cimetière a été faite sous l'impulsion de ce même Jean Robini en 1978, faisant alors partie du conseil municipal. A cette occasion les arbres à droite en arrivant au cimetière ont été plantés. Il souhaitait faire continuer la route à partir du chateau d'eau jusqu'aux maisons de la Gleya, mais les propriétaires des terrains à traverser n'ont pas voulu céder. Il y a dorénavant une antenne Bouygues Telecom à l'emplacement où aurait commencé cette route.
+La construction de la route du cimetière a été faite sous l'impulsion de ce même Jean Robini en 1978, faisant alors partie du conseil municipal. A cette occasion les arbres à droite en arrivant au cimetière ont été plantés. Il souhaitait faire continuer la route à partir du chateau d'eau jusqu'aux maisons de la Gleya, mais les propriétaires des terrains à traverser n'ont pas voulu les céder. Il y a dorénavant une antenne Bouygues Telecom à l'emplacement où aurait commencé cette route.
 
-La piste des Maurins a été réalisée sous la municipalité Jean Thaon, Jean Robini, qui n'était alors plus au conseil, servi de médiateur pour négocier la cession des terrains necessaires. Il fut d'ailleurs un des principal contributeur. Des murs ont été construit sur cette même piste aux alentours de 2001.
+La piste des Maurins a été réalisée sous la municipalité Jean Thaon. Jean Robini, qui n'était alors plus au conseil, servi de médiateur pour négocier la cession des terrains necessaires. Il fut d'ailleurs un des principaux contributeurs. Des murs ont été construit sur cette même piste aux alentours de 2001.
 
-Un éboulement était survenu (à une date que je ne saurais donner) au tout début de la route de Saint-Colomban. Une grue avait alors été mise en place et à servie à libérer les véhicules pris au piège en amont.
+Un éboulement était survenu (à une date que je ne saurais donner) au tout début de la route de Saint-Colomban. Une grue avait alors été mise en place et a servie à libérer les véhicules pris au piège en amont.
 
 #figure(
   caption: [Grutage d'un véhicule suite au blocage de la route],
   image("eboulement_rte_st_col_grue.jpg", height: 12cm),
 )
+
+== L'eau
+
+Un canal d'irrigation partant la forêt de la Maïris et allant jusqu'à Saint-Colomban servait à arroser les champs.
+
+Le vallon de Saint-Colomban dispose de plusieurs launes (dont la laune de l'Eléphant aux Oules et la laune du diable aux Maurins) où il était possible de se baigner. La baignade est dorénavant interdite par arrêté municipal dans l'entièreté du vallon.
 
 == Le festin
 
@@ -171,8 +179,9 @@ Tous les été, un festin est réalisé sur la place devant l'église.
 )
 
 #figure(
-  caption: [Discours avant le festin en Juillet 1991],
+  caption: [Discours durant le festin de Juillet 1991],
   image("festin_juillet-1991.jpg"),
 )
 
 Les rambardes autour de la place et le "balcon" pour les musiciens (ou plus récemment le D.J.) ont été réalisés par Jean Robini.
+L'eau était fournis par les Robini, détenant la maison attenante à la place.
