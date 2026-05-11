@@ -75,7 +75,7 @@ L'édifice actuel, dédié à Saint-Étienne, fut achevé en 1844. Il est resté
 
 Les matériaux nécessaires à sa construction auraient été transportés pierre par pierre depuis la vallée de la Vésubie. Leur quantité était telle que la maison en face, dite "des Thaons" – qui abritait un bar au siècle dernier –, aurait été construite avec les pierres excédentaires.
 
-Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des travaux de rénovation vers 1915, à la suite d'un incendie accidentel ayant détruit l'autel, puis à nouveau en 1933. La facade fut refaite par la mairie durant les années 2010.
+Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des travaux de rénovation vers 1915, à la suite d'un incendie accidentel ayant détruit l'autel, puis à nouveau en 1933. La facade fut refaite par la mairie durant les années 2010 (entre 2012 et 2019).
 
 #figure(caption: [Le maître-autel de l'Église avant l'incendie de 1915], columns(2)[
   #image("eglise_maitre_autel_bef-1915.jpg", width: 100%)
