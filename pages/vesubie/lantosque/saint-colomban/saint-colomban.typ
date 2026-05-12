@@ -7,9 +7,11 @@
 
 Saint-Colomban est un hameau de Lantosque, situé à 725 mètres d'altitude.
 
-Les premiers peuplements de Saint-Colomban remonterait au VIIe siècle selon la mairie de Lantosque #footnote[https://www.lantosque.fr/commune/histoire-et-patrimoine/], mais je n'ai pu trouver de source pour le confirmer.
+Les premiers peuplements de Saint-Colomban remonterait au VIIe siècle selon la mairie de Lantosque #footnote(link("https://www.lantosque.fr/commune/histoire-et-patrimoine/")[Lantosque : Histoire et patrimoine]), mais je n'ai pu trouver de source pour le confirmer.
 
-Les habitations sont décrites comme en ruine dans un texte datant de 1250. #highlight[date à affiner à partir du livre]
+Le hameau est mentionné dans le cartulaire de la cathédrale de Nice au XIIe siècle#footnote(link("https://gallica.bnf.fr/ark:/12148/bpt6k59258/f447.item")[Pouillés des provinces d'Aix, d'Arles et d'Embrun, publiés, sous la direction de M. Maurice Prou membre de l'Académie, par M. Étienne Clouzot archiviste paléographe auxiliaire de l'Académie, p278]).
+
+Les habitations sont décrites comme en ruine dans le registre d'"État des droits et revenus du comte Charles 1#super[er] en Provence" datant de 1252 #footnote[#link("https://odyssee.univ-amu.fr/files/original/1/532/FR_MMSH_MDQ_PRJ_MG_004.pdf")[Enquêtes sur les droits et revenus de Charles Ier d'Anjou en Provence (1252 et 1278) par Edouard Baratier] : #text(lang: "la", style: "italic")["San Columbar est castrum dirrutum, cujus territorium tenent homines de Lantoscha."] --- Saint-Colomban est un site fortifié en ruines, dont le territoire est tenu par les hommes de Lantosque.].
 
 #highlight[Vue aérienne années 50]
 
