@@ -23,7 +23,7 @@ Les terrains de la Colle ont récemment été racheté par les Allari de Gorblao
 
 #highlight[Dire que Béasse a été construit au tout début du XVIIe siècle par les Ciais. Parler du recensement de 1718.]
 
-#columns(2, [
+#box(columns(2, [
   #figure(image("saint-colomban dessus.jpg", width: 100%), caption: [
     Saint-Colomban vu du dessus
   ])
@@ -31,9 +31,9 @@ Les terrains de la Colle ont récemment été racheté par les Allari de Gorblao
   #figure(image("saint-colomban face.jpg", width: 100%), caption: [
     Saint-Colomban vu d'en face
   ])
-])
+]))
 
-#columns(2, [
+#box(columns(2, [
   #figure(image("gorblaou.jpg", width: 100%), caption: [
     Gorbloau
   ])
@@ -41,9 +41,9 @@ Les terrains de la Colle ont récemment été racheté par les Allari de Gorblao
   #figure(image("camari.jpg", width: 100%), caption: [
     Camari
   ])
-])
+]))
 
-#columns(2, [
+#box(columns(2, [
   #figure(image("la colle.jpg", width: 100%), caption: [
     La Couala de Guillerm
   ])
@@ -51,9 +51,9 @@ Les terrains de la Colle ont récemment été racheté par les Allari de Gorblao
   #figure(image("la colle 2.jpg", width: 100%), caption: [
     La Couala de Guillerm
   ])
-])
+]))
 
-#columns(2, [
+#box(columns(2, [
   #figure(image("beasse-avant.jpg", width: 100%), caption: [
     Beasse autrefois
   ])
@@ -62,11 +62,11 @@ Les terrains de la Colle ont récemment été racheté par les Allari de Gorblao
     Beasse de nos jours
     #link("https://maps.app.goo.gl/eeaLHk77rb2eL56n8")[Laurent planson crequer]
   ])
-])
+]))
 
 #figure(
   image("carte_postale_coulet.webp", width: 100%),
-  caption: [Carte postale au dessus du Coulet (quartier de Saint-Colomban)],
+  caption: [Carte postale montrant la vue depuis la route sur le dessus du Coulet (quartier de Saint-Colomban)],
 )
 
 == La religion
@@ -90,7 +90,7 @@ Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des tr
   #image("eglise_maitre_autel_bef-1915_verso.png", width: 100%)
 ])
 
-#columns(2)[
+#box(columns(2)[
   #figure(
     caption: [L'église sous la neige (2011-01-30)],
     image("eglise_neige_2011-01-30.jpg"),
@@ -100,9 +100,9 @@ Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des tr
     caption: [Une cloche (2010-10-30)],
     image("eglise_cloche_2010-10-30.jpg"),
   )
-]
+])
 
-#columns(2)[
+#box(columns(2)[
   #figure(
     caption: [L'église vue de derrière (2011-04-25)],
     image("eglise_derrière_2011-04-25.jpg"),
@@ -112,9 +112,9 @@ Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des tr
     caption: [Le ravalement (2013-08-13)],
     image("eglise_ravalement_2013-08-13.jpg"),
   )
-]
+])
 
-#columns(3)[
+#box(columns(3)[
   #figure(
     caption: [Photo réalisée au Polaroid (s.d.)],
     image("eglise_polaroid_s.d..jpg"),
@@ -129,7 +129,7 @@ Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des tr
     caption: [L'église de nos jours (2026-05-08)],
     image("eglise_2026-05-08.jpg"),
   )
-]
+])
 
 Une plaque commémorative rendant hommage aux habitants morts pour la France est apposée sur le mur gauche à l'entrée.
 
@@ -137,11 +137,13 @@ On prêtait aux cloches de Saint-Colomban le don d'éloigner les orages. #footno
 
 #highlight[Parler du presbytère]
 
+Le cimetière semble avoir été installé là où il se situe actuellement, entre 1808 et 1874.
+
 == Les cafés et buvettes
 
 Sur le chemin de la Gleya, dans la ruelle descendant à la place, on peut encore voir sur le haut d'une porte à droite en descendant l'enseigne d'un ancien café restaurant tenu par François et Philippine Thaon.
 
-#columns(2, [
+#box(columns(2, [
   #figure(image("chemin_de_la_gleya_ruelle.jpg", width: 100%), caption: [
     La ruelle descendant à la place
   ])
@@ -149,7 +151,7 @@ Sur le chemin de la Gleya, dans la ruelle descendant à la place, on peut encore
   #figure(image("chemin_de_la_gleya_bar.jpg", width: 100%), caption: [
     L'enseigne du café restaurant de la place
   ])
-])
+]))
 
 Une buvettes était présente au quartier du Coulet dans la maison à droite de la placette.
 
@@ -169,11 +171,11 @@ Une école fut construite au dessus du quartier du Coulet à Saint-Colomban en 1
 Les enfants de Béasse montaient et descendaient chaque jour à l'école de Saint-Colomban, ce qui représente environ trois quarts d'heure de marche.
 Par la suite, une école y fut ouverte. Mais face à un exode rapide de la population de Béasse, elle fut contrainte de fermer, son nombre d'élève passant de 17 enfants en 1917 à seulement 3 en 1922, année de sa fermeture.
 
-L'école de Saint-Colomban ferma à son tour et fut reconvertie en gite. Puis, le gite fut contrait de fermer dans les années 2010 suite à une changement des normes en matière d'accessibilité, qui auraient nécessité des travaux, ce que la mairie n'a pas souhaité faire.
+L'école de Saint-Colomban ferma à son tour en 19xx et fut reconvertie en gite. Puis, le gite fut contrait de fermer dans les années 2010 suite à une changement des normes en matière d'accessibilité, qui auraient nécessité des travaux, ce que la mairie n'a pas souhaité faire.
 
 Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - Compte rendu conseil municipal 2016-10-17.pdf")[17/10/2016]], l'ancienne école de Saint-Colomban servait de bureau de vote lors des élections. Dorénavant, les électeurs de Saint-Colomban et Loda votent à Lantosque dans la salle Gilbert Gaglio.
 
-#columns(2, [
+#box(columns(2, [
   #figure(image("ecole-1930.jpg", width: 100%), caption: [
     Les enfants à l'école de Saint-Colomban en 1930 (col. Emma Robini)
   ])
@@ -181,35 +183,40 @@ Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - C
   #figure(image("ecole-1930-noms.jpg", width: 100%), caption: [
     Photographie annotée avec le nom des enfants (réalisée pour une exposition)
   ])
-])
+]))
 
 == La route
 
 #highlight[Parler des anciens chemins et de ce qu'il en reste]
 
-Le pont au dessus de la Vésubie a été construit au alentours de 1883.
+#box[
+  Le pont au dessus de la Vésubie a été construit au alentours de 1883.
 
-#figure(
-  caption: [Les Travaux Publics de la France - Défilé de Lantosque (1883)],
-  image("Les Travaux Publics de la France - Défilé de Lantosque (1883).jpg"),
-)
+  #figure(
+    caption: [Les Travaux Publics de la France - Défilé de Lantosque (1883)],
+    image("Les Travaux Publics de la France - Défilé de Lantosque (1883).jpg"),
+  )
+]
 
-La première croix en vue de Saint-Colomban date de 1892 et à été restaurée par Jean Robini, mon arrière-grand-père, en 1992.
+La première croix en vue de Saint-Colomban date de 1892 et à été restaurée par Jean-Marie Robini, mon arrière-grand-père, en 1992.
+
+#box[
+  Un éboulement était survenu (à une date que je ne saurais donner) au tout début de la route de Saint-Colomban en arrivant de Lantosque. Une grue avait alors été mise en place et a servie à libérer les véhicules pris au piège en amont.
+
+  #figure(
+    caption: [Grutage d'un véhicule suite au blocage de la route],
+    image("eboulement_rte_st_col_grue.jpg", width: 50%),
+  )
+]
 
 La route de Saint-Colomban à Camari (alors "Chemin vicinal n°5") a été construite entre 1862 et 1902#footnote(link("https://archives06.fr/ark:/79346/1161783.2481726")[A.D.A.M. : E-dépôt 78 4 O 20 -- Chemin vicinal n°5 "de Saint-Colomban" (du vallon de Guillerme au hameau de Camari).- Construction, classement : instructions préfectorales, rapports de l'agent-voyer, soumission, adjudication, correspondance.]) #footnote(link("https://archives06.fr/ark:/79346/1159169.2481261")[A.D.A.M. : E-dépôt 78 4 D 10 -- Procès de Louis Borriglione contre la commune pour occupation abusive d'un terrain lui appartenant, lors de la construction du chemin vicinal n° 5 à Saint-Colomban : correspondance.]).
 
 La piste de la Maïris date quant à elle de 1922-1926#footnote(link("https://archives06.fr/ark:/79346/1161833.2481733")[A.D.A.M. : E-dépôt 78 4 O 27 -- Chemin rural de Camari à la Maïris, construction : plan, profils, devis, état parcellaire, mémoire explicatif; acte de constitution d'une association syndicale libre, délibérations, correspondance.]).
 
-La construction de la route du cimetière a été faite sous l'impulsion de ce même Jean Robini en 1978, faisant alors partie du conseil municipal. A cette occasion les arbres à droite en arrivant au cimetière ont été plantés. Il souhaitait faire continuer la route à partir du chateau d'eau jusqu'aux maisons de la Gleya, mais les propriétaires des terrains à traverser n'ont pas voulu les céder. Il y a dorénavant une antenne Bouygues Telecom à l'emplacement où aurait commencé cette route.
+La construction de la route du cimetière a été faite sous l'impulsion de Jean-Marie Robini en 1978, faisant alors partie du conseil municipal. A cette occasion les arbres à droite en arrivant au cimetière ont été plantés. Le cyprès à gauche en montant la route, un peu avant d'arriver au chateau d'eau, a été planté ultérieurement par son épouse Emma Robini.\
+Jean souhaitait faire continuer la route à partir du chateau d'eau jusqu'aux maisons de la Gleya, mais les propriétaires des terrains à traverser n'ont pas voulu les céder. Il y a dorénavant une antenne Bouygues Telecom à l'emplacement où aurait commencé cette route.
 
-La piste des Maurins a été réalisée sous la municipalité Jean Thaon. Jean Robini, qui n'était alors plus au conseil, servi de médiateur pour négocier la cession des terrains necessaires. Il fut d'ailleurs un des principaux contributeurs. Des murs ont été construit sur cette même piste aux alentours de 2001.
-
-Un éboulement était survenu (à une date que je ne saurais donner) au tout début de la route de Saint-Colomban. Une grue avait alors été mise en place et a servie à libérer les véhicules pris au piège en amont.
-
-#figure(
-  caption: [Grutage d'un véhicule suite au blocage de la route],
-  image("eboulement_rte_st_col_grue.jpg", width: 50%),
-)
+La piste des Maurins a été réalisée sous la municipalité Jean Thaon. Jean Robini, qui n'était alors plus au conseil, servi de médiateur pour négocier la cession des terrains necessaires. Il fut d'ailleurs un des principaux contributeurs terrien. Des murs ont été construit sur cette même piste aux alentours de 2001.
 
 == L'eau
 
@@ -243,6 +250,7 @@ L'eau était fournis par les Robini, détenant la maison attenante à la place.
 
 == La population
 
+#figure(caption: [Evolution de la population de Saint-Colomban et de ses écarts], image("demographie.png"))
 
 #figure(caption: [Population recensée à Saint-Colomban et dans ses écarts])[
   #let demographie = csv("demographie.csv")
@@ -268,11 +276,9 @@ L'eau était fournis par les Robini, détenant la maison attenante à la place.
   )
 ]
 
-#figure(caption: [Evolution de la population de Saint-Colomban et de ses écarts], image("demographie.png"))
-
 == Le bâti
 
-#highlight[Réaliser une carte avec les dates de construction]
+#link("https://www.google.com/maps/d/view?mid=1rW6JkY7RSwRCz1u5rN-LxLbp1iK0FFE&usp=sharing")
 
 == L'agriculture
 
