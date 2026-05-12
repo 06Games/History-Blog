@@ -230,7 +230,32 @@ L'eau était fournis par les Robini, détenant la maison attenante à la place.
 
 == La population
 
-#highlight[Ressortir mes études démographiques]
+
+#figure(caption: [Population recensée à Saint-Colomban et dans ses écarts])[
+  #let demographie = csv("demographie.csv")
+  #let header-data = demographie.at(0)
+  #let body-data = demographie.slice(1)
+
+  #show table.cell: set text(size: .8em, hyphenate: false)
+  #show table.cell: set par(justify: false)
+  #show table.cell.where(y: 0): it => {
+    set text(weight: "bold", size: 1.1em)
+    if it.x > 2 {
+      align(center + horizon, rotate(-75deg, reflow: true, it))
+    } else {
+      it
+    }
+  }
+
+  #table(
+    columns: (25%, 25%, 15%, 1fr, 1fr, 1fr, 1fr, 1fr),
+    align: horizon + center,
+    table.header(..header-data),
+    ..body-data.flatten(),
+  )
+]
+
+#figure(caption: [Evolution de la population de Saint-Colomban et de ses écarts], image("demographie.png"))
 
 == Le bâti
 
