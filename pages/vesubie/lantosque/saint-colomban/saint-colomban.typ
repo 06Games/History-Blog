@@ -75,22 +75,51 @@ L'édifice actuel, dédié à Saint-Étienne, fut achevé en 1844. Il est resté
 
 Les matériaux nécessaires à sa construction auraient été transportés pierre par pierre depuis la vallée de la Vésubie. Leur quantité était telle que la maison en face, dite "des Thaons" – qui abritait un bar au siècle dernier –, aurait été construite avec les pierres excédentaires.
 
-Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des travaux de rénovation vers 1915, à la suite d'un incendie accidentel ayant détruit l'autel, puis à nouveau en 1933. La facade fut refaite par la mairie durant les années 2010 (entre 2012 et 2019).
+Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des travaux de rénovation vers 1915, à la suite d'un incendie accidentel ayant détruit l'autel, puis à nouveau en 1933. La facade fut refaite par la mairie en août 2013.
 
-#figure(caption: [Le maître-autel de l'Église avant l'incendie de 1915], columns(2)[
-  #image("eglise_maitre_autel_bef-1915.jpg", width: 100%)
+#figure(caption: [Le maître-autel de l'église avant l'incendie de 1915], columns(2)[
+  #image("eglise_maitre_autel_bef-1915.png", width: 100%)
   #colbreak()
-  #image("eglise_maitre_autel_bef-1915_verso.jpg", width: 100%)
+  #image("eglise_maitre_autel_bef-1915_verso.png", width: 100%)
 ])
 
 #columns(2)[
+  #figure(
+    caption: [L'église sous la neige (2011-01-30)],
+    image("eglise_neige_2011-01-30.jpg"),
+  )
+  #colbreak()
+  #figure(
+    caption: [Une cloche (2010-10-30)],
+    image("eglise_cloche_2010-10-30.jpg"),
+  )
+]
+
+#columns(2)[
+  #figure(
+    caption: [L'église vue de derrière (2011-04-25)],
+    image("eglise_derrière_2011-04-25.jpg"),
+  )
+  #colbreak()
+  #figure(
+    caption: [Le ravalement (22013-08-13)],
+    image("eglise_ravalement_2013-08-13.jpg"),
+  )
+]
+
+#columns(3)[
   #figure(
     caption: [Photo réalisée au Polaroid (s.d.)],
     image("eglise_polaroid_s.d..jpg"),
   )
   #colbreak()
   #figure(
-    caption: [L'Église de nos jours (2026-05-08)],
+    caption: [L'église avant le ravalement (2010-04-22)],
+    image("./eglise_2010-04-22.jpg"),
+  )
+  #colbreak()
+  #figure(
+    caption: [L'église de nos jours (2026-05-08)],
     image("eglise_2026-05-08.jpg"),
   )
 ]
@@ -175,7 +204,7 @@ Un éboulement était survenu (à une date que je ne saurais donner) au tout dé
 
 Un canal d'irrigation partant la forêt de la Maïris et allant jusqu'à Saint-Colomban servait à arroser les champs.
 
-Le vallon de Saint-Colomban dispose de plusieurs launes (dont la laune de l'Eléphant aux Oules et la laune du diable aux Maurins) où il était possible de se baigner. La baignade est dorénavant interdite par arrêté municipal dans l'entièreté du vallon.
+Le vallon de Saint-Colomban dispose de plusieurs launes (dont la laune de l'Eléphant aux Oules et la laune du diable aux Maurins) où il était possible de se baigner. La baignade est dorénavant interdite par arrêté municipal en date du 04/08/2020 #footnote(link("/assets/Lantosque - Arrete municipal 2020-08-04.pdf")[Arrêté municipal n°010/2020 portant interdiction de la baignade dans l'ensemble du cours d'eau sis dans le vallon de Camari - St Colomban jusqu'à la Vésubie]) dans l'entièreté du vallon.
 
 == Le festin
 
@@ -190,12 +219,13 @@ Tous les été, un festin est réalisé sur la place devant l'église.
   ]),
 )
 
+Les rambardes autour de la place et le "balcon" pour les musiciens (ou plus récemment le D.J.) ont été réalisés par Joseph Macri et Jean Robini en 1991.
+
 #figure(
   caption: [Discours durant le festin de Juillet 1991],
   image("festin_juillet-1991.jpg"),
 )
 
-Les rambardes autour de la place et le "balcon" pour les musiciens (ou plus récemment le D.J.) ont été réalisés par Jean Robini.
 L'eau était fournis par les Robini, détenant la maison attenante à la place.
 
 == La population
