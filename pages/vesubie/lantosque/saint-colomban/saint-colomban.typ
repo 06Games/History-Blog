@@ -69,13 +69,18 @@ Les terrains de la Colle ont récemment été racheté par les Allari de Gorblao
   caption: [Carte postale au dessus du Coulet (quartier de Saint-Colomban)],
 )
 
-== L'église
+== La religion
 
 Une première chapelle, vraisemblablement dédiée à Saint-Colomban, était située dans le quartier de la Gleya. Une seconde chapelle aurait ensuite été édifiée à l'emplacement de l'église actuelle. Cette dernière acquit le statut d'église paroissiale durant la Révolution française et conserva ses propres registres officiels jusqu'en 1860, date de l'annexion du Comté de Nice par la France.
 
+#figure(
+  caption: [Section K du cadastre réalisé sous le Premier Empire vers 1808 (#link("https://archives06.fr/ark:/79346/783049.2781471")[CE P 196/10])],
+  image("eglise_cadastre_1808_section-K_CE-P-0196-10.jpg", width: 70%),
+)
+
 L'édifice actuel, dédié à Saint-Étienne, fut achevé en 1844. Il est resté ancré dans la mémoire collective comme un agrandissement de l'ancienne chapelle, dont il subsisterait des vestiges visibles dans le renforcement situé à gauche du maître-autel, donnant accès au clocher.
 
-Les matériaux nécessaires à sa construction auraient été transportés pierre par pierre depuis la vallée de la Vésubie. Leur quantité était telle que la maison en face, dite "des Thaons" – qui abritait un bar au siècle dernier –, aurait été construite avec les pierres excédentaires.
+Les matériaux nécessaires à sa construction auraient été transportés pierre par pierre depuis la vallée de la Vésubie. Leur quantité était telle que la maison en face, dite "des Thaons" (qui abritait un bar au siècle dernier), aurait été construite avec les pierres excédentaires.
 
 Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des travaux de rénovation vers 1915, à la suite d'un incendie accidentel ayant détruit l'autel, puis à nouveau en 1933. La facade fut refaite par la mairie en août 2013.
 
@@ -104,7 +109,7 @@ Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des tr
   )
   #colbreak()
   #figure(
-    caption: [Le ravalement (22013-08-13)],
+    caption: [Le ravalement (2013-08-13)],
     image("eglise_ravalement_2013-08-13.jpg"),
   )
 ]
@@ -160,7 +165,7 @@ Il y avait 3 fours, un au Coulet à Saint-Colomban, un à l'entrée du hameau de
 
 == L'éducation
 
-Une école fut construite au dessus du quartier du Coulet à Saint-Colomban.
+Une école fut construite au dessus du quartier du Coulet à Saint-Colomban en 1xxx. Elle subit des réparations entre 1925 et 1931#footnote(link("https://archives06.fr/ark:/79346/1161435.2481670")[A.D.A.M. : E-dépôt 78 11 M 4 -- École de Saint-Colomban, réparation : plans, bordereau des prix, instructions préfectorales, délibérations, soumission, procès-verbaux d'adjudication et de réception des travaux, décompte définitif, arrêté de subvention, correspondance.]).
 Les enfants de Béasse montaient et descendaient chaque jour à l'école de Saint-Colomban, ce qui représente environ trois quarts d'heure de marche.
 Par la suite, une école y fut ouverte. Mais face à un exode rapide de la population de Béasse, elle fut contrainte de fermer, son nombre d'élève passant de 17 enfants en 1917 à seulement 3 en 1922, année de sa fermeture.
 
@@ -191,6 +196,10 @@ Le pont au dessus de la Vésubie a été construit au alentours de 1883.
 
 La première croix en vue de Saint-Colomban date de 1892 et à été restaurée par Jean Robini, mon arrière-grand-père, en 1992.
 
+La route de Saint-Colomban à Camari (alors "Chemin vicinal n°5") a été construite entre 1862 et 1902#footnote(link("https://archives06.fr/ark:/79346/1161783.2481726")[A.D.A.M. : E-dépôt 78 4 O 20 -- Chemin vicinal n°5 "de Saint-Colomban" (du vallon de Guillerme au hameau de Camari).- Construction, classement : instructions préfectorales, rapports de l'agent-voyer, soumission, adjudication, correspondance.]) #footnote(link("https://archives06.fr/ark:/79346/1159169.2481261")[A.D.A.M. : E-dépôt 78 4 D 10 -- Procès de Louis Borriglione contre la commune pour occupation abusive d'un terrain lui appartenant, lors de la construction du chemin vicinal n° 5 à Saint-Colomban : correspondance.]).
+
+La piste de la Maïris date quant à elle de 1922-1926#footnote(link("https://archives06.fr/ark:/79346/1161833.2481733")[A.D.A.M. : E-dépôt 78 4 O 27 -- Chemin rural de Camari à la Maïris, construction : plan, profils, devis, état parcellaire, mémoire explicatif; acte de constitution d'une association syndicale libre, délibérations, correspondance.]).
+
 La construction de la route du cimetière a été faite sous l'impulsion de ce même Jean Robini en 1978, faisant alors partie du conseil municipal. A cette occasion les arbres à droite en arrivant au cimetière ont été plantés. Il souhaitait faire continuer la route à partir du chateau d'eau jusqu'aux maisons de la Gleya, mais les propriétaires des terrains à traverser n'ont pas voulu les céder. Il y a dorénavant une antenne Bouygues Telecom à l'emplacement où aurait commencé cette route.
 
 La piste des Maurins a été réalisée sous la municipalité Jean Thaon. Jean Robini, qui n'était alors plus au conseil, servi de médiateur pour négocier la cession des terrains necessaires. Il fut d'ailleurs un des principaux contributeurs. Des murs ont été construit sur cette même piste aux alentours de 2001.
@@ -199,12 +208,14 @@ Un éboulement était survenu (à une date que je ne saurais donner) au tout dé
 
 #figure(
   caption: [Grutage d'un véhicule suite au blocage de la route],
-  image("eboulement_rte_st_col_grue.jpg", height: 12cm),
+  image("eboulement_rte_st_col_grue.jpg", width: 50%),
 )
 
 == L'eau
 
-Un canal d'irrigation partant la forêt de la Maïris et allant jusqu'à Saint-Colomban servait à arroser les champs.
+L'adduction de l'eau potable s'est fait aux alentours de 1900#footnote(link("https://archives06.fr/ark:/79346/1161853.2481738")[A.D.A.M. : E-dépôt 78 5 O 3 -- Hameaux de Camari et Saint-Colomban : pétition, délibérations, affiche d'adjudication, soumissions, rapport de l'ingénieur ordinaire, arrêté préfectoral, correspondance. ]).
+
+Un canal d'irrigation partant la forêt de la Maïris et allant jusqu'à Saint-Colomban servait à arroser les champs. Il fut construit en 1925#footnote(link("https://archives06.fr/ark:/79346/1161889.2481744")[A.D.A.M. : E-dépôt 78 5 O 8 -- Construction et entretien : pétition, rapports de l'ingénieur, arrêté préfectoral, délibérations, acte de création d'association syndicale, devis, plan, correspondance.]).
 
 Le vallon de Saint-Colomban dispose de plusieurs launes (dont la laune de l'Eléphant aux Oules et la laune du diable aux Maurins) où il était possible de se baigner. La baignade est dorénavant interdite par arrêté municipal en date du 04/08/2020 #footnote(link("/assets/Lantosque - Arrete municipal 2020-08-04.pdf")[Arrêté municipal n°010/2020 portant interdiction de la baignade dans l'ensemble du cours d'eau sis dans le vallon de Camari - St Colomban jusqu'à la Vésubie]) dans l'entièreté du vallon.
 
