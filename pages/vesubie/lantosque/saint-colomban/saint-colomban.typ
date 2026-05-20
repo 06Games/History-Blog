@@ -155,7 +155,9 @@ Sur le chemin de la Gleya, dans la ruelle descendant à la place, on peut encore
 
 Une buvettes était présente au quartier du Coulet dans la maison à droite de la placette.
 
-#highlight[Photo rené]
+#figure(image("buvette_coulet.jpg", width: 100%), caption: [
+  Photo d'avant le ravalement des façades qui a fait disparaître la mention de la buvette (\~1980)
+])
 
 == Les fours
 
@@ -198,7 +200,14 @@ Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - C
   )
 ]
 
-La première croix en vue de Saint-Colomban date de 1892 et à été restaurée par Jean-Marie Robini, mon arrière-grand-père, en 1992.
+#box[
+  La première croix en vue de Saint-Colomban date de 1892 et à été restaurée par Jean-Marie Robini, mon arrière-grand-père, en 1992.
+
+  #figure(
+    caption: [La croix située au lieu-dit de _La Pointe_. La date de 1892 peut être lue sur le socle en béton.],
+    image("croix_de_la_pointe.jpg", width: 45%),
+  )
+]
 
 #box[
   Un éboulement était survenu (à une date que je ne saurais donner) au tout début de la route de Saint-Colomban en arrivant de Lantosque. Une grue avait alors été mise en place et a servie à libérer les véhicules pris au piège en amont.
