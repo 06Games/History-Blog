@@ -64,17 +64,26 @@ Les terrains de la Colle ont récemment été racheté par les Allari de Gorblao
   ])
 ]))
 
-#figure(
-  image("carte_postale_coulet.webp", width: 100%),
-  caption: [Carte postale montrant la vue depuis la route sur le dessus du Coulet (quartier de Saint-Colomban)],
-)
+
+#box(columns(2, [
+  #figure(
+    image("carte_postale_coulet.webp", width: 100%),
+    caption: [Carte postale montrant la vue depuis la route sur le dessus du Coulet (quartier de Saint-Colomban)],
+  )
+  #colbreak()
+  #figure(
+    image("carte_postale_ecole.jpg", width: 100%),
+    caption: [Carte postale montrant l'école et le lavoir au dessus du Coulet],
+  )
+]))
+
 
 == La religion
 
 Une première chapelle, vraisemblablement dédiée à Saint-Colomban, était située dans le quartier de la Gleya. Une seconde chapelle aurait ensuite été édifiée à l'emplacement de l'église actuelle. Cette dernière acquit le statut d'église paroissiale durant la Révolution française et conserva ses propres registres officiels jusqu'en 1860, date de l'annexion du Comté de Nice par la France.
 
 #figure(
-  caption: [Section K du cadastre réalisé sous le Premier Empire vers 1808 (#link("https://archives06.fr/ark:/79346/783049.2781471")[CE P 196/10])],
+  caption: [Section K du cadastre réalisé sous le Premier Empire vers 1808 montrant l'ancienne chapelle au centre en rouge (#link("https://archives06.fr/ark:/79346/783049.2781471")[CE P 196/10])],
   image("eglise_cadastre_1808_section-K_CE-P-0196-10.jpg", width: 70%),
 )
 
