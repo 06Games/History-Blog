@@ -43,7 +43,91 @@ La liste des maires de Lantosque est présentée dans le chapitre consacré aux 
 
 #pagebreak()
 
+== Lantosque sous la Troisième République (1871-1939)
+
+
+#highlight[TODO : ajouter légendes et chercher dates des cartes postales]
+
+#box(columns(2)[
+  #image(
+    ".assets/vues-anciennes/3332 - LANTOSQUE (A.M.) - Vue générale et la Gare - Vallée de la Vésubie..jpg",
+    width: 100%,
+  )
+  #colbreak()
+  #image(".assets/vues-anciennes/11049 - LANTOSQUE (A.M.) - Altitude 512 m. - Vue générale..jpg", width: 100%)
+])
+#box(columns(2)[
+  #align(horizon, image(".assets/vues-anciennes/Lantosque - La fontaine et la Vieille Porte.jpg", width: 100%))
+  #colbreak()
+  #image(".assets/vues-anciennes/Lantosque - Quartier du Pivol.jpg", width: 100%)
+  #image(".assets/vues-anciennes/Lantosque - Vue du Rion - Vallée de la Vésubie.jpg", width: 100%)
+  #image(".assets/vues-anciennes/Lantosque - Vue du Riou.jpg", width: 100%)
+])
+
+=== L'arrivée du tramway
+
+#box(columns(2)[
+  #image(".assets/tramway/Le vallon du Riou.webp", width: 100%)
+  #colbreak()
+  #image(".assets/tramway/L'entrée du village et le quartier Pivol.webp", width: 100%)
+])
+#box(columns(2)[
+  #image(".assets/tramway/LANTOSQUE (A.M.) - Le Nouveau Pont.jpg", width: 100%)
+  #colbreak()
+  #image(".assets/tramway/La gare.webp", width: 100%)
+])
+#box(columns(2)[
+  #image(".assets/tramway/Lantosque - La Gare du Tramway.jpg", width: 100%)
+  #colbreak()
+  #figure(caption: [Vue plus récente sur la gare, avant sa destruction], image(
+    ".assets/tramway/L'entrée du village.webp",
+    width: 100%,
+  ))
+])
+
+=== Les cafés et les restaurants
+
+#box(columns(2)[
+  #image(
+    ".assets/cafe-restaurants/1563 - LANTOSQUE (A.M.) - Station estivale - La Place - Vallée de la Vésubie..jpg",
+    width: 100%,
+  )
+  #colbreak()
+  #image(".assets/cafe-restaurants/Lantosque - Place de la Mairie - Café des Alpes.jpg", width: 100%)
+])
+#box(columns(3)[
+  #image(".assets/cafe-restaurants/Lantosque - Place de la Mairie - Café des Touristes.jpg", width: 100%)
+  #colbreak()
+  #image(".assets/cafe-restaurants/Souvenir de Lantosque - La Poste (Le Pivol).jpg", width: 100%)
+  #colbreak()
+  #image(".assets/cafe-restaurants/Souvenir de Lantosque - Restaurant de la Gare.jpg", width: 100%)
+])
+
+=== La religion
+
+#box(columns(2)[
+  #image(
+    ".assets/religion/Souvenir de Lantosque - En face la fontaine de St-Sulpice - chemin de St-Colomban et de Loda au-dessus de Ste-Claire - Procession du 24 mai 1926 et vue de Lantosque (St-André).jpg",
+    width: 100%,
+  )
+  #colbreak()
+  #image(".assets/religion/Souvenir de Lantosque - La Procession se rendant à Notre-Dame de la Balma.jpg", width: 100%)
+])
+
+=== Le militaire
+
+#box(columns(2)[
+  #image(".assets/militaire/Les Granges de la Brasque par LANTOSQUE (A.M.) - Les Cuisines..jpg", width: 100%)
+  #colbreak()
+  #image(".assets/militaire/Classes 1935-1936.jpg", width: 100%)
+])
+
+
 == La Seconde Guerre Mondiale (1939-1944)
+
+=== L'occupation
+
+#highlight[TODO]
 
 === L'exécution du maire
 
@@ -74,13 +158,15 @@ Thomas Otho, président du comité local de libération, assure alors la gestion
 
 == Plus récemment (de 1945 à nos jours)
 
+#figure(caption: [Le Chalet-Fleuri], image(".assets/Le chalet Fleuri.webp", width: 50%))
+
 === Le "trou de 1978"
 
 En mars 1978, un glissement de terrain d’ampleur frappe le village de Lantosque.
 L’événement provoque la destruction partielle d’une maison située à proximité immédiate de la mairie.
 Les dégâts sont tels que le bâtiment doit être rasé, laissant derrière lui une cicatrice dans le paysage : un "trou" toujours visible aujourd’hui.
 
-#columns(2, [
+#box(columns(2, [
   #figure(image("22FI_780308005_img.jpg", width: 100%), caption: [
     La maison éventrée par le glissement, 08/03/1978 (AD06, 22 Fi 780308005)
   ])
@@ -88,7 +174,7 @@ Les dégâts sont tels que le bâtiment doit être rasé, laissant derrière lui
   #figure(image("22FI_780308002_img.jpg", width: 100%), caption: [
     Plan large du glissement Turini, 08/03/1978 (AD06, 22 Fi 780308002)
   ])
-])
+]))
 #figure(image("FRAD006_03NUM_20160318_004_img.jpg", width: 100%), caption: [
   Vue d'ensemble du village laissant apparaître le "trou de 1978", 18/03/2016 (AD06, 3 Num 20160318/4)
 ])
