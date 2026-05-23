@@ -57,17 +57,61 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
 
 === La Couala de Guillerm
 
-Les terrains de la Colle ont récemment été racheté par les Allari de Gorblaou qui ont entrepris des travaux de  restauration des granges ainsi que la création d'une piste à partir de la "Piste des Chasseurs" à Camari.
+Les terrains de la Colle ont été racheté, autour de 2020, par les Allari de Gorblaou qui ont entrepris des travaux de restauration sur l'une des granges ainsi que la création d'une piste à partir de la "Piste des Chasseurs" à Camari.
 
-#box(columns(2, [
-  #figure(image(".assets/colle/la colle.jpg", width: 100%), caption: [
-    La Couala de Guillerm
-  ])
-  #colbreak()
-  #figure(image(".assets/colle/la colle 2.jpg", width: 100%), caption: [
-    La Couala de Guillerm
-  ])
-]))
+#figure(
+  columns(3, [
+    #image(".assets/colle/grange_sud_date.jpg", width: 100%)
+    #colbreak()
+    #image(".assets/colle/grange_sud.jpg", width: 100%)
+    #colbreak()
+    #image(".assets/colle/grange_sud_2.jpg", width: 100%)
+  ]),
+  caption: [La grange la plus au sud, en contre-bas des autres. Elle est datée de 1851\ (Photos personnelles, 2021-08-07 et 2025-12-31 pour la dernière)],
+)
+
+#box(grid(
+  columns: (66%, 33%),
+  gutter: 1em,
+  figure(
+    columns(2, gutter: 1em, [
+      #image(".assets/colle/grange_ouest_2021_2.jpg", width: 100%)
+      #colbreak()
+      #image(".assets/colle/grange_ouest_2021.jpg", width: 100%)
+    ]),
+    caption: [La grange ouest durant les travaux de restauration\
+      (Photos personnelles, 2021-08-07)],
+  ),
+  figure(image(".assets/colle/grange_ouest_2025.jpg", width: 100%), caption: [
+    La grange ouest après les travaux de restauration\
+    (Photo personnelle, 2025-12-31)
+  ]),
+))
+
+#figure(
+  image(".assets/colle/grange_centre.jpg", width: 50%),
+  caption: [La grange du centre (Photo personnelle, 2021-08-07)],
+)
+
+#figure(
+  columns(3, [
+    #image(".assets/colle/grange_est.jpg", width: 100%)
+    #colbreak()
+    #image(".assets/colle/grange_est_2.jpg", width: 100%)
+    #colbreak()
+    #image(".assets/colle/grange_est_3.jpg", width: 100%)
+  ]),
+  caption: [La grange est (Photos personnelles, 2021-08-07)],
+)
+
+#box(figure(
+  columns(2, [
+    #image(".assets/colle/piste.jpg", width: 100%)
+    #colbreak()
+    #image(".assets/colle/piste_2.jpg", width: 100%)
+  ]),
+  caption: [La piste réalisée en deuxième partie de 2023 (Photos personnelles, 2023-11-03)],
+))
 
 === Béasse (Lucéram)
 
