@@ -13,15 +13,13 @@ Le hameau est mentionné dans le cartulaire de la cathédrale de Nice au XIIe si
 
 Les habitations sont décrites comme en ruine dans le registre d'"État des droits et revenus du comte Charles 1#super[er] en Provence" datant de 1252 #footnote[#link("https://odyssee.univ-amu.fr/files/original/1/532/FR_MMSH_MDQ_PRJ_MG_004.pdf")[Enquêtes sur les droits et revenus de Charles Ier d'Anjou en Provence (1252 et 1278) par Edouard Baratier] : #text(lang: "la", style: "italic")["San Columbar est castrum dirrutum, cujus territorium tenent homines de Lantoscha."] --- Saint-Colomban est un site fortifié en ruines, dont le territoire est tenu par les hommes de Lantosque.].
 
-#highlight[Vue aérienne années 50]
-
 == Les écarts
 
 Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou et Camari. Il existe également des écarts dorénavant abandonnés, comme la Couala de Guillerm _(La Colle)_ et Béasse sur la commune de Lucéram.
 
-Les terrains de la Colle ont récemment été racheté par les Allari de Gorblaou qui ont entrepris des travaux de  restauration des granges ainsi que la création d'une piste à partir de la "Piste des Chasseurs" à Camari.
+#highlight[Vue aérienne années 50]
 
-#highlight[Dire que Béasse a été construit au tout début du XVIIe siècle par les Ciais. Parler du recensement de 1718.]
+=== Saint-Colomban
 
 #box(columns(2, [
   #figure(image("saint-colomban dessus.jpg", width: 100%), caption: [
@@ -32,38 +30,6 @@ Les terrains de la Colle ont récemment été racheté par les Allari de Gorblao
     Saint-Colomban vu d'en face
   ])
 ]))
-
-#box(columns(2, [
-  #figure(image("gorblaou.jpg", width: 100%), caption: [
-    Gorbloau
-  ])
-  #colbreak()
-  #figure(image("camari.jpg", width: 100%), caption: [
-    Camari
-  ])
-]))
-
-#box(columns(2, [
-  #figure(image("la colle.jpg", width: 100%), caption: [
-    La Couala de Guillerm
-  ])
-  #colbreak()
-  #figure(image("la colle 2.jpg", width: 100%), caption: [
-    La Couala de Guillerm
-  ])
-]))
-
-#box(columns(2, [
-  #figure(image("beasse-avant.jpg", width: 100%), caption: [
-    Beasse autrefois
-  ])
-  #colbreak()
-  #figure(image("beasse-ajd.jpg", width: 100%), caption: [
-    Beasse de nos jours
-    #link("https://maps.app.goo.gl/eeaLHk77rb2eL56n8")[Laurent planson crequer]
-  ])
-]))
-
 
 #box(columns(2, [
   #figure(
@@ -77,6 +43,113 @@ Les terrains de la Colle ont récemment été racheté par les Allari de Gorblao
   )
 ]))
 
+=== Gorblaou
+
+#figure(image("gorblaou.jpg", width: 100%), caption: [
+  Gorbloau
+])
+
+=== Camari
+
+#figure(image("camari.jpg", width: 100%), caption: [
+  Camari
+])
+
+=== La Couala de Guillerm
+
+Les terrains de la Colle ont récemment été racheté par les Allari de Gorblaou qui ont entrepris des travaux de  restauration des granges ainsi que la création d'une piste à partir de la "Piste des Chasseurs" à Camari.
+
+#box(columns(2, [
+  #figure(image("la colle.jpg", width: 100%), caption: [
+    La Couala de Guillerm
+  ])
+  #colbreak()
+  #figure(image("la colle 2.jpg", width: 100%), caption: [
+    La Couala de Guillerm
+  ])
+]))
+
+=== Béasse (Lucéram)
+
+Béasse, dit "Biassa" en occitan, est un hameau dorénavant en ruine et à l'abandon situé sur la commune de Lucéram.
+Bien que situé à Lucéram, le hameau a toujours été rattaché à Saint-Colomban, tant par son origine que par sa proximité.
+
+En effet, Béasse a été construit aux alentours de la fin du XVII#super[e] siècle / tout début du XVIII#super[e] siècle par les Ciais dit "Ciaissi Boen" #footnote([La première mention que j'ai trouvé date d'un #link("https://www.geneanet.org/archives/registres/view/17455/50?idmarqueur=19316721")[mariage du 13 novembre 1712] entre Jean Baptiste Ciais fils de Jean Antoine de Béasse et Antoronette Gaglio fille de Claude de Lantosque.\
+  Marie Marguerite Ciais fille d'Antoine Sulpice Ciaissi Boen née le 07 janvier 1706 est par la suite dites native de Béasse lors de l'élaboration de la dot de sa fille Marie Catherine Maurin le 10 février 1755.]).
+
+Un recensement daté d'août 1718 fait état de 27 personnes, 12 boeufs, 8 vaches, 2 veaux, 197 brebis et chèvres, 25 chevreaux, 10 agneaux et 4 porcs de consommation personnelles.
+
+#figure(
+  caption: [Détail de la population recensée à Béasse en août 1718 #footnote([Selon la transcription de Jean-Nicolas BEASSE])],
+)[
+  #let data = csv("beasse_1718.csv")
+  #let header-data = data.at(0)
+  #let body-data = data.slice(1)
+
+  #show table.cell: set text(size: .8em, hyphenate: false)
+  #show table.cell: set par(justify: false)
+  #show table.cell.where(y: 0): set text(weight: "bold", size: 1.1em)
+
+  #let table-cells = ()
+  #let i = 0
+
+  #while i < body-data.len() {
+    let current-val = body-data.at(i).at(0)
+    let span = 1
+
+    // Look ahead to see how many consecutive rows share the same first-column value
+    while i + span < body-data.len() and body-data.at(i + span).at(0) == current-val {
+      span += 1
+    }
+
+    // Push the rows in this span to our cell array
+    for row-idx in range(0, span) {
+      let actual-row-idx = i + row-idx
+      let current-row = body-data.at(actual-row-idx)
+
+      if row-idx == 0 {
+        // First row of the group
+        table-cells.push(table.cell(rowspan: span)[#current-val])
+      } else {
+        // Skip first column of subsequent rows of the group
+      }
+
+      // Push the remaining columns normally
+      for col-val in current-row.slice(1) {
+        table-cells.push([#col-val])
+      }
+    }
+
+    i += span
+  }
+
+  // 2. Render the final table
+  #table(
+    columns: (auto, 1fr, 1fr, auto, auto),
+    align: horizon + center,
+    table.header(..header-data),
+    ..table-cells,
+  )
+]
+
+Les habitants de Béasse se mariaient pour la plupart à des gens de Saint-Colomban ou de Loda, qui étaient respectivement à 30 min et 1h de marche.
+
+#box(columns(2, [
+  #figure(image("beasse-avant.jpg", width: 100%), caption: [
+    Beasse autrefois
+  ])
+  #colbreak()
+  #figure(image("beasse-ajd.jpg", width: 100%), caption: [
+    Beasse de nos jours\
+    (Photo #link("https://maps.app.goo.gl/eeaLHk77rb2eL56n8")[Laurent planson crequer])
+  ])
+]))
+
+#figure(image("beasse_maison_date.jpg", width: 40%), caption: [
+  Date inscrite sur l'une des maisons (Photo Arlette GALLI, 2006-09-22)
+])
+
+#pagebreak()
 
 == La religion
 
@@ -164,23 +237,64 @@ Sur le chemin de la Gleya, dans la ruelle descendant à la place, on peut encore
 
 Une buvettes était présente au quartier du Coulet dans la maison à droite de la placette.
 
-#figure(image("buvette_coulet.jpg", width: 100%), caption: [
+#figure(image("buvette_coulet.jpg", width: 60%), caption: [
   Photo d'avant le ravalement des façades qui a fait disparaître la mention de la buvette (\~1980)
 ])
 
 == Les fours
 
-Il y avait 3 fours, un au Coulet à Saint-Colomban, un à l'entrée du hameau de Camari et un dernier, en sorti de Béasse.
+Il y avait 3 fours, un au Coulet à Saint-Colomban, un à l'entrée du hameau de Camari et un dernier, à Béasse, sur le coté du chemin après l'école.
 
-#highlight[Photos]
+#highlight[Photos St Col et Camari]
 
+
+#figure(image("beasse_four_avant.jpg", width: 50%), caption: [
+  Le four à pain de Béasse tel qu'il était
+  (Photo Jean-Nicolas BEASSE)
+])
+#box(columns(2, [
+  #figure(
+    [
+      #image("beasse_four_pierres.jpg", width: 100%)
+      #image("beasse_four_pierres_2006.jpg", width: 100%)
+    ],
+    caption: [
+      Le même four après que des pierres aient été volés autour de 2006\
+      (Photos Jean-Nicolas BEASSE et Arlette GALLI)
+    ],
+  )
+  #colbreak()
+  #figure(
+    [
+      #image("beasse_four_restauration.jpg", width: 100%)
+      #image("beasse_four_restauration2.jpg", width: 100%)
+    ],
+    caption: [
+      Le four a été quelque peu réarrangé début octobre 2022 (Photos #link("https://www.facebook.com/groups/21906880800/permalink/10160040968690801/")[Jackou Laugier] et #link("https://www.facebook.com/groups/21906880800/permalink/10160039939100801/")[Olon Nolo])
+    ],
+  )
+]))
+#box(columns(2, [
+  #colbreak()
+]))
 #pagebreak()
 
 == L'éducation
 
 Une école fut construite au dessus du quartier du Coulet à Saint-Colomban en 1xxx. Elle subit des réparations entre 1925 et 1931#footnote(link("https://archives06.fr/ark:/79346/1161435.2481670")[A.D.A.M. : E-dépôt 78 11 M 4 -- École de Saint-Colomban, réparation : plans, bordereau des prix, instructions préfectorales, délibérations, soumission, procès-verbaux d'adjudication et de réception des travaux, décompte définitif, arrêté de subvention, correspondance.]).
+
 Les enfants de Béasse montaient et descendaient chaque jour à l'école de Saint-Colomban, ce qui représente environ trois quarts d'heure de marche.
-Par la suite, une école y fut ouverte. Mais face à un exode rapide de la population de Béasse, elle fut contrainte de fermer, son nombre d'élève passant de 17 enfants en 1917 à seulement 3 en 1922, année de sa fermeture.
+Entre 1902 et 1908, une école y fut construite. Mais face à un exode rapide de la population de Béasse, elle fut contrainte de fermer, son nombre d'élève passant de 17 enfants en 1917 à seulement 3 en 1922, année de sa fermeture.
+
+#box(columns(2, [
+  #figure(image("beasse_2011-04-25.jpg", width: 100%), caption: [
+    L'école est le bâtiment encore debut sur la droite de la photo (2011-04-25)
+  ])
+  #colbreak()
+  #figure(image("beasse_école.jpg", width: 100%), caption: [
+    L'escalier pour entrer à l'étage (2022-02-15)
+  ])
+]))
 
 L'école de Saint-Colomban ferma à son tour en 19xx et fut reconvertie en gite. Puis, le gite fut contrait de fermer dans les années 2010 suite à une changement des normes en matière d'accessibilité, qui auraient nécessité des travaux, ce que la mairie n'a pas souhaité faire.
 
@@ -230,6 +344,10 @@ Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - C
 La route de Saint-Colomban à Camari (alors "Chemin vicinal n°5") a été construite entre 1862 et 1902#footnote(link("https://archives06.fr/ark:/79346/1161783.2481726")[A.D.A.M. : E-dépôt 78 4 O 20 -- Chemin vicinal n°5 "de Saint-Colomban" (du vallon de Guillerme au hameau de Camari).- Construction, classement : instructions préfectorales, rapports de l'agent-voyer, soumission, adjudication, correspondance.]) #footnote(link("https://archives06.fr/ark:/79346/1159169.2481261")[A.D.A.M. : E-dépôt 78 4 D 10 -- Procès de Louis Borriglione contre la commune pour occupation abusive d'un terrain lui appartenant, lors de la construction du chemin vicinal n° 5 à Saint-Colomban : correspondance.]).
 
 La piste de la Maïris date quant à elle de 1922-1926#footnote(link("https://archives06.fr/ark:/79346/1161833.2481733")[A.D.A.M. : E-dépôt 78 4 O 27 -- Chemin rural de Camari à la Maïris, construction : plan, profils, devis, état parcellaire, mémoire explicatif; acte de constitution d'une association syndicale libre, délibérations, correspondance.]).
+
+La route de Gorblaou date de 1974-1976 #footnote([
+  #link("https://archives06.fr/ark:/79346/814985.2232060")[291 W 30]
+]).
 
 La construction de la route du cimetière a été faite sous l'impulsion de Jean-Marie Robini en 1978, faisant alors partie du conseil municipal. A cette occasion les arbres à droite en arrivant au cimetière ont été plantés. Le cyprès à gauche en montant la route, un peu avant d'arriver au chateau d'eau, a été planté ultérieurement par son épouse Emma Robini.\
 Jean souhaitait faire continuer la route à partir du chateau d'eau jusqu'aux maisons de la Gleya, mais les propriétaires des terrains à traverser n'ont pas voulu les céder. Il y a dorénavant une antenne Bouygues Telecom à l'emplacement où aurait commencé cette route.

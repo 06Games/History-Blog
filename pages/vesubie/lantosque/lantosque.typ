@@ -158,7 +158,7 @@ Thomas Otho, président du comité local de libération, assure alors la gestion
 
 == Plus récemment (de 1945 à nos jours)
 
-#figure(caption: [Le Chalet-Fleuri], image(".assets/Le chalet Fleuri.webp", width: 50%))
+#figure(caption: [Le Chalet Fleuri], image(".assets/Le chalet Fleuri.webp", width: 50%))
 
 === Le "trou de 1978"
 
