@@ -22,36 +22,36 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
 === Saint-Colomban
 
 #box(columns(2, [
-  #figure(image("saint-colomban dessus.jpg", width: 100%), caption: [
+  #figure(image(".assets/st_col/saint-colomban dessus.jpg", width: 100%), caption: [
     Saint-Colomban vu du dessus
   ])
   #colbreak()
-  #figure(image("saint-colomban face.jpg", width: 100%), caption: [
+  #figure(image(".assets/st_col/saint-colomban face.jpg", width: 100%), caption: [
     Saint-Colomban vu d'en face
   ])
 ]))
 
 #box(columns(2, [
   #figure(
-    image("carte_postale_coulet.webp", width: 100%),
+    image(".assets/st_col/carte_postale_coulet.webp", width: 100%),
     caption: [Carte postale montrant la vue depuis la route sur le dessus du Coulet (quartier de Saint-Colomban)],
   )
   #colbreak()
   #figure(
-    image("carte_postale_ecole.jpg", width: 100%),
+    image(".assets/st_col/carte_postale_ecole.jpg", width: 100%),
     caption: [Carte postale montrant l'école et le lavoir au dessus du Coulet],
   )
 ]))
 
 === Gorblaou
 
-#figure(image("gorblaou.jpg", width: 100%), caption: [
+#figure(image(".assets/gorblaou/gorblaou.jpg", width: 100%), caption: [
   Gorbloau
 ])
 
 === Camari
 
-#figure(image("camari.jpg", width: 100%), caption: [
+#figure(image(".assets/camari/camari.jpg", width: 100%), caption: [
   Camari
 ])
 
@@ -60,11 +60,11 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
 Les terrains de la Colle ont récemment été racheté par les Allari de Gorblaou qui ont entrepris des travaux de  restauration des granges ainsi que la création d'une piste à partir de la "Piste des Chasseurs" à Camari.
 
 #box(columns(2, [
-  #figure(image("la colle.jpg", width: 100%), caption: [
+  #figure(image(".assets/colle/la colle.jpg", width: 100%), caption: [
     La Couala de Guillerm
   ])
   #colbreak()
-  #figure(image("la colle 2.jpg", width: 100%), caption: [
+  #figure(image(".assets/colle/la colle 2.jpg", width: 100%), caption: [
     La Couala de Guillerm
   ])
 ]))
@@ -82,7 +82,7 @@ Un recensement daté d'août 1718 fait état de 27 personnes, 12 boeufs, 8 vache
 #figure(
   caption: [Détail de la population recensée à Béasse en août 1718 #footnote([Selon la transcription de Jean-Nicolas BEASSE])],
 )[
-  #let data = csv("beasse_1718.csv")
+  #let data = csv(".assets/beasse/beasse_1718.csv")
   #let header-data = data.at(0)
   #let body-data = data.slice(1)
 
@@ -135,11 +135,11 @@ Un recensement daté d'août 1718 fait état de 27 personnes, 12 boeufs, 8 vache
 Les habitants de Béasse se mariaient pour la plupart à des gens de Saint-Colomban ou de Loda, qui étaient respectivement à 30 min et 1h de marche.
 
 #box(columns(2, [
-  #figure(image("beasse-avant.jpg", width: 100%), caption: [
+  #figure(image(".assets/beasse/beasse_avant.jpg", width: 100%), caption: [
     Beasse autrefois
   ])
   #colbreak()
-  #figure(image("beasse_maison_date.jpg", width: 100%), caption: [
+  #figure(image(".assets/beasse/beasse_maison_date.jpg", width: 100%), caption: [
     Date inscrite sur l'une des maisons\
     (Photo Arlette GALLI, 2006-09-22)
   ])
@@ -147,9 +147,9 @@ Les habitants de Béasse se mariaient pour la plupart à des gens de Saint-Colom
 
 #figure(
   columns(2, [
-    #image("beasse_2022-12-18_face.jpg", width: 100%)
+    #image(".assets/beasse/beasse_2022-12-18_face.jpg", width: 100%)
     #colbreak()
-    #image("beasse_2022-12-18_haut.jpg", width: 100%)
+    #image(".assets/beasse/beasse_2022-12-18_haut.jpg", width: 100%)
   ]),
   caption: [
     Beasse le 18 décembre 2022
@@ -165,7 +165,7 @@ Une première chapelle, vraisemblablement dédiée à Saint-Colomban, était sit
 
 #figure(
   caption: [Section K du cadastre réalisé sous le Premier Empire vers 1808 montrant l'ancienne chapelle au centre en rouge (#link("https://archives06.fr/ark:/79346/783049.2781471")[CE P 196/10])],
-  image("eglise_cadastre_1808_section-K_CE-P-0196-10.jpg", width: 70%),
+  image(".assets/st_col/eglise/eglise_cadastre_1808_section-K_CE-P-0196-10.jpg", width: 70%),
 )
 
 L'édifice actuel, dédié à Saint-Étienne, fut achevé en 1844. Il est resté ancré dans la mémoire collective comme un agrandissement de l'ancienne chapelle, dont il subsisterait des vestiges visibles dans le renforcement situé à gauche du maître-autel, donnant accès au clocher.
@@ -175,49 +175,49 @@ Les matériaux nécessaires à sa construction auraient été transportés pierr
 Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des travaux de rénovation vers 1915, à la suite d'un incendie accidentel ayant détruit l'autel, puis à nouveau en 1933. La facade fut refaite par la mairie en août 2013.
 
 #figure(caption: [Le maître-autel de l'église avant l'incendie de 1915], columns(2)[
-  #image("eglise_maitre_autel_bef-1915.png", width: 100%)
+  #image(".assets/st_col/eglise/eglise_maitre_autel_bef-1915.png", width: 100%)
   #colbreak()
-  #image("eglise_maitre_autel_bef-1915_verso.png", width: 100%)
+  #image(".assets/st_col/eglise/eglise_maitre_autel_bef-1915_verso.png", width: 100%)
 ])
 
 #box(columns(2)[
   #figure(
     caption: [L'église sous la neige (2011-01-30)],
-    image("eglise_neige_2011-01-30.jpg"),
+    image(".assets/st_col/eglise/eglise_neige_2011-01-30.jpg"),
   )
   #colbreak()
   #figure(
     caption: [Une cloche (2010-10-30)],
-    image("eglise_cloche_2010-10-30.jpg"),
+    image(".assets/st_col/eglise/eglise_cloche_2010-10-30.jpg"),
   )
 ])
 
 #box(columns(2)[
   #figure(
     caption: [L'église vue de derrière (2011-04-25)],
-    image("eglise_derrière_2011-04-25.jpg"),
+    image(".assets/st_col/eglise/eglise_derrière_2011-04-25.jpg"),
   )
   #colbreak()
   #figure(
     caption: [Le ravalement (2013-08-13)],
-    image("eglise_ravalement_2013-08-13.jpg"),
+    image(".assets/st_col/eglise/eglise_ravalement_2013-08-13.jpg"),
   )
 ])
 
 #box(columns(3)[
   #figure(
     caption: [Photo réalisée au Polaroid (s.d.)],
-    image("eglise_polaroid_s.d..jpg"),
+    image(".assets/st_col/eglise/eglise_polaroid_s.d..jpg"),
   )
   #colbreak()
   #figure(
     caption: [L'église avant le ravalement (2010-04-22)],
-    image("./eglise_2010-04-22.jpg"),
+    image("./.assets/st_col/eglise/eglise_2010-04-22.jpg"),
   )
   #colbreak()
   #figure(
     caption: [L'église de nos jours (2026-05-08)],
-    image("eglise_2026-05-08.jpg"),
+    image(".assets/st_col/eglise/eglise_2026-05-08.jpg"),
   )
 ])
 
@@ -234,18 +234,18 @@ Le cimetière semble avoir été installé là où il se situe actuellement, ent
 Sur le chemin de la Gleya, dans la ruelle descendant à la place, on peut encore voir sur le haut d'une porte à droite en descendant l'enseigne d'un ancien café restaurant tenu par François et Philippine Thaon.
 
 #box(columns(2, [
-  #figure(image("chemin_de_la_gleya_ruelle.jpg", width: 100%), caption: [
+  #figure(image(".assets/st_col/chemin_de_la_gleya_ruelle.jpg", width: 100%), caption: [
     La ruelle descendant à la place
   ])
   #colbreak()
-  #figure(image("chemin_de_la_gleya_bar.jpg", width: 100%), caption: [
+  #figure(image(".assets/st_col/chemin_de_la_gleya_bar.jpg", width: 100%), caption: [
     L'enseigne du café restaurant de la place
   ])
 ]))
 
 Une buvettes était présente au quartier du Coulet dans la maison à droite de la placette.
 
-#figure(image("buvette_coulet.jpg", width: 60%), caption: [
+#figure(image(".assets/st_col/buvette_coulet.jpg", width: 60%), caption: [
   Photo d'avant le ravalement des façades qui a fait disparaître la mention de la buvette (\~1980)
 ])
 
@@ -256,15 +256,15 @@ Il y avait 3 fours, un au Coulet à Saint-Colomban, un à l'entrée du hameau de
 #highlight[Photos St Col et Camari]
 
 
-#figure(image("beasse_four_avant.jpg", width: 50%), caption: [
+#figure(image(".assets/beasse/beasse_four_avant.jpg", width: 50%), caption: [
   Le four à pain de Béasse tel qu'il était
   (Photo Jean-Nicolas BEASSE)
 ])
 #box(columns(2, [
   #figure(
     [
-      #image("beasse_four_pierres.jpg", width: 100%)
-      #image("beasse_four_pierres_2006.jpg", width: 100%)
+      #image(".assets/beasse/beasse_four_pierres.jpg", width: 100%)
+      #image(".assets/beasse/beasse_four_pierres_2006.jpg", width: 100%)
     ],
     caption: [
       Le même four après que des pierres aient été volés autour de 2006\
@@ -274,8 +274,8 @@ Il y avait 3 fours, un au Coulet à Saint-Colomban, un à l'entrée du hameau de
   #colbreak()
   #figure(
     [
-      #image("beasse_four_restauration.jpg", width: 100%)
-      #image("beasse_four_restauration2.jpg", width: 100%)
+      #image(".assets/beasse/beasse_four_restauration.jpg", width: 100%)
+      #image(".assets/beasse/beasse_four_restauration2.jpg", width: 100%)
     ],
     caption: [
       Le four a été quelque peu réarrangé début octobre 2022 (Photos #link("https://www.facebook.com/groups/21906880800/permalink/10160040968690801/")[Jackou Laugier] et #link("https://www.facebook.com/groups/21906880800/permalink/10160039939100801/")[Olon Nolo])
@@ -295,11 +295,11 @@ Les enfants de Béasse montaient et descendaient chaque jour à l'école de Sain
 Entre 1902 et 1908, une école y fut construite. Mais face à un exode rapide de la population de Béasse, elle fut contrainte de fermer, son nombre d'élève passant de 17 enfants en 1917 à seulement 3 en 1922, année de sa fermeture.
 
 #box(columns(2, [
-  #figure(image("beasse_2011-04-25.jpg", width: 100%), caption: [
+  #figure(image(".assets/beasse/beasse_2011-04-25.jpg", width: 100%), caption: [
     L'école de Béasse est le bâtiment encore debut sur la droite de la photo (2011-04-25)
   ])
   #colbreak()
-  #figure(image("beasse_école.jpg", width: 100%), caption: [
+  #figure(image(".assets/beasse/beasse_école.jpg", width: 100%), caption: [
     L'escalier pour entrer à l'étage (2022-02-15)
   ])
 ]))
@@ -309,11 +309,11 @@ L'école de Saint-Colomban ferma à son tour en 19xx et fut reconvertie en gite.
 Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - Compte rendu conseil municipal 2016-10-17.pdf")[17/10/2016]], l'ancienne école de Saint-Colomban servait de bureau de vote lors des élections. Dorénavant, les électeurs de Saint-Colomban et Loda votent à Lantosque dans la salle Gilbert Gaglio.
 
 #box(columns(2, [
-  #figure(image("ecole-1930.jpg", width: 100%), caption: [
+  #figure(image(".assets/ecole-1930.jpg", width: 100%), caption: [
     Les enfants de l'école de Saint-Colomban en 1930 (col. Emma ROBINI)
   ])
   #colbreak()
-  #figure(image("ecole-1930-noms.jpg", width: 100%), caption: [
+  #figure(image(".assets/ecole-1930-noms.jpg", width: 100%), caption: [
     Photographie annotée avec le nom des enfants (réalisée pour une exposition)
   ])
 ]))
@@ -327,7 +327,7 @@ Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - C
 
   #figure(
     caption: [Les Travaux Publics de la France - Défilé de Lantosque (1883)],
-    image("Les Travaux Publics de la France - Défilé de Lantosque (1883).jpg"),
+    image(".assets/route/Les Travaux Publics de la France - Défilé de Lantosque (1883).jpg"),
   )
 ]
 
@@ -336,7 +336,7 @@ Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - C
 
   #figure(
     caption: [La croix située au lieu-dit de _La Pointe_. La date de 1892 peut être lue sur le socle en béton.],
-    image("croix_de_la_pointe.jpg", width: 45%),
+    image(".assets/route/croix_de_la_pointe.jpg", width: 45%),
   )
 ]
 
@@ -345,7 +345,7 @@ Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - C
 
   #figure(
     caption: [Grutage d'un véhicule suite au blocage de la route],
-    image("eboulement_rte_st_col_grue.jpg", width: 50%),
+    image(".assets/route/eboulement_rte_st_col_grue.jpg", width: 50%),
   )
 ]
 
@@ -377,9 +377,9 @@ Tous les été, un festin est réalisé sur la place devant l'église.
 #figure(
   caption: [Bons d'entrée pour le bal de septembre 1936],
   columns(2, [
-    #image("festin_bons_1936_hommes.jpg")
+    #image(".assets/st_col/festin_bons_1936_hommes.jpg")
     #colbreak()
-    #image("festin_bons_1936_femmes.jpg")
+    #image(".assets/st_col/festin_bons_1936_femmes.jpg")
   ]),
 )
 
@@ -387,17 +387,17 @@ Les rambardes autour de la place et le "balcon" pour les musiciens (ou plus réc
 
 #figure(
   caption: [Discours durant le festin de Juillet 1991],
-  image("festin_juillet-1991.jpg"),
+  image(".assets/st_col/festin_juillet-1991.jpg"),
 )
 
 L'eau était fournis par les Robini, détenant la maison attenante à la place.
 
 == La population
 
-#figure(caption: [Evolution de la population de Saint-Colomban et de ses écarts], image("demographie.png"))
+#figure(caption: [Evolution de la population de Saint-Colomban et de ses écarts], image(".assets/demographie.png"))
 
 #figure(caption: [Population recensée à Saint-Colomban et dans ses écarts])[
-  #let demographie = csv("demographie.csv")
+  #let demographie = csv(".assets/demographie.csv")
   #let header-data = demographie.at(0)
   #let body-data = demographie.slice(1)
 
