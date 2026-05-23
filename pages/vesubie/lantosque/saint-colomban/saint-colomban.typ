@@ -139,15 +139,23 @@ Les habitants de Béasse se mariaient pour la plupart à des gens de Saint-Colom
     Beasse autrefois
   ])
   #colbreak()
-  #figure(image("beasse-ajd.jpg", width: 100%), caption: [
-    Beasse de nos jours\
-    (Photo #link("https://maps.app.goo.gl/eeaLHk77rb2eL56n8")[Laurent planson crequer])
+  #figure(image("beasse_maison_date.jpg", width: 100%), caption: [
+    Date inscrite sur l'une des maisons\
+    (Photo Arlette GALLI, 2006-09-22)
   ])
 ]))
 
-#figure(image("beasse_maison_date.jpg", width: 40%), caption: [
-  Date inscrite sur l'une des maisons (Photo Arlette GALLI, 2006-09-22)
-])
+#figure(
+  columns(2, [
+    #image("beasse_2022-12-18_face.jpg", width: 100%)
+    #colbreak()
+    #image("beasse_2022-12-18_haut.jpg", width: 100%)
+  ]),
+  caption: [
+    Beasse le 18 décembre 2022
+    (Photos #link("https://www.instagram.com/p/CmUEK0koakE/")[Laurent PLANSON CREQUER])
+  ],
+)
 
 #pagebreak()
 
@@ -288,7 +296,7 @@ Entre 1902 et 1908, une école y fut construite. Mais face à un exode rapide de
 
 #box(columns(2, [
   #figure(image("beasse_2011-04-25.jpg", width: 100%), caption: [
-    L'école est le bâtiment encore debut sur la droite de la photo (2011-04-25)
+    L'école de Béasse est le bâtiment encore debut sur la droite de la photo (2011-04-25)
   ])
   #colbreak()
   #figure(image("beasse_école.jpg", width: 100%), caption: [
@@ -302,7 +310,7 @@ Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - C
 
 #box(columns(2, [
   #figure(image("ecole-1930.jpg", width: 100%), caption: [
-    Les enfants à l'école de Saint-Colomban en 1930 (col. Emma Robini)
+    Les enfants de l'école de Saint-Colomban en 1930 (col. Emma ROBINI)
   ])
   #colbreak()
   #figure(image("ecole-1930-noms.jpg", width: 100%), caption: [
