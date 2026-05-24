@@ -80,9 +80,181 @@ Faute de sources écrites, ces tribus étant de culture purement orale, et en l'
 
 La vallée de la Vésubie est peuplée depuis l'antiquité, mais les sources sur cette période sont rares.
 
+#highlight[TODO : Villa retrouvée à Gordolon avec des travaux de relocalisation suite à la tempête Aline]
+
 Nous savons tout de même que le littoral niçois avait été quelque peu délaissé en raison de nombreuses invasions Wisigoths au Ve siècle, et que l'arrière-pays avait servi de refuge aux populations.
 
-Ce n'est qu'au Moyen Âge central (XIIe-XIIIe siècles) que les traces écrites se multiplient.
+Ce n'est qu'au Moyen Âge central (XII#super[e]-XIII#super[e] siècles) que les traces écrites se multiplient.
+
+#figure(
+  [
+    #show table.cell: set text(size: 0.8em, hyphenate: false, top-edge: "x-height")
+    #show table.cell.where(y: 0): set text(weight: "bold", size: 1.1em)
+    #show table.cell: set par(justify: false)
+
+    #table(
+      columns: (25%, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr),
+      align: center + horizon,
+      table.header(
+        [Nom du lieu],
+        [1067 #footnote([E. CAIS de PIERLAS, _Cartulaire de l'ancienne cathédrale de Nice_, _op. cit._, n°9])],
+        [c.\ 1075 #footnote([E. CAIS de PIERLAS et G. SAIGE, _Chartrier de l'abbaye de Saint-Pons, hors les murs de Nice_, _op. cit._, n°XII])],
+        [XII#super[e] s.\ \<1113 #footnote([N. DIDIER, H. DUBLED, J. BARRUOL et R. LATOUCHE, _Cartulaire de l'église d'Apt_, Paris, 1967, n°CXIV])],
+        [c.\ 1140 #footnote([A.D.A.M., 2 G2, fol. 103v.-104v. (bulle d'Innocent II qui évoque les "chevaliers de Lantosque"). E. CAIS de PIERLAS, _Cartulaire de l'ancienne cathédrale de Nice_, _op. cit._, n°52 (acte de 1141 mentionnant le "val de Lantosque")])],
+        [1141 #footnote([E. CAIS de PIERLAS, _Cartulaire de l'ancienne cathédrale de Nice_, _op. cit._, n°52])],
+        [c.\ 1150 #footnote([E. CAIS de PIERLAS, _Cartulaire de l'ancienne cathédrale de Nice_, _op. cit._, n°36])],
+        [XII#super[e] s. #footnote([M. PROU et P. CLOUZOT, _Pouillés des provinces d'Aix, d'Arles et d'Embrun_, _op. cit._, p2277-279])],
+        [c.\ 1235\ 1244 #footnote[A.D.B.R., B 143, fol. 61 R.-V. ("liste des castra")]],
+        [c.\ 1252 #footnote[E. BARATIER, _Enquêtes sur les droits et revenus de Charles Ier d'Anjou en Provence (1252 et 1278)_, _op. cit._, n°7, 24, 50, 54, 55, 75, 77, 79, 80 et 84]],
+      ),
+      [*Belvédère*], [], [], [], [], [], [], [H], [C], [C],
+      [*Brechet* #footnote[Territoire d'Utelle selon L. CAPPATTI, _"Castra Dirupta" et points de recherches, Arrondissement de Grasse_, _art. cit._, p 127 (?)]],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [H],
+      [],
+      [],
+
+      [*Castellet* #footnote[Territoire tenu c. 1252 par les hommes de Lantosque]],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [H],
+      [],
+      [D],
+
+      [*Castrum Vetus* #footnote[Territoire tenu c. 1252 par les hommes de Belvédère et Lantosque, ce qui le situe, assez vraisemblablement sur la rive gauche de la Vésubie, dans la partie sud de l'actuel territoire de Roquebillière ou au nord de celui de Lantosque. On a voulu voir cette localité suir les pentes de la cime de _Castel Vieil_ (au nord de l'actuel Roquebillière), mais il ne faut pas oublier que le nom de ce rocher se justifie assez par son aspect ruiniforme]],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [C],
+      [D],
+
+      [*Corolles* #footnote[Territoire tenu c. 1252 par les hommes de Lantosque. L'actuel lieu-dit Couroulès sur la carte IGN (au nord-est du hameau du Villars) est une identification certaine (L. CAPPATTI, _"Castra Dirupta" et points de recherches, Arrondissement de Grasse_, _art. cit._, p 130)]],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [H],
+      [],
+      [D],
+
+      [*Gast* #footnote[Lieu-dit du territoire de Roquebillière, connu sous la forme _Plangast_ sur la carte IGN. Quartier de l'ancienne église paroissiale.]],
+      [],
+      [M],
+      [],
+      [],
+      [V],
+      [],
+      [H],
+      [],
+      [],
+
+      [*Gordolon* #footnote[Hameau actuel au sud du territoire de Roquebillière]],
+      [],
+      [V M],
+      [],
+      [],
+      [],
+      [],
+      [H],
+      [C],
+      [D],
+
+      [*La Bollène*], [], [], [], [], [P], [], [H], [C], [D],
+      [*Lantosque*],
+      [],
+      [],
+      [P],
+      [H],
+      [],
+      [],
+      [H],
+      [H],
+      [C #footnote([_Castrum seu villa_. Porte le titre prestigieux de _villa_ au sens de ville et non pas de grande bâtisse])],
+
+      [*Loda* #footnote[Hameau actuel au sud du territoire de Lantosque]], [], [], [], [], [], [P], [H], [C], [C],
+      [*Mancel* #footnote[Quartier du territoire d'Utelle indiqué sous la graphie _Manchel_ sur l'ancienne carte d'état major de l'administration piémontaise, correspond sur la carte IGN aux granges ruinées de la Valetta]],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [H],
+      [],
+      [D],
+
+      [*Manoinas* #footnote[Quartier au nord du territoire d'Utelle selon la carte IGN]],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [H],
+      [],
+      [D],
+
+      [*Mons* #footnote[Territoires tenus c. 1252 par les hommes de Lantosque et le prieuré de Gordolon. Or nous savons que le prieuré de Gordolon, du moins en 1537, a des droits dans le mitoyuen entre Roquebillière et Lantosque (A.D.A.M. 1 J 118-2, toponyme indiqué sur la carte IGN). Il est probable que les deux localités se placent approximativement dans cette zone. Les adrets au sud et à l'est des forêts de _Sauma Longa_, occupés par plusieurs hameaux actuels de la commune de Lantosque, représentent une hypothèse séduisante.] <mons>],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [D],
+
+      [*Montezes* @mons], [], [], [], [], [], [], [], [], [D],
+      [*Roquebillière*], [], [], [], [], [], [], [], [C], [C],
+      [*Saint-Colomban* #footnote[Hameau actuel du sud de la commune de Lantosque]],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [H],
+      [],
+      [D],
+
+      [*Saint-Martin*], [], [], [], [], [], [], [H], [C], [C],
+      [*Utelle*], [], [], [], [], [], [P], [H], [C], [C],
+      [*Venanson*], [C], [], [], [], [], [], [H], [], [C],
+    )
+
+    #pad(x: 12.5%, bottom: 0.5em, align(left, text(size: 0.8em, columns(2)[
+      C : _Castrum_ (bourg castral, habitat fortifié)\
+      D : _Castrum dirutum_ (bourg castral en ruine)\
+      H : Simple mention de la localité
+      #colbreak()
+      M : Manse\
+      P : Mention par un surnom d'homme\
+      V : Villa\
+    ])))
+  ],
+  caption: [
+    Chronologie de l'habitat selon les principales sources écrites\
+    #text(
+      size: 0.9em,
+    )[(_Hommes et Communautés du Haut Pays Niçois Médiéval : La Vésubie (XIII#super[e]-XV#super[e] siècles)_, Jean-Paul Boyer, 1990, p415)]
+  ],
+)
 
 == Les XIVe et XVe siècles
 
