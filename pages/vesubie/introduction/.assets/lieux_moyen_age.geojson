@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "lieux_moyen_age",
+"features": [
+{ "type": "Feature", "properties": { "label": "Saint-Colomban" }, "geometry": { "type": "Point", "coordinates": [ 7.323124, 43.955837 ] } },
+{ "type": "Feature", "properties": { "label": "Loda" }, "geometry": { "type": "Point", "coordinates": [ 7.292842, 43.944537 ] } },
+{ "type": "Feature", "properties": { "label": "Roquebillière" }, "geometry": { "type": "Point", "coordinates": [ 7.311521, 44.01916 ] } },
+{ "type": "Feature", "properties": { "label": "Venanson" }, "geometry": { "type": "Point", "coordinates": [ 7.253648, 44.053021 ] } },
+{ "type": "Feature", "properties": { "label": "Saint-Martin" }, "geometry": { "type": "Point", "coordinates": [ 7.255931, 44.069735 ] } },
+{ "type": "Feature", "properties": { "label": "La Bollène" }, "geometry": { "type": "Point", "coordinates": [ 7.330956, 43.989861 ] } },
+{ "type": "Feature", "properties": { "label": "Lantosque" }, "geometry": { "type": "Point", "coordinates": [ 7.312727, 43.973538 ] } },
+{ "type": "Feature", "properties": { "label": "Utelle" }, "geometry": { "type": "Point", "coordinates": [ 7.244451, 43.918508 ] } },
+{ "type": "Feature", "properties": { "label": "Gordolon" }, "geometry": { "type": "Point", "coordinates": [ 7.314742, 43.998828 ] } },
+{ "type": "Feature", "properties": { "label": "Belvédère" }, "geometry": { "type": "Point", "coordinates": [ 7.319953, 44.01527 ] } },
+{ "type": "Feature", "properties": { "label": "Gast" }, "geometry": { "type": "Point", "coordinates": [ 7.306319, 44.016004 ] } },
+{ "type": "Feature", "properties": { "label": "Mancel" }, "geometry": { "type": "Point", "coordinates": [ 7.284103, 43.926133 ] } },
+{ "type": "Feature", "properties": { "label": "Mons et Montezes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.284864, 43.990811 ], [ 7.300144, 43.978176 ], [ 7.309622, 43.97871 ], [ 7.31403, 43.982157 ], [ 7.315227, 43.988431 ], [ 7.303678, 43.986682 ], [ 7.289843, 43.991713 ], [ 7.284864, 43.990811 ] ] ] } },
+{ "type": "Feature", "properties": { "label": "Manoinas" }, "geometry": { "type": "Point", "coordinates": [ 7.24039, 44.013663 ] } },
+{ "type": "Feature", "properties": { "label": "Corolles" }, "geometry": { "type": "Point", "coordinates": [ 7.282685, 43.993545 ] } },
+{ "type": "Feature", "properties": { "label": "Castrum Vetus" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.319041, 43.990512 ], [ 7.327279, 43.993111 ], [ 7.326134, 44.000082 ], [ 7.322664, 44.006155 ], [ 7.316966, 44.0012 ], [ 7.316316, 43.996671 ], [ 7.319041, 43.990512 ] ] ] } },
+{ "type": "Feature", "properties": { "label": "Brechet ?" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.241063, 43.95795 ], [ 7.233881, 43.955045 ], [ 7.234023, 43.946202 ], [ 7.240504, 43.941152 ], [ 7.24914, 43.941482 ], [ 7.251855, 43.948657 ], [ 7.247492, 43.955948 ], [ 7.241063, 43.95795 ] ] ] } },
+{ "type": "Feature", "properties": { "label": "Castellet ?" }, "geometry": { "type": "Point", "coordinates": [ 7.281099, 43.951199 ] } }
+]
+}

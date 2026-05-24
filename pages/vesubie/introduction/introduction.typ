@@ -209,7 +209,7 @@ Ce n'est qu'au Moyen Âge central (XII#super[e]-XIII#super[e] siècles) que les 
       [],
       [D],
 
-      [*Mons* #footnote[Territoires tenus c. 1252 par les hommes de Lantosque et le prieuré de Gordolon. Or nous savons que le prieuré de Gordolon, du moins en 1537, a des droits dans le mitoyuen entre Roquebillière et Lantosque (A.D.A.M. 1 J 118-2, toponyme indiqué sur la carte IGN). Il est probable que les deux localités se placent approximativement dans cette zone. Les adrets au sud et à l'est des forêts de _Sauma Longa_, occupés par plusieurs hameaux actuels de la commune de Lantosque, représentent une hypothèse séduisante.] <mons>],
+      [*Mons* #footnote[Territoires tenus c. 1252 par les hommes de Lantosque et le prieuré de Gordolon. Or nous savons que le prieuré de Gordolon, du moins en 1537, a des droits dans le mitoyen entre Roquebillière et Lantosque (A.D.A.M. 1 J 118-2, toponyme indiqué sur la carte IGN). Il est probable que les deux localités se placent approximativement dans cette zone. Les adrets au sud et à l'est des forêts de _Sauma Longa_, occupés par plusieurs hameaux actuels de la commune de Lantosque, représentent une hypothèse séduisante.] <mons>],
       [],
       [],
       [],
@@ -252,9 +252,16 @@ Ce n'est qu'au Moyen Âge central (XII#super[e]-XIII#super[e] siècles) que les 
     Chronologie de l'habitat selon les principales sources écrites\
     #text(
       size: 0.9em,
-    )[(_Hommes et Communautés du Haut Pays Niçois Médiéval : La Vésubie (XIII#super[e]-XV#super[e] siècles)_, Jean-Paul Boyer, 1990, p415)]
+    )[(BOYER Jean-Paul, _Hommes et Communautés du Haut Pays Niçois Médiéval : La Vésubie (XIII#super[e]-XV#super[e] siècles)_, 1990, p415)]
   ],
 )
+
+#figure(image(".assets/lieux_moyen_age.svg"), caption: [
+  Position supposée des différents habitats\
+  (Travail personnel à partir des renseignements de Jean-Paul BOYER, la position du Brechet et du Castellet est une spéculation purement personnelle)
+])
+
+La vallée prend le nom de Val de Lantusca dès 1141.
 
 == Les XIVe et XVe siècles
 
