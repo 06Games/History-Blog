@@ -165,7 +165,7 @@ Ce n'est qu'au Moyen Âge central (XII#super[e]-XIII#super[e] siècles) que les 
 
       [*Gordolon* #footnote[Hameau actuel au sud du territoire de Roquebillière]],
       [],
-      [V M],
+      [V M #footnote[Villa avec église accompagnée d'un manse]],
       [],
       [],
       [],
@@ -239,13 +239,13 @@ Ce n'est qu'au Moyen Âge central (XII#super[e]-XIII#super[e] siècles) que les 
     )
 
     #pad(x: 12.5%, bottom: 0.5em, align(left, text(size: 0.8em, columns(2)[
+      M : Manse (terre jugée nécessaire pour vivre)\
+      V : Villa\
+      P : Mention par un surnom d'homme
+      #colbreak()
       C : _Castrum_ (bourg castral, habitat fortifié)\
       D : _Castrum dirutum_ (bourg castral en ruine)\
       H : Simple mention de la localité
-      #colbreak()
-      M : Manse\
-      P : Mention par un surnom d'homme\
-      V : Villa\
     ])))
   ],
   caption: [
@@ -261,7 +261,7 @@ Ce n'est qu'au Moyen Âge central (XII#super[e]-XIII#super[e] siècles) que les 
   (Travail personnel à partir des renseignements de Jean-Paul BOYER, la position du Brechet et du Castellet est une spéculation purement personnelle)
 ])
 
-La vallée prend le nom de Val de Lantusca dès 1141.
+La vallée prend le nom de Val de Lantosque dès 1141.
 
 == Les XIVe et XVe siècles
 

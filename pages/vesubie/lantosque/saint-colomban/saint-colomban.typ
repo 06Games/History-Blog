@@ -21,33 +21,82 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
 
 === Saint-Colomban
 
-#box(columns(2, [
-  #figure(image(".assets/st_col/saint-colomban dessus.jpg", width: 100%), caption: [
+#box(grid(
+  columns: 2,
+  figure(image(".assets/st_col/saint-colomban dessus.jpg", width: 100%), caption: [
     Saint-Colomban vu du dessus
-  ])
-  #colbreak()
-  #figure(image(".assets/st_col/saint-colomban face.jpg", width: 100%), caption: [
+  ]),
+  figure(image(".assets/st_col/saint-colomban face.jpg", width: 100%), caption: [
     Saint-Colomban vu d'en face
-  ])
-]))
+  ]),
+))
 
-#box(columns(2, [
-  #figure(
+
+#figure(
+  image(
+    ".assets/st_col/SAINT-COLOMBAN DE LANTOSQUE - 1 - Quartiers du Collet, de l'Eglise de Plena, Gléa-Lière.jpg",
+    width: 80%,
+  ),
+  caption: [
+    Saint-Colomban vu d'en face vers le début du siècle dernier. #footnote[
+      On notera que l'éditeur de la carte postale a eu bien du mal à comprendre les noms de lieu qui lui était présenté puisqu'ils ont été assez fortement écorchées.
+
+      Collet = Le Coulet ("Lo Colet" en occitan, ce qui se prononce "Lou Coulet", désigne une zone de rupture de pente)\
+      Église de Plena = "Église de la plaine", du replat, aujourd'hui connu comme le quartier de la place (et où se situe toujours l'église de nos jours)\
+      Gléa = Glèia ou Glèya (Que l'ont peut franciser en quartier de "l’église", nommé ainsi car l'église y était située auparavant)\
+      Lière = L'Ièra (Au vu de l'étymologie, cela devait être une aire de battage)
+
+      Le X sur l'église semble être une marque ultérieure à l'encre bleue.
+    ]
+
+    On observe dans la végétation à gauche une bâtisse actuellement chez Jean-Paul à l'Ièra.\
+    _La maison de l'Escassa n'est pas visible car en contre-bas._
+    Au dessus, les maisons de la Glèia.\
+    Au premier plan, les deux maisons du coté gauche du Chemin des Maurins en descendant de l'église ainsi que l'église elle-même avec le presbytère. _La maison "des Thaons" en face de la place est cachée par l'église._\
+    À droite, l'École, les maisons du Coulet et le transformateur électrique. Au dessus, le cimetière.
+  ],
+)
+
+#box(grid(
+  columns: 2,
+  figure(
     image(".assets/st_col/carte_postale_coulet.webp", width: 100%),
     caption: [Carte postale montrant la vue depuis la route sur le dessus du Coulet (quartier de Saint-Colomban)],
-  )
-  #colbreak()
-  #figure(
+  ),
+  figure(
     image(".assets/st_col/carte_postale_ecole.jpg", width: 100%),
     caption: [Carte postale montrant l'école et le lavoir au dessus du Coulet],
-  )
-]))
+  ),
+))
 
 === Gorblaou
 
-#figure(image(".assets/gorblaou/gorblaou.jpg", width: 100%), caption: [
-  Gorbloau
-])
+#box(grid(
+  columns: 2,
+  [
+    #figure(
+      image(
+        ".assets/gorblaou/SAINT-COLOMBAN DE LANTOSQUE - 6 - Quartier Gorbleau. Col de Rabul recto.jpg",
+        width: 100%,
+      ),
+      caption: [
+        Gorblaou vers le début du siècle dernier
+      ],
+    )
+    #figure(image(".assets/gorblaou/gorblaou.jpg", width: 100%), caption: [
+      Gorblaou
+    ])
+  ],
+  figure(
+    image(
+      ".assets/gorblaou/SAINT-COLOMBAN DE LANTOSQUE - 7 - Le Pont de Gorbleau et le Moulin à farine.jpg",
+      width: 100%,
+    ),
+    caption: [
+      Le pont au dessus du vallon et le Moulin, en contre-bas de Gorblaou
+    ],
+  ),
+))
 
 === Camari
 
@@ -60,25 +109,23 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
 Les terrains de la Colle ont été racheté, autour de 2020, par les Allari de Gorblaou qui ont entrepris des travaux de restauration sur l'une des granges ainsi que la création d'une piste à partir de la "Piste des Chasseurs" à Camari.
 
 #figure(
-  columns(3, [
-    #image(".assets/colle/grange_sud_date.jpg", width: 100%)
-    #colbreak()
-    #image(".assets/colle/grange_sud.jpg", width: 100%)
-    #colbreak()
-    #image(".assets/colle/grange_sud_2.jpg", width: 100%)
-  ]),
+  grid(
+    columns: 3,
+    image(".assets/colle/grange_sud_date.jpg", width: 100%),
+    image(".assets/colle/grange_sud.jpg", width: 100%),
+    image(".assets/colle/grange_sud_2.jpg", width: 100%),
+  ),
   caption: [La grange la plus au sud, en contre-bas des autres. Elle est datée de 1851\ (Photos personnelles, 2021-08-07 et 2025-12-31 pour la dernière)],
 )
 
 #box(grid(
   columns: (66%, 33%),
-  gutter: 1em,
   figure(
-    columns(2, gutter: 1em, [
-      #image(".assets/colle/grange_ouest_2021_2.jpg", width: 100%)
-      #colbreak()
-      #image(".assets/colle/grange_ouest_2021.jpg", width: 100%)
-    ]),
+    grid(
+      columns: 2,
+      image(".assets/colle/grange_ouest_2021_2.jpg", width: 100%),
+      image(".assets/colle/grange_ouest_2021.jpg", width: 100%),
+    ),
     caption: [La grange ouest durant les travaux de restauration\
       (Photos personnelles, 2021-08-07)],
   ),
@@ -94,22 +141,20 @@ Les terrains de la Colle ont été racheté, autour de 2020, par les Allari de G
 )
 
 #figure(
-  columns(3, [
-    #image(".assets/colle/grange_est.jpg", width: 100%)
-    #colbreak()
-    #image(".assets/colle/grange_est_2.jpg", width: 100%)
-    #colbreak()
-    #image(".assets/colle/grange_est_3.jpg", width: 100%)
-  ]),
+  grid(
+    columns: 3,
+    image(".assets/colle/grange_est.jpg", width: 100%),
+    image(".assets/colle/grange_est_2.jpg", width: 100%),
+    image(".assets/colle/grange_est_3.jpg", width: 100%),
+  ),
   caption: [La grange est (Photos personnelles, 2021-08-07)],
 )
 
 #box(figure(
-  columns(2, [
-    #image(".assets/colle/piste.jpg", width: 100%)
-    #colbreak()
-    #image(".assets/colle/piste_2.jpg", width: 100%)
-  ]),
+  grid(
+    columns: 2,
+    image(".assets/colle/piste.jpg", width: 100%), image(".assets/colle/piste_2.jpg", width: 100%),
+  ),
   caption: [La piste réalisée en deuxième partie de 2023 (Photos personnelles, 2023-11-03)],
 ))
 
@@ -178,23 +223,23 @@ Un recensement daté d'août 1718 fait état de 27 personnes, 12 boeufs, 8 vache
 
 Les habitants de Béasse se mariaient pour la plupart à des gens de Saint-Colomban ou de Loda, qui étaient respectivement à 30 min et 1h de marche.
 
-#box(columns(2, [
-  #figure(image(".assets/beasse/beasse_avant.jpg", width: 100%), caption: [
+#box(grid(
+  columns: 2,
+  figure(image(".assets/beasse/beasse_avant.jpg", width: 100%), caption: [
     Beasse autrefois
-  ])
-  #colbreak()
-  #figure(image(".assets/beasse/beasse_maison_date.jpg", width: 100%), caption: [
+  ]),
+  figure(image(".assets/beasse/beasse_maison_date.jpg", width: 100%), caption: [
     Date inscrite sur l'une des maisons\
     (Photo Arlette GALLI, 2006-09-22)
-  ])
-]))
+  ]),
+))
 
 #figure(
-  columns(2, [
-    #image(".assets/beasse/beasse_2022-12-18_face.jpg", width: 100%)
-    #colbreak()
-    #image(".assets/beasse/beasse_2022-12-18_haut.jpg", width: 100%)
-  ]),
+  grid(
+    columns: 2,
+    image(".assets/beasse/beasse_2022-12-18_face.jpg", width: 100%),
+    image(".assets/beasse/beasse_2022-12-18_haut.jpg", width: 100%),
+  ),
   caption: [
     Beasse le 18 décembre 2022
     (Photos #link("https://www.instagram.com/p/CmUEK0koakE/")[Laurent PLANSON CREQUER])
@@ -218,52 +263,51 @@ Les matériaux nécessaires à sa construction auraient été transportés pierr
 
 Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des travaux de rénovation vers 1915, à la suite d'un incendie accidentel ayant détruit l'autel, puis à nouveau en 1933. La facade fut refaite par la mairie en août 2013.
 
-#figure(caption: [Le maître-autel de l'église avant l'incendie de 1915], columns(2)[
-  #image(".assets/st_col/eglise/eglise_maitre_autel_bef-1915.png", width: 100%)
-  #colbreak()
-  #image(".assets/st_col/eglise/eglise_maitre_autel_bef-1915_verso.png", width: 100%)
-])
+#figure(caption: [Le maître-autel de l'église avant l'incendie de 1915], grid(
+  columns: 2,
+  image(".assets/st_col/eglise/eglise_maitre_autel_bef-1915.png", width: 100%),
+  image(".assets/st_col/eglise/eglise_maitre_autel_bef-1915_verso.png", width: 100%),
+))
 
-#box(columns(2)[
-  #figure(
+#box(grid(
+  columns: 2,
+  figure(
     caption: [L'église sous la neige (2011-01-30)],
     image(".assets/st_col/eglise/eglise_neige_2011-01-30.jpg"),
-  )
-  #colbreak()
-  #figure(
+  ),
+  figure(
     caption: [Une cloche (2010-10-30)],
     image(".assets/st_col/eglise/eglise_cloche_2010-10-30.jpg"),
-  )
-])
+  ),
+))
 
-#box(columns(2)[
-  #figure(
+#box(grid(
+  columns: 2,
+  figure(
     caption: [L'église vue de derrière (2011-04-25)],
     image(".assets/st_col/eglise/eglise_derrière_2011-04-25.jpg"),
-  )
-  #colbreak()
-  #figure(
+  ),
+  figure(
     caption: [Le ravalement (2013-08-13)],
     image(".assets/st_col/eglise/eglise_ravalement_2013-08-13.jpg"),
-  )
-])
+  ),
+))
 
-#box(columns(3)[
-  #figure(
+#box(grid(
+  columns: 3,
+  figure(
     caption: [Photo réalisée au Polaroid (s.d.)],
     image(".assets/st_col/eglise/eglise_polaroid_s.d..jpg"),
-  )
-  #colbreak()
-  #figure(
+  ),
+  figure(
     caption: [L'église avant le ravalement (2010-04-22)],
     image("./.assets/st_col/eglise/eglise_2010-04-22.jpg"),
-  )
-  #colbreak()
-  #figure(
+  ),
+  figure(
     caption: [L'église de nos jours (2026-05-08)],
     image(".assets/st_col/eglise/eglise_2026-05-08.jpg"),
-  )
-])
+  ),
+))
 
 Une plaque commémorative rendant hommage aux habitants morts pour la France est apposée sur le mur gauche à l'entrée.
 
@@ -277,15 +321,15 @@ Le cimetière semble avoir été installé là où il se situe actuellement, ent
 
 Sur le chemin de la Gleya, dans la ruelle descendant à la place, on peut encore voir sur le haut d'une porte à droite en descendant l'enseigne d'un ancien café restaurant tenu par François et Philippine Thaon.
 
-#box(columns(2, [
-  #figure(image(".assets/st_col/chemin_de_la_gleya_ruelle.jpg", width: 100%), caption: [
+#box(grid(
+  columns: 2,
+  figure(image(".assets/st_col/chemin_de_la_gleya_ruelle.jpg", width: 100%), caption: [
     La ruelle descendant à la place
-  ])
-  #colbreak()
-  #figure(image(".assets/st_col/chemin_de_la_gleya_bar.jpg", width: 100%), caption: [
+  ]),
+  figure(image(".assets/st_col/chemin_de_la_gleya_bar.jpg", width: 100%), caption: [
     L'enseigne du café restaurant de la place
-  ])
-]))
+  ]),
+))
 
 Une buvettes était présente au quartier du Coulet dans la maison à droite de la placette.
 
@@ -304,8 +348,9 @@ Il y avait 3 fours, un au Coulet à Saint-Colomban, un à l'entrée du hameau de
   Le four à pain de Béasse tel qu'il était
   (Photo Jean-Nicolas BEASSE)
 ])
-#box(columns(2, [
-  #figure(
+#box(grid(
+  columns: 2,
+  figure(
     [
       #image(".assets/beasse/beasse_four_pierres.jpg", width: 100%)
       #image(".assets/beasse/beasse_four_pierres_2006.jpg", width: 100%)
@@ -314,9 +359,8 @@ Il y avait 3 fours, un au Coulet à Saint-Colomban, un à l'entrée du hameau de
       Le même four après que des pierres aient été volés autour de 2006\
       (Photos Jean-Nicolas BEASSE et Arlette GALLI)
     ],
-  )
-  #colbreak()
-  #figure(
+  ),
+  figure(
     [
       #image(".assets/beasse/beasse_four_restauration.jpg", width: 100%)
       #image(".assets/beasse/beasse_four_restauration2.jpg", width: 100%)
@@ -324,11 +368,9 @@ Il y avait 3 fours, un au Coulet à Saint-Colomban, un à l'entrée du hameau de
     caption: [
       Le four a été quelque peu réarrangé début octobre 2022 (Photos #link("https://www.facebook.com/groups/21906880800/permalink/10160040968690801/")[Jackou Laugier] et #link("https://www.facebook.com/groups/21906880800/permalink/10160039939100801/")[Olon Nolo])
     ],
-  )
-]))
-#box(columns(2, [
-  #colbreak()
-]))
+  ),
+))
+
 #pagebreak()
 
 == L'éducation
@@ -338,29 +380,29 @@ Une école fut construite au dessus du quartier du Coulet à Saint-Colomban en 1
 Les enfants de Béasse montaient et descendaient chaque jour à l'école de Saint-Colomban, ce qui représente environ trois quarts d'heure de marche.
 Entre 1902 et 1908, une école y fut construite. Mais face à un exode rapide de la population de Béasse, elle fut contrainte de fermer, son nombre d'élève passant de 17 enfants en 1917 à seulement 3 en 1922, année de sa fermeture.
 
-#box(columns(2, [
-  #figure(image(".assets/beasse/beasse_2011-04-25.jpg", width: 100%), caption: [
+#box(grid(
+  columns: 2,
+  figure(image(".assets/beasse/beasse_2011-04-25.jpg", width: 100%), caption: [
     L'école de Béasse est le bâtiment encore debut sur la droite de la photo (2011-04-25)
-  ])
-  #colbreak()
-  #figure(image(".assets/beasse/beasse_école.jpg", width: 100%), caption: [
+  ]),
+  figure(image(".assets/beasse/beasse_école.jpg", width: 100%), caption: [
     L'escalier pour entrer à l'étage (2022-02-15)
-  ])
-]))
+  ]),
+))
 
 L'école de Saint-Colomban ferma à son tour en 19xx et fut reconvertie en gite. Puis, le gite fut contrait de fermer dans les années 2010 suite à une changement des normes en matière d'accessibilité, qui auraient nécessité des travaux, ce que la mairie n'a pas souhaité faire.
 
 Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - Compte rendu conseil municipal 2016-10-17.pdf")[17/10/2016]], l'ancienne école de Saint-Colomban servait de bureau de vote lors des élections. Dorénavant, les électeurs de Saint-Colomban et Loda votent à Lantosque dans la salle Gilbert Gaglio.
 
-#box(columns(2, [
-  #figure(image(".assets/ecole-1930.jpg", width: 100%), caption: [
+#box(grid(
+  columns: 2,
+  figure(image(".assets/ecole-1930.jpg", width: 100%), caption: [
     Les enfants de l'école de Saint-Colomban en 1930 (col. Emma ROBINI)
-  ])
-  #colbreak()
-  #figure(image(".assets/ecole-1930-noms.jpg", width: 100%), caption: [
+  ]),
+  figure(image(".assets/ecole-1930-noms.jpg", width: 100%), caption: [
     Photographie annotée avec le nom des enfants (réalisée pour une exposition)
-  ])
-]))
+  ]),
+))
 
 == La route
 
@@ -420,11 +462,10 @@ Tous les été, un festin est réalisé sur la place devant l'église.
 
 #figure(
   caption: [Bons d'entrée pour le bal de septembre 1936],
-  columns(2, [
-    #image(".assets/st_col/festin_bons_1936_hommes.jpg")
-    #colbreak()
-    #image(".assets/st_col/festin_bons_1936_femmes.jpg")
-  ]),
+  grid(
+    columns: 2,
+    image(".assets/st_col/festin_bons_1936_hommes.jpg"), image(".assets/st_col/festin_bons_1936_femmes.jpg"),
+  ),
 )
 
 Les rambardes autour de la place et le "balcon" pour les musiciens (ou plus récemment le D.J.) ont été réalisés par Joseph Macri et Jean Robini en 1991.
