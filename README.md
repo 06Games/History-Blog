@@ -1,13 +1,5 @@
 # Development
 
-To build this ebook, you'll need [typst](https://typst.app/).
+To build this ebook, you'll need [typst](https://typst.app/) and [shiroa-cli](https://github.com/Myriad-Dreamin/shiroa/releases)
 
-## Web
-
-1. Install [shiroa-cli](https://github.com/Myriad-Dreamin/shiroa/releases)
-2. `shiroa build`
-3. Deploy `dist` folder
-
-## Book
-
-`typst compile ebook.typ`
+Just execute `make` and you'll find the result in the `dist` folder
