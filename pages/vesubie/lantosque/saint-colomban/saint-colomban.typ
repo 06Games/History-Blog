@@ -17,7 +17,58 @@ Les habitations sont décrites comme en ruine dans le registre d'"État des droi
 
 Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou et Camari. Il existe également des écarts dorénavant abandonnés, comme la Couala de Guillerm _(La Colle)_ et Béasse sur la commune de Lucéram.
 
-#highlight[Vue aérienne années 50]
+#[
+  #let legend(color: white.transparentize(20%), size: 10pt, content) = circle(
+    stroke: color.transparentize(50%),
+    inset: 1pt,
+    align(
+      center,
+      text(
+        fill: color,
+        size: size,
+        weight: "bold",
+        content,
+      ),
+    ),
+  )
+
+  #align(center + horizon, box(width: 75%, figure(
+    box[
+      #pad(5.75%, rotate(-98deg, image(
+        ".assets/IGNF_PVA_1-0__1945-07-14__C3840-0131_1945_MISSIONALPES16_5133.jpg",
+        width: 100%,
+      )))
+
+      #place(top + left, legend("1"), dx: 30%, dy: 41%)
+      #place(top + left, legend("2"), dx: 41%, dy: 50%)
+      #place(top + left, legend("3"), dx: 56%, dy: 40%)
+      #place(top + left, legend("4"), dx: 55%, dy: 69%)
+      #place(top + left, legend("5", size: 8pt, color: aqua), dx: 44%, dy: 19%)
+      #place(top + left, legend("6", size: 8pt, color: aqua), dx: 78%, dy: 34%)
+    ],
+    caption: [
+      Saint-Colomban et ses environs vu du ciel le 14 juillet 1945\
+      (#link("https://remonterletemps.ign.fr/telecharger/?lon=7.325373&lat=43.953506&z=14&pointer=true&layer=pva&year=1944&mission=3840-0131")[IGN, Mission 3840-0131, Cliché 5133, Échelle 1/26974])
+
+      #let leg(num, content, color: black) = grid(
+        columns: 2,
+        column-gutter: 5pt,
+        align: horizon,
+        legend(color: color, size: 7pt, num), text(size: 7pt)[: #content],
+      )
+      #grid(
+        columns: (1fr, 1fr, 1fr, 1fr),
+        column-gutter: 1em,
+        row-gutter: 5pt,
+        align: center + horizon,
+        leg("1", "Saint-Colomban"), leg("2", "Gorblaou"), leg("3", "Camari"),
+        leg("4", "Béasse"),
+        grid.cell(colspan: 2, leg("5", "La Couala de Guillerm", color: blue)),
+        grid.cell(colspan: 2, leg("6", "Raynaud Soupran, Raynaud Soutran et Raynaudun", color: blue)),
+      )
+    ],
+  )))
+]
 
 === Saint-Colomban
 
@@ -104,60 +155,6 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
   Camari
 ])
 
-=== La Couala de Guillerm
-
-Les terrains de la Colle ont été racheté, autour de 2020, par les Allari de Gorblaou qui ont entrepris des travaux de restauration sur l'une des granges ainsi que la création d'une piste à partir de la "Piste des Chasseurs" à Camari.
-
-#figure(
-  grid(
-    columns: 3,
-    image(".assets/colle/grange_sud_date.jpg", width: 100%),
-    image(".assets/colle/grange_sud.jpg", width: 100%),
-    image(".assets/colle/grange_sud_2.jpg", width: 100%),
-  ),
-  caption: [La grange la plus au sud, en contre-bas des autres. Elle est datée de 1851\ (Photos personnelles, 2021-08-07 et 2025-12-31 pour la dernière)],
-)
-
-#box(grid(
-  columns: (66%, 33%),
-  figure(
-    grid(
-      columns: 2,
-      image(".assets/colle/grange_ouest_2021_2.jpg", width: 100%),
-      image(".assets/colle/grange_ouest_2021.jpg", width: 100%),
-    ),
-    caption: [La grange ouest durant les travaux de restauration\
-      (Photos personnelles, 2021-08-07)],
-  ),
-  figure(image(".assets/colle/grange_ouest_2025.jpg", width: 100%), caption: [
-    La grange ouest après les travaux de restauration\
-    (Photo personnelle, 2025-12-31)
-  ]),
-))
-
-#figure(
-  image(".assets/colle/grange_centre.jpg", width: 50%),
-  caption: [La grange du centre (Photo personnelle, 2021-08-07)],
-)
-
-#figure(
-  grid(
-    columns: 3,
-    image(".assets/colle/grange_est.jpg", width: 100%),
-    image(".assets/colle/grange_est_2.jpg", width: 100%),
-    image(".assets/colle/grange_est_3.jpg", width: 100%),
-  ),
-  caption: [La grange est (Photos personnelles, 2021-08-07)],
-)
-
-#box(figure(
-  grid(
-    columns: 2,
-    image(".assets/colle/piste.jpg", width: 100%), image(".assets/colle/piste_2.jpg", width: 100%),
-  ),
-  caption: [La piste réalisée en deuxième partie de 2023 (Photos personnelles, 2023-11-03)],
-))
-
 === Béasse (Lucéram)
 
 Béasse, dit "Biassa" en occitan, est un hameau dorénavant en ruine et à l'abandon situé sur la commune de Lucéram.
@@ -234,6 +231,20 @@ Les habitants de Béasse se mariaient pour la plupart à des gens de Saint-Colom
   ]),
 ))
 
+Autour de 1978 #footnote[Déjà en ruine sur les photos aérienne de la #link("https://remonterletemps.ign.fr/telecharger/?lon=7.342103&lat=43.943941&z=14&pointer=true&layer=pva&year=1977&couleur=P&mission=3541-0041")[mission 3541-0041 du 03/09/1978] de l'IGN], la majorité des maisons sont détruite dans un incendie vraisemblablement criminel. On raconte qu'un mari découvrant que sa femme le trompait avec le voisin décida de se venger en mettant le feu à son habitation. Le feu prit un caractère incontrollable et se propagea à l'ensemble des maisons mitoyennes.
+
+#figure(
+  grid(
+    columns: 2,
+    image(".assets/beasse/IGNF_PVA_1-0__1979-08-14__C3441-0042_1979_FR9084_1148.jpg", width: 100%),
+    image(".assets/beasse/IGNF_PVA_1-0__1979-08-14__C3441-0041_1978_FR9084_1148.jpg", width: 100%),
+  ),
+  caption: [
+    Photos aériennes prisent le 14 août 1979, peu de temps après l'incendie ravageur\
+    (#link("https://remonterletemps.ign.fr/telecharger/?lon=7.342845&lat=43.944625&z=14.5&pointer=true&layer=pva&year=1978&couleur=C&mission=3441-0042")[IGN, Mis. 3441-0042, Cliché 1148, Éch. 1/14203] et #link("https://remonterletemps.ign.fr/telecharger/?lon=7.342845&lat=43.944625&z=14.5&pointer=true&layer=pva&year=1978&couleur=C&mission=3441-0042")[IGN, Mis. 3441-0041, Cliché 1148, Éch. 1/14263])
+  ],
+)
+
 #figure(
   grid(
     columns: 2,
@@ -245,6 +256,60 @@ Les habitants de Béasse se mariaient pour la plupart à des gens de Saint-Colom
     (Photos #link("https://www.instagram.com/p/CmUEK0koakE/")[Laurent PLANSON CREQUER])
   ],
 )
+
+=== La Couala de Guillerm
+
+Les terrains de la Colle ont été racheté, autour de 2020, par les Allari de Gorblaou qui ont entrepris des travaux de restauration sur l'une des granges ainsi que la création d'une piste à partir de la "Piste des Chasseurs" à Camari.
+
+#figure(
+  grid(
+    columns: 3,
+    image(".assets/colle/grange_sud_date.jpg", width: 100%),
+    image(".assets/colle/grange_sud.jpg", width: 100%),
+    image(".assets/colle/grange_sud_2.jpg", width: 100%),
+  ),
+  caption: [La grange la plus au sud, en contre-bas des autres. Elle est datée de 1851\ (Photos personnelles, 2021-08-07 et 2025-12-31 pour la dernière)],
+)
+
+#box(grid(
+  columns: (66%, 33%),
+  figure(
+    grid(
+      columns: 2,
+      image(".assets/colle/grange_ouest_2021_2.jpg", width: 100%),
+      image(".assets/colle/grange_ouest_2021.jpg", width: 100%),
+    ),
+    caption: [La grange ouest durant les travaux de restauration\
+      (Photos personnelles, 2021-08-07)],
+  ),
+  figure(image(".assets/colle/grange_ouest_2025.jpg", width: 100%), caption: [
+    La grange ouest après les travaux de restauration\
+    (Photo personnelle, 2025-12-31)
+  ]),
+))
+
+#figure(
+  image(".assets/colle/grange_centre.jpg", width: 50%),
+  caption: [La grange du centre (Photo personnelle, 2021-08-07)],
+)
+
+#figure(
+  grid(
+    columns: 3,
+    image(".assets/colle/grange_est.jpg", width: 100%),
+    image(".assets/colle/grange_est_2.jpg", width: 100%),
+    image(".assets/colle/grange_est_3.jpg", width: 100%),
+  ),
+  caption: [La grange est (Photos personnelles, 2021-08-07)],
+)
+
+#box(figure(
+  grid(
+    columns: 2,
+    image(".assets/colle/piste.jpg", width: 100%), image(".assets/colle/piste_2.jpg", width: 100%),
+  ),
+  caption: [La piste réalisée en deuxième partie de 2023 (Photos personnelles, 2023-11-03)],
+))
 
 #pagebreak()
 
