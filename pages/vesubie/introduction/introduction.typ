@@ -12,12 +12,12 @@ L'#link("https://fr.wikipedia.org/wiki/Arc_d%27Auguste_(Suse)")[Arc d'Auguste] �
 #columns(2, [
   #figure(image(".assets/Arco_di_Augusto-Susa.jpg", width: 100%), caption: [
     L'Arc d'Auguste de Suse\
-    (Photo #link("https://commons.wikimedia.org/wiki/File:Arco_di_Augusto-Susa.jpg#/media/Fichier:Arco_di_Augusto-Susa.jpg")[Lorenzo Rossetti (Wikipedia)])
+    (#link("https://commons.wikimedia.org/wiki/File:Arco_di_Augusto-Susa.jpg#/media/Fichier:Arco_di_Augusto-Susa.jpg")[ROSSETTI Lorenzo, Wikimedia])
   ])
   #colbreak()
   #figure(image(".assets/Frise_Arc_d'Auguste_de_Suse_(septembre_2024).jpg", width: 100%), caption: [
     Frise de l'Arc d'Auguste de Suse\
-    (Photo #link("https://commons.wikimedia.org/wiki/File:Frise_Arc_d%27Auguste_de_Suse_(septembre_2024).JPG#/media/Fichier:Frise_Arc_d'Auguste_de_Suse_(septembre_2024).JPG")[  Florian Pépellin (Wikipedia)]).
+    (#link("https://commons.wikimedia.org/wiki/File:Frise_Arc_d%27Auguste_de_Suse_(septembre_2024).JPG#/media/Fichier:Frise_Arc_d'Auguste_de_Suse_(septembre_2024).JPG")[PÉPELLIN Florian, Wikimedia]).
   ])
 ])
 
@@ -49,7 +49,7 @@ Un an plus tard, en 7 ou 6 av. J.-C., le Sénat romain fait élever le #link("ht
 
   #figure(image(".assets/2021-07-25.jpg", width: 100%), caption: [
     La gravure inaugurée en 1934 d'après la reconstitution de Jules Formigé\
-    (Photo #link("https://maps.app.goo.gl/aAsoZ9wkLJtR1Bd77")[Laurent Larroche])])
+    (#link("https://maps.app.goo.gl/aAsoZ9wkLJtR1Bd77")[LARROCHE Laurent])])
 ])
 
 #figure(
@@ -76,56 +76,64 @@ Il y a donc plusieurs hypothèses qui s'affrontent :
 
 Faute de sources écrites, ces tribus étant de culture purement orale, et en l'absence de nouvelles découvertes archéologiques majeures, il est aujourd'hui difficile de trancher définitivement la question.
 
-== Appartenance politique après la chute de l'Empire Romain
+== Sous l'Empire romain
 
-La Vésubie suit l'histoire de la Provence après la chute de l'Empire Romain.
+#highlight[TODO : Villa retrouvée à Gordolon grâce à des travaux de relocalisation d'entreprises suite à la tempête Alex]
 
-En 411, les frères Jovin et Sebastianus, ursupateurs romains oposés l'empereur Flavius Honorius, se font élire "empereurs", et prennent le controle de la Gaule.
+== Appartenance politique après la chute de l'Empire Romain (411-536)
 
-En 412, ils sont renversés par Athaulf, roi des Wisigoths lors de son passage vers l'Hispanie (les ursupateurs seront exécutés l'année suivante à Narbonne). Le duché de Provence est alors crée et le duché est intégré à son royaume.
+La vallée de la Vésubie, bien qu'isolée dans ses montagnes, suit intimement l'histoire tumultueuse de la Provence après la chute de l'Empire Romain. Durant ces siècles d'instabilité, son caractère enclavé en fait d'ailleurs un refuge stratégique pour les populations côtières.
 
-En 484, c'est au tour de Gondebaud, roi des Burgondes (qui ont donnés leur nom à la Bourgogne), de prendre le contrôle du duché de Provence.
+En 411, les frères Jovin et Sebastianus, usurpateurs romains opposés à l'empereur Flavius Honorius, se font élire "empereurs", et prennent le contrôle de la Gaule.
+
+En 412, ils sont renversés par Athaulf, roi des Wisigoths, lors de son passage vers l'Hispanie (les usurpateurs seront exécutés l'année suivante à Narbonne). La région provençale (l'ancienne _Provincia_ romaine) est alors intégrée à son royaume.
+
+En 484, c'est au tour de Gondebaud, roi des Burgondes (qui ont donné leur nom à la Bourgogne), de prendre le contrôle de la Provence.
 
 #figure(
-  caption: [Expensions succéssives du Royaume Burgonde entre 443 et 485 (#link("https://commons.wikimedia.org/wiki/File:%C3%89volution_royaume_burgonde_443-485.png")[Wikimedia])],
+  caption: [Expansions successives du Royaume Burgonde entre 443 et 485 (#link("https://commons.wikimedia.org/wiki/File:%C3%89volution_royaume_burgonde_443-485.png")[Wikimedia])],
   image(".assets/an_485_royaume_burgonde.png", height: 7.5cm),
 )
 
-En 501 les Wisigoths, aidés des Francs reprennent la Provence mais la perdent en automne 507, suite à la bataille de Vouillé, au profit des Burgondes, dornavant aliés aux Francs.
+En 501, les Wisigoths, aidés des Francs, reprennent la Provence mais la perdent en automne 507, à la suite de la bataille de Vouillé, au profit des Burgondes, dorénavant alliés aux Francs.
 
 #figure(
-  caption: [Les reconquetes Burgondes de 507 (#link("https://commons.wikimedia.org/wiki/File:Burgondes507-509.png")[Wikimedia])],
+  caption: [Les reconquêtes Burgondes de 507 (#link("https://commons.wikimedia.org/wiki/File:Burgondes507-509.png")[Wikimedia])],
   image(".assets/an_507_burgondes.png", height: 7.5cm),
 )
 
-En août 508, Théodoric le Grand, roi des Ostrogoths repousse les Francs et les Burgondes et devint le tuteur du jeune roi wisigoth Amalaric alors âgé de six ans. Il controle alors de fait l'ensemble des deux royaumes.
-Son reigne apporte une période de paix et de restauration du système administratif romain.
-À la mort de Théodoric, la Provence est officiellement rattachée au Royaume ostrogoth et le royaume Wisigoth reprend son indépendance.
+En août 508, Théodoric le Grand, roi des Ostrogoths, repousse les Francs et les Burgondes et devient le tuteur du jeune roi wisigoth Amalaric alors âgé de six ans. Il contrôle alors de fait l'ensemble des deux royaumes. Son règne apporte une période de paix et de restauration du système administratif romain. À la mort de Théodoric, la Provence est officiellement rattachée au Royaume ostrogoth et le Royaume wisigoth reprend son indépendance.
 
 #figure(
-  caption: [Le royaume Ostrogoth à son appogé (#link("https://commons.wikimedia.org/wiki/File:500_fall-roman-empire-fr.svg")[Wikimedia])],
+  caption: [Le royaume Ostrogoth à son apogée (#link("https://commons.wikimedia.org/wiki/File:500_fall-roman-empire-fr.svg")[Wikimedia])],
   image(".assets/an_500.svg", height: 7.5cm),
 )
 
-La chute de la Burgondie en 534 au profit des Francs, dirigés par Thibert I#super[er], rend la Provence frontalière et menacée. Les Ostrogoths alors pris dans une guerre en Italie décident en 536 d'échanger la Provence contre la neutralité des Francs.
-La Provence est alors rattaché au Royaume de Bourgogne (_regnum Burgundiæ_) controllé par les Francs.
+La chute de la Burgondie en 534 au profit des Francs, dirigés par Thibert I#super[er], rend la Provence frontalière et menacée. Les Ostrogoths, alors pris dans une guerre en Italie, décident en 536 d'échanger la Provence contre la neutralité des Francs. La Provence est alors rattachée au Royaume de Bourgogne (_regnum Burgundiæ_) contrôlé par les Francs.
 
 #figure(
   caption: [Le premier Royaume de Bourgogne (#link("https://commons.wikimedia.org/wiki/File:Premier_royaume_de_bourgogne.png")[Wikimedia])],
   image(".assets/an_536_bourgogne.png", height: 7.5cm),
 )
 
-Le Royaume de Bourgogne se maintient alors durant plus de 300 ans.
-Le 25 décembre 800, Charlemagne, roi des Francs est sacré Empereur.
+=== Le temps des refuges : des Lombards aux Sarrasins (536-739)
+
+Entre le VI#super[e] et le VIII#super[e] siècle, la Provence traverse une longue période de bouleversements. Dès la fin du VI#super[e] siècle, les Lombards, établis en Italie, mènent de violentes incursions en empruntant les cols alpins. La Vésubie, en tant que voie de passage naturelle, est directement exposée à ces troubles.
+
+Sous l'autorité déclinante des rois francs mérovingiens, la Provence s'émancipe temporairement sous la houlette de dirigeants locaux, les "Patrices". Cependant, au début du VIII#super[e] siècle, les raids sarrasins viennent frapper le littoral. Face aux pillages, les vallées de l'arrière-pays niçois, dont la Vésubie, se peuplent de réfugiés cherchant la sécurité des montagnes.
+
+L'ordre est brutalement restauré vers 739 par Charles Martel. Il écrase les Sarrasins, soumet les rebelles provençaux et réintègre fermement la région et ses vallées alpines à l'autorité franque.
+
+=== L'Empire carolingien et ses divisions (739-)
+
+Après cette reprise en main, la région connaît une relative stabilité. Le 25 décembre 800, Charlemagne, roi des Francs, est sacré Empereur, intégrant la Vésubie à un vaste empire européen.
 
 #figure(
   caption: [L'Europe en 814, à la mort de Charlemagne (#link("https://commons.wikimedia.org/wiki/File:Europe_en_814.svg")[Wikimedia])],
   image(".assets/an_814_carolingien.svg", height: 7.5cm),
 )
 
-Le vaste territoire du Royaume de Bourgogne est alors réparti en quatre commandements, ayant chacun son gouverneur. La Provence est rattachée à la Bourgogne arlésienne.
-Le Traité de Verdun d'août 843 vient partager l'empire hérité de Charlemagne entre ses trois petit-fils : Charles II, Lothaire I#super[er] et Louis II de Germanie.
-Le Royaume de Bourgogne est alors dissout et intégré à la Francie Médiane, à l'exception de la Bourgogne Franque qui va à la Francie occidentale.
+Le vaste territoire du Royaume de Bourgogne est alors réparti en quatre commandements, ayant chacun son gouverneur. La Provence est rattachée à la Bourgogne arlésienne. Le Traité de Verdun d'août 843 vient partager l'empire hérité de Charlemagne entre ses trois petits-fils : Charles II, Lothaire I#super[er] et Louis II de Germanie. Le Royaume de Bourgogne est alors dissous et intégré à la Francie Médiane, à l'exception de la Bourgogne Franque qui va à la Francie occidentale.
 
 #grid(
   columns: 2,
@@ -139,23 +147,18 @@ Le Royaume de Bourgogne est alors dissout et intégré à la Francie Médiane, �
   ),
 )
 
-À la mort de Lothaire I#super[er] en 855, la Francie Médiane est à son tour divisée entre ses trois fils lors du traité de Prüm.
-Le benjamin, Charles de Provence, obtient alors la Bourgogne arlésienne et la Bourgogne cisjurane qu'il fusionne en un Royaume de Provence.
+À la mort de Lothaire I#super[er] en 855, la Francie Médiane est à son tour divisée entre ses trois fils lors du traité de Prüm. Le benjamin, Charles de Provence, obtient alors la Bourgogne arlésienne et la Bourgogne cisjurane qu'il fusionne en un Royaume de Provence.
 
 #figure(
   caption: [Découpage de la Francie Médiane établi par le traité de Prüm en 855 (#link("https://commons.wikimedia.org/wiki/File:Vertrag_von_Pr%C3%BCm.svg")[Wikimedia])],
   image(".assets/an_855_prüm.svg", height: 7cm),
 )
 
-== Des sources rares jusqu'au Moyen Âge
+== Les IX#super[e] et XV#super[e] siècles
 
-La vallée de la Vésubie est peuplée depuis l'antiquité, mais les sources sur cette période sont rares.
+== Le Moyen Âge central (XI#super[e]-XIII#super[e])
 
-#highlight[TODO : Villa retrouvée à Gordolon avec des travaux de relocalisation suite à la tempête Aline]
-
-Nous savons tout de même que le littoral niçois avait été quelque peu délaissé en raison de nombreuses invasions Wisigoths au Ve siècle, et que l'arrière-pays avait servi de refuge aux populations.
-
-Ce n'est qu'au Moyen Âge central (XII#super[e]-XIII#super[e] siècles) que les traces écrites se multiplient.
+Ce n'est qu'au Moyen Âge central que les traces écrites se multiplient (particulièrement aux XII#super[e] et XIII#super[e] siècles).
 
 #figure(
   [
@@ -334,7 +337,9 @@ Ce n'est qu'au Moyen Âge central (XII#super[e]-XIII#super[e] siècles) que les 
 
 La vallée prend le nom de Val de Lantosque dès 1141.
 
-== Les XIVe et XVe siècles
+== Le XIV#super[e] siècle, une époque charnière
+
+== Les XV#super[e] et XVI#super[e] siècles
 
 === La route du sel
 
@@ -342,7 +347,7 @@ La vallée prend le nom de Val de Lantosque dès 1141.
   image(".assets/p227, Storia di Cuneo e del suo territorio : 1198-1799, Rinaldo Comba.jpg", width: 50%),
   caption: [
     Les routes reliant Coni à Nice entre 1430 et 1530\
-    p. 227, #underline[Storia di Cuneo e del suo territorio : 1198-1799], Rinaldo Comba
+    (COMBA Rinaldo, _Storia di Cuneo e del suo territorio : 1198-1799_, p. 227)
 
     #align(left)[
       A : routes déjà en service\
