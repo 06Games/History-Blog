@@ -7,8 +7,9 @@ web:
 
 pdf:
 	typst compile ebook.typ
-	gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/prepress -dNOPAUSE -dQUIET -dBATCH -sOutputFile=dist/ebook.pdf ebook.pdf
-	rm ebook.pdf
+	mv ebook.pdf dist/ebook.pdf
+	gs -sDEVICE=pdfwrite -dPDFSETTINGS=/printer -dNOPAUSE -dBATCH \
+		-sOutputFile=dist/ebook_compressed.pdf dist/ebook.pdf
 
 serve:
 	shiroa serve
