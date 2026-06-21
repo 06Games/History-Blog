@@ -74,6 +74,7 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
 
 #box(grid(
   columns: 2,
+  gutter: 1em,
   figure(image(".assets/st_col/saint-colomban dessus.jpg", width: 100%), caption: [
     Saint-Colomban vu du dessus
   ]),
@@ -110,6 +111,7 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
 
 #box(grid(
   columns: 2,
+  gutter: 1em,
   figure(
     image(".assets/st_col/carte_postale_coulet.webp", width: 100%),
     caption: [Carte postale montrant la vue depuis la route sur le dessus du Coulet (quartier de Saint-Colomban)],
@@ -124,6 +126,7 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
 
 #box(grid(
   columns: 2,
+  gutter: 1em,
   [
     #figure(
       image(
@@ -222,6 +225,7 @@ Les habitants de Béasse se mariaient pour la plupart à des gens de Saint-Colom
 
 #box(grid(
   columns: 2,
+  gutter: 1em,
   figure(image(".assets/beasse/beasse_avant.jpg", width: 100%), caption: [
     Beasse autrefois
   ]),
@@ -236,6 +240,7 @@ Autour de 1978 #footnote[Déjà en ruine sur les photos aérienne de la #link("h
 #figure(
   grid(
     columns: 2,
+    gutter: 1em,
     image(".assets/beasse/IGNF_PVA_1-0__1979-08-14__C3441-0042_1979_FR9084_1148.jpg", width: 100%),
     image(".assets/beasse/IGNF_PVA_1-0__1979-08-14__C3441-0041_1978_FR9084_1148.jpg", width: 100%),
   ),
@@ -248,6 +253,7 @@ Autour de 1978 #footnote[Déjà en ruine sur les photos aérienne de la #link("h
 #figure(
   grid(
     columns: 2,
+    gutter: 1em,
     image(".assets/beasse/beasse_2022-12-18_face.jpg", width: 100%),
     image(".assets/beasse/beasse_2022-12-18_haut.jpg", width: 100%),
   ),
@@ -264,6 +270,7 @@ Les terrains de la Colle ont été racheté, autour de 2020, par les Allari de G
 #figure(
   grid(
     columns: 3,
+    gutter: 1em,
     image(".assets/colle/grange_sud_date.jpg", width: 100%),
     image(".assets/colle/grange_sud.jpg", width: 100%),
     image(".assets/colle/grange_sud_2.jpg", width: 100%),
@@ -273,9 +280,11 @@ Les terrains de la Colle ont été racheté, autour de 2020, par les Allari de G
 
 #box(grid(
   columns: (66%, 33%),
+  gutter: 1em,
   figure(
     grid(
       columns: 2,
+      gutter: 1em,
       image(".assets/colle/grange_ouest_2021_2.jpg", width: 100%),
       image(".assets/colle/grange_ouest_2021.jpg", width: 100%),
     ),
@@ -296,6 +305,7 @@ Les terrains de la Colle ont été racheté, autour de 2020, par les Allari de G
 #figure(
   grid(
     columns: 3,
+    gutter: 1em,
     image(".assets/colle/grange_est.jpg", width: 100%),
     image(".assets/colle/grange_est_2.jpg", width: 100%),
     image(".assets/colle/grange_est_3.jpg", width: 100%),
@@ -306,6 +316,7 @@ Les terrains de la Colle ont été racheté, autour de 2020, par les Allari de G
 #box(figure(
   grid(
     columns: 2,
+    gutter: 1em,
     image(".assets/colle/piste.jpg", width: 100%), image(".assets/colle/piste_2.jpg", width: 100%),
   ),
   caption: [La piste réalisée en deuxième partie de 2023 (Photos personnelles, 2023-11-03)],
@@ -330,12 +341,14 @@ Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des tr
 
 #figure(caption: [Le maître-autel de l'église avant l'incendie de 1915], grid(
   columns: 2,
+  gutter: 1em,
   image(".assets/st_col/eglise/eglise_maitre_autel_bef-1915.png", width: 100%),
   image(".assets/st_col/eglise/eglise_maitre_autel_bef-1915_verso.png", width: 100%),
 ))
 
 #box(grid(
   columns: 2,
+  gutter: 1em,
   figure(
     caption: [L'église sous la neige (2011-01-30)],
     image(".assets/st_col/eglise/eglise_neige_2011-01-30.jpg"),
@@ -348,6 +361,7 @@ Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des tr
 
 #box(grid(
   columns: 2,
+  gutter: 1em,
   figure(
     caption: [L'église vue de derrière (2011-04-25)],
     image(".assets/st_col/eglise/eglise_derrière_2011-04-25.jpg"),
@@ -360,6 +374,7 @@ Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des tr
 
 #box(grid(
   columns: 3,
+  gutter: 1em,
   figure(
     caption: [Photo réalisée au Polaroid (s.d.)],
     image(".assets/st_col/eglise/eglise_polaroid_s.d..jpg"),
@@ -388,6 +403,7 @@ Sur le chemin de la Gleya, dans la ruelle descendant à la place, on peut encore
 
 #box(grid(
   columns: 2,
+  gutter: 1em,
   figure(image(".assets/st_col/chemin_de_la_gleya_ruelle.jpg", width: 100%), caption: [
     La ruelle descendant à la place
   ]),
@@ -415,6 +431,7 @@ Il y avait 3 fours, un au Coulet à Saint-Colomban, un à l'entrée du hameau de
 ])
 #box(grid(
   columns: 2,
+  gutter: 1em,
   figure(
     [
       #image(".assets/beasse/beasse_four_pierres.jpg", width: 100%)
@@ -447,6 +464,7 @@ Entre 1902 et 1908, une école y fut construite. Mais face à un exode rapide de
 
 #box(grid(
   columns: 2,
+  gutter: 1em,
   figure(image(".assets/beasse/beasse_2011-04-25.jpg", width: 100%), caption: [
     L'école de Béasse est le bâtiment encore debut sur la droite de la photo (2011-04-25)
   ]),
@@ -461,6 +479,7 @@ Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - C
 
 #box(grid(
   columns: 2,
+  gutter: 1em,
   figure(image(".assets/ecole-1930.jpg", width: 100%), caption: [
     Les enfants de l'école de Saint-Colomban en 1930 (col. Emma ROBINI)
   ]),
@@ -529,6 +548,7 @@ Tous les été, un festin est réalisé sur la place devant l'église.
   caption: [Bons d'entrée pour le bal de septembre 1936],
   grid(
     columns: 2,
+    gutter: 1em,
     image(".assets/st_col/festin_bons_1936_hommes.jpg"), image(".assets/st_col/festin_bons_1936_femmes.jpg"),
   ),
 )

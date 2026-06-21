@@ -137,6 +137,7 @@ Le vaste territoire du Royaume de Bourgogne est alors réparti en quatre command
 
 #grid(
   columns: 2,
+  gutter: 1em,
   figure(
     caption: [Les divisions du Royaume de Bourgogne (#link("https://commons.wikimedia.org/wiki/File:Les_4_commendement_de_bourgognes.png")[Wikimedia])],
     image(".assets/an_843_bourgogne.png", height: 7cm),
@@ -158,7 +159,7 @@ Le vaste territoire du Royaume de Bourgogne est alors réparti en quatre command
 
 == Le Moyen Âge central (XI#super[e]-XIII#super[e])
 
-Ce n'est qu'au Moyen Âge central que les traces écrites se multiplient (particulièrement aux XII#super[e] et XIII#super[e] siècles).
+Après des siècles d'opacité documentaire, le Moyen Âge central marque le retour progressif des sources écrites, notamment grâce à la réorganisation des évêchés et à l'essor des fondations monastiques. Les cartulaires de la cathédrale de Nice ou de l'abbaye de Saint-Pons permettent enfin de replacer une focale locale sur la Vésubie. Les mentions de cette époque révèlent un territoire en pleine mutation : l'habitat se regroupe et perche sous la forme de _castra_ (bourgs castraux fortifiés), dont la toponymie dessine les contours des villages actuels.
 
 #figure(
   [
