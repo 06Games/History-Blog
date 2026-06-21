@@ -163,10 +163,10 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
 Béasse, dit "Biassa" en occitan, est un hameau dorénavant en ruine et à l'abandon situé sur la commune de Lucéram.
 Bien que situé à Lucéram, le hameau a toujours été rattaché à Saint-Colomban, tant par son origine que par sa proximité.
 
-En effet, Béasse a été construit aux alentours de la fin du XVII#super[e] siècle / tout début du XVIII#super[e] siècle par les Ciais dit "Ciaissi Boen" #footnote([La première mention que j'ai trouvé date d'un #link("https://www.geneanet.org/archives/registres/view/17455/50?idmarqueur=19316721")[mariage du 13 novembre 1712] entre Jean Baptiste Ciais fils de Jean Antoine de Béasse et Antoronette Gaglio fille de Claude de Lantosque.\
+En effet, Béasse a été construit aux alentours de la fin du XVII#super[e] siècle / tout début du XVIII#super[e] siècle par les Ciais dit "_Ciaissi Boen_" #footnote([La première mention que j'ai trouvé date d'un #link("https://www.geneanet.org/archives/registres/view/17455/50?idmarqueur=19316721")[mariage du 13 novembre 1712] entre Jean Baptiste Ciais fils de Jean Antoine de Béasse et Antoronette Gaglio fille de Claude de Lantosque.\
   Marie Marguerite Ciais fille d'Antoine Sulpice Ciaissi Boen née le 07 janvier 1706 est par la suite dites native de Béasse lors de l'élaboration de la dot de sa fille Marie Catherine Maurin le 10 février 1755.]).
 
-Un recensement daté d'août 1718 fait état de 27 personnes, 12 boeufs, 8 vaches, 2 veaux, 197 brebis et chèvres, 25 chevreaux, 10 agneaux et 4 porcs de consommation personnelles.
+Un recensement daté d'août 1718 fait état de 27 personnes, 12 boeufs, 8 vaches, 2 veaux, 197 brebis et chèvres, 25 chevreaux, 10 agneaux et 4 porcs de consommation personnelles. À l'exception des Brun, tous les habitants sont des descendants de Jean Louis _Ciaissi Boen_.
 
 #figure(
   caption: [Détail de la population recensée à Béasse en août 1718 #footnote([Selon la transcription de Jean-Nicolas BEASSE])],
@@ -221,7 +221,7 @@ Un recensement daté d'août 1718 fait état de 27 personnes, 12 boeufs, 8 vache
   )
 ]
 
-Les habitants de Béasse se mariaient pour la plupart à des gens de Saint-Colomban ou de Loda, qui étaient respectivement à 30 min et 1h de marche.
+Les habitants de Béasse se mariaient pour la plupart à des gens de Saint-Colomban ou de Loda, qui étaient respectivement à 45 min et 1h15 de marche.
 
 #box(grid(
   columns: 2,
