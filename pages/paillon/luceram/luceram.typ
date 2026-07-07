@@ -1,6 +1,9 @@
 #import "/book.typ": book-page
 
 #show: book-page.with(title: "Lucéram")
+
+#import "/prelude.typ": *
+
 #set text(lang: "fr")
 
 = Lucéram

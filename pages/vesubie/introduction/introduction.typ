@@ -1,6 +1,9 @@
 #import "/book.typ": book-page
 
 #show: book-page.with(title: "Introduction à la vallée de la Vésubie")
+
+#import "/prelude.typ": *
+
 #set text(lang: "fr")
 
 = Introduction
@@ -9,17 +12,16 @@
 
 L'#link("https://fr.wikipedia.org/wiki/Arc_d%27Auguste_(Suse)")[Arc d'Auguste] à Suse (Italie), érigé en 8 av. J.-C. par le chef celto-ligure Marcus Julius Cottius, devenu préfet romain, est dédié à son protecteur, l'empereur Auguste. Parmi les quatorze peuples alpins gravés sur son fronton, l'inscription mentionne la présence d'une tribu sous son contrôle : les "_VESVBIANIORVM_".
 
-#columns(2, [
-  #figure(image(".assets/Arco_di_Augusto-Susa.jpg", width: 100%), caption: [
+#side-by-side(
+  figure(image(".assets/Arco_di_Augusto-Susa.jpg"), caption: [
     L'Arc d'Auguste de Suse\
     (#link("https://commons.wikimedia.org/wiki/File:Arco_di_Augusto-Susa.jpg#/media/Fichier:Arco_di_Augusto-Susa.jpg")[ROSSETTI Lorenzo, Wikimedia])
-  ])
-  #colbreak()
-  #figure(image(".assets/Frise_Arc_d'Auguste_de_Suse_(septembre_2024).jpg", width: 100%), caption: [
+  ]),
+  figure(image(".assets/Frise_Arc_d'Auguste_de_Suse_(septembre_2024).jpg"), caption: [
     Frise de l'Arc d'Auguste de Suse\
     (#link("https://commons.wikimedia.org/wiki/File:Frise_Arc_d%27Auguste_de_Suse_(septembre_2024).JPG#/media/Fichier:Frise_Arc_d'Auguste_de_Suse_(septembre_2024).JPG")[PÉPELLIN Florian, Wikimedia]).
-  ])
-])
+  ]),
+)
 
 #figure(
   [
@@ -37,20 +39,20 @@ L'#link("https://fr.wikipedia.org/wiki/Arc_d%27Auguste_(Suse)")[Arc d'Auguste] �
 
 Un an plus tard, en 7 ou 6 av. J.-C., le Sénat romain fait élever le #link("https://fr.wikipedia.org/wiki/Troph%C3%A9e_des_Alpes")[Trophée des Alpes] à La Turbie. Ce monument de propagande liste les quarante-quatre peuples alpins vaincus par les armées romaines. On y retrouve, selon le texte de Pline l'Ancien, les "_VESVBIANI_" (que l'architecte Jules Formigé choisira de restituer sous la forme "_ESVBIANI_" lors de la reconstruction du monument au XXe siècle).
 
-#box(columns(2)[
-  #figure(
-    image(".assets/La Turbie (1682 - Theatrum Sabaudiae vol 2 p322).jpg", width: 100%),
+#side-by-side(
+  figure(
+    image(".assets/La Turbie (1682 - Theatrum Sabaudiae vol 2 p322).jpg"),
     caption: [Le Trophée d'Auguste aussi appelé Trophée des Alpes situé à la Turbie tel qu'il avait été transformé avant sa destruction par Louis XIV en 1705\ (#link("https://www.museotorino.it/resources/pdf/books/274/")[_Theatrum Sabaudiae_, 1682, volume 2], p322)],
-  )
-  #colbreak()
-  #figure(image(".assets/trophée_auguste_formigé.jpg", width: 100%), caption: [
-    L'inscription du Trophée des Alpes reconstituée par Jules Formigé dans les années 30\
-    (#link("https://www.persee.fr/doc/galia_0016-4119_1955_num_13_1_1432")[_La dédicace du Trophée des Alpes (La Turbie)_, 1955, tome XIII, fascicule I, p101-102])])
-
-  #figure(image(".assets/2021-07-25.jpg", width: 100%), caption: [
-    La gravure inaugurée en 1934 d'après la reconstitution de Jules Formigé\
-    (#link("https://maps.app.goo.gl/aAsoZ9wkLJtR1Bd77")[LARROCHE Laurent])])
-])
+  ),
+  [
+    #figure(image(".assets/trophée_auguste_formigé.jpg"), caption: [
+      L'inscription du Trophée des Alpes reconstituée par Jules Formigé dans les années 30\
+      (#link("https://www.persee.fr/doc/galia_0016-4119_1955_num_13_1_1432")[_La dédicace du Trophée des Alpes (La Turbie)_, 1955, tome XIII, fascicule I, p101-102])])
+    #figure(image(".assets/2021-07-25.jpg"), caption: [
+      La gravure inaugurée en 1934 d'après la reconstitution de Jules Formigé\
+      (#link("https://maps.app.goo.gl/aAsoZ9wkLJtR1Bd77")[LARROCHE Laurent])])
+  ],
+)
 
 #figure(
   [
@@ -135,9 +137,7 @@ Après cette reprise en main, la région connaît une relative stabilité. Le 25
 
 Le vaste territoire du Royaume de Bourgogne est alors réparti en quatre commandements, ayant chacun son gouverneur. La Provence est rattachée à la Bourgogne arlésienne. Le Traité de Verdun d'août 843 vient partager l'empire hérité de Charlemagne entre ses trois petits-fils : Charles II, Lothaire I#super[er] et Louis II de Germanie. Le Royaume de Bourgogne est alors dissous et intégré à la Francie Médiane, à l'exception de la Bourgogne Franque qui va à la Francie occidentale.
 
-#grid(
-  columns: 2,
-  gutter: 1em,
+#side-by-side(
   figure(
     caption: [Les divisions du Royaume de Bourgogne (#link("https://commons.wikimedia.org/wiki/File:Les_4_commendement_de_bourgognes.png")[Wikimedia])],
     image(".assets/an_843_bourgogne.png", height: 7cm),
@@ -313,15 +313,18 @@ Après des siècles d'opacité documentaire, le Moyen Âge central marque le ret
       [*Venanson*], [C], [], [], [], [], [], [H], [], [C],
     )
 
-    #pad(x: 12.5%, bottom: 0.5em, align(left, text(size: 0.8em, columns(2)[
-      M : Manse (terre jugée nécessaire pour vivre)\
-      V : Villa\
-      P : Mention par un surnom d'homme
-      #colbreak()
-      C : _Castrum_ (bourg castral, habitat fortifié)\
-      D : _Castrum dirutum_ (bourg castral en ruine)\
-      H : Simple mention de la localité
-    ])))
+    #pad(x: 12.5%, bottom: 0.5em, align(left, text(size: 0.8em, side-by-side(
+      [
+        M : Manse (terre jugée nécessaire pour vivre)\
+        V : Villa\
+        P : Mention par un surnom d'homme
+      ],
+      [
+        C : _Castrum_ (bourg castral, habitat fortifié)\
+        D : _Castrum dirutum_ (bourg castral en ruine)\
+        H : Simple mention de la localité
+      ],
+    ))))
   ],
   caption: [
     Chronologie de l'habitat selon les principales sources écrites\

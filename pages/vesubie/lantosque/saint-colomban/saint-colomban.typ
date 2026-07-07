@@ -1,6 +1,9 @@
 #import "/book.typ": book-page
 
 #show: book-page.with(title: "Saint-Colomban (Lantosque)")
+
+#import "/prelude.typ": *
+
 #set text(lang: "fr")
 
 = Saint-Colomban
@@ -50,21 +53,25 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
       Saint-Colomban et ses environs vu du ciel le 14 juillet 1945\
       (#link("https://remonterletemps.ign.fr/telecharger/?lon=7.325373&lat=43.953506&z=14&pointer=true&layer=pva&year=1944&mission=3840-0131")[IGN, Mission 3840-0131, Cliché 5133, Échelle 1/26974])
 
-      #let leg(num, content, color: black) = grid(
-        columns: 2,
-        column-gutter: 5pt,
-        align: horizon,
-        legend(color: color, size: 7pt, num), text(size: 7pt)[: #content],
+      #let leg(num, content, color: black) = stack(
+        dir: ltr,
+        spacing: 4pt,
+        legend(color: color, size: 7pt, num),
+        text(size: 7pt, content),
       )
-      #grid(
-        columns: (1fr, 1fr, 1fr, 1fr),
-        column-gutter: 1em,
-        row-gutter: 5pt,
-        align: center + horizon,
-        leg("1", "Saint-Colomban"), leg("2", "Gorblaou"), leg("3", "Camari"),
-        leg("4", "Béasse"),
-        grid.cell(colspan: 2, leg("5", "La Couala de Guillerm", color: blue)),
-        grid.cell(colspan: 2, leg("6", "Raynaud Soupran, Raynaud Soutran et Raynaudun", color: blue)),
+
+      #stack(
+        spacing: 5pt,
+        side-by-side(
+          leg("1", "Saint-Colomban"),
+          leg("2", "Gorblaou"),
+          leg("3", "Camari"),
+          leg("4", "Béasse"),
+        ),
+        side-by-side(
+          leg("5", "La Couala de Guillerm", color: blue),
+          leg("6", "Raynaud Soupran, Raynaud Soutran et Raynaudun", color: blue),
+        ),
       )
     ],
   )))
@@ -72,16 +79,14 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
 
 === Saint-Colomban
 
-#box(grid(
-  columns: 2,
-  gutter: 1em,
+#side-by-side(
   figure(image(".assets/st_col/saint-colomban dessus.jpg", width: 100%), caption: [
     Saint-Colomban vu du dessus
   ]),
   figure(image(".assets/st_col/saint-colomban face.jpg", width: 100%), caption: [
     Saint-Colomban vu d'en face
   ]),
-))
+)
 
 
 #figure(
@@ -109,9 +114,7 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
   ],
 )
 
-#box(grid(
-  columns: 2,
-  gutter: 1em,
+#side-by-side(
   figure(
     image(".assets/st_col/carte_postale_coulet.webp", width: 100%),
     caption: [Carte postale montrant la vue depuis la route sur le dessus du Coulet (quartier de Saint-Colomban)],
@@ -120,13 +123,11 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
     image(".assets/st_col/carte_postale_ecole.jpg", width: 100%),
     caption: [Carte postale montrant l'école et le lavoir au dessus du Coulet],
   ),
-))
+)
 
 === Gorblaou
 
-#box(grid(
-  columns: 2,
-  gutter: 1em,
+#side-by-side(
   [
     #figure(
       image(
@@ -150,7 +151,7 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
       Le pont au dessus du vallon et le Moulin, en contre-bas de Gorblaou
     ],
   ),
-))
+)
 
 === Camari
 
@@ -223,9 +224,7 @@ Un recensement daté d'août 1718 fait état de 27 personnes, 12 boeufs, 8 vache
 
 Les habitants de Béasse se mariaient pour la plupart à des gens de Saint-Colomban ou de Loda, qui étaient respectivement à 45 min et 1h15 de marche.
 
-#box(grid(
-  columns: 2,
-  gutter: 1em,
+#side-by-side(
   figure(image(".assets/beasse/beasse_avant.jpg", width: 100%), caption: [
     Beasse autrefois
   ]),
@@ -233,14 +232,12 @@ Les habitants de Béasse se mariaient pour la plupart à des gens de Saint-Colom
     Date inscrite sur l'une des maisons\
     (Photo Arlette GALLI, 2006-09-22)
   ]),
-))
+)
 
 Autour de 1978 #footnote[Déjà en ruine sur les photos aérienne de la #link("https://remonterletemps.ign.fr/telecharger/?lon=7.342103&lat=43.943941&z=14&pointer=true&layer=pva&year=1977&couleur=P&mission=3541-0041")[mission 3541-0041 du 03/09/1978] de l'IGN], la majorité des maisons sont détruite dans un incendie vraisemblablement criminel. On raconte qu'un mari découvrant que sa femme le trompait avec le voisin décida de se venger en mettant le feu à son habitation. Le feu prit un caractère incontrollable et se propagea à l'ensemble des maisons mitoyennes.
 
 #figure(
-  grid(
-    columns: 2,
-    gutter: 1em,
+  side-by-side(
     image(".assets/beasse/IGNF_PVA_1-0__1979-08-14__C3441-0042_1979_FR9084_1148.jpg", width: 100%),
     image(".assets/beasse/IGNF_PVA_1-0__1979-08-14__C3441-0041_1978_FR9084_1148.jpg", width: 100%),
   ),
@@ -251,9 +248,7 @@ Autour de 1978 #footnote[Déjà en ruine sur les photos aérienne de la #link("h
 )
 
 #figure(
-  grid(
-    columns: 2,
-    gutter: 1em,
+  side-by-side(
     image(".assets/beasse/beasse_2022-12-18_face.jpg", width: 100%),
     image(".assets/beasse/beasse_2022-12-18_haut.jpg", width: 100%),
   ),
@@ -268,9 +263,7 @@ Autour de 1978 #footnote[Déjà en ruine sur les photos aérienne de la #link("h
 Les terrains de la Colle ont été racheté, autour de 2020, par les Allari de Gorblaou qui ont entrepris des travaux de restauration sur l'une des granges ainsi que la création d'une piste à partir de la "Piste des Chasseurs" à Camari.
 
 #figure(
-  grid(
-    columns: 3,
-    gutter: 1em,
+  side-by-side(
     image(".assets/colle/grange_sud_date.jpg", width: 100%),
     image(".assets/colle/grange_sud.jpg", width: 100%),
     image(".assets/colle/grange_sud_2.jpg", width: 100%),
@@ -278,34 +271,27 @@ Les terrains de la Colle ont été racheté, autour de 2020, par les Allari de G
   caption: [La grange la plus au sud, en contre-bas des autres. Elle est datée de 1851\ (Photos personnelles, 2021-08-07 et 2025-12-31 pour la dernière)],
 )
 
-#box(grid(
-  columns: (66%, 33%),
-  gutter: 1em,
-  figure(
-    grid(
-      columns: 2,
-      gutter: 1em,
-      image(".assets/colle/grange_ouest_2021_2.jpg", width: 100%),
-      image(".assets/colle/grange_ouest_2021.jpg", width: 100%),
-    ),
-    caption: [La grange ouest durant les travaux de restauration\
-      (Photos personnelles, 2021-08-07)],
+#figure(
+  side-by-side(
+    image(".assets/colle/grange_ouest_2021_2.jpg", width: 100%),
+    image(".assets/colle/grange_ouest_2021.jpg", width: 100%),
   ),
+  caption: [La grange ouest durant les travaux de restauration\
+    (Photos personnelles, 2021-08-07)],
+)
+#side-by-side(
   figure(image(".assets/colle/grange_ouest_2025.jpg", width: 100%), caption: [
     La grange ouest après les travaux de restauration\
     (Photo personnelle, 2025-12-31)
   ]),
-))
-
-#figure(
-  image(".assets/colle/grange_centre.jpg", width: 50%),
-  caption: [La grange du centre (Photo personnelle, 2021-08-07)],
+  figure(
+    image(".assets/colle/grange_centre.jpg", width: 100%),
+    caption: [La grange du centre\ (Photo personnelle, 2021-08-07)],
+  ),
 )
 
 #figure(
-  grid(
-    columns: 3,
-    gutter: 1em,
+  side-by-side(
     image(".assets/colle/grange_est.jpg", width: 100%),
     image(".assets/colle/grange_est_2.jpg", width: 100%),
     image(".assets/colle/grange_est_3.jpg", width: 100%),
@@ -313,14 +299,13 @@ Les terrains de la Colle ont été racheté, autour de 2020, par les Allari de G
   caption: [La grange est (Photos personnelles, 2021-08-07)],
 )
 
-#box(figure(
-  grid(
-    columns: 2,
-    gutter: 1em,
-    image(".assets/colle/piste.jpg", width: 100%), image(".assets/colle/piste_2.jpg", width: 100%),
+#figure(
+  side-by-side(
+    image(".assets/colle/piste.jpg", width: 100%),
+    image(".assets/colle/piste_2.jpg", width: 100%),
   ),
   caption: [La piste réalisée en deuxième partie de 2023 (Photos personnelles, 2023-11-03)],
-))
+)
 
 #pagebreak()
 
@@ -339,16 +324,12 @@ Les matériaux nécessaires à sa construction auraient été transportés pierr
 
 Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des travaux de rénovation vers 1915, à la suite d'un incendie accidentel ayant détruit l'autel, puis à nouveau en 1933. La facade fut refaite par la mairie en août 2013.
 
-#figure(caption: [Le maître-autel de l'église avant l'incendie de 1915], grid(
-  columns: 2,
-  gutter: 1em,
+#figure(caption: [Le maître-autel de l'église avant l'incendie de 1915], side-by-side(
   image(".assets/st_col/eglise/eglise_maitre_autel_bef-1915.png", width: 100%),
   image(".assets/st_col/eglise/eglise_maitre_autel_bef-1915_verso.png", width: 100%),
 ))
 
-#box(grid(
-  columns: 2,
-  gutter: 1em,
+#side-by-side(
   figure(
     caption: [L'église sous la neige (2011-01-30)],
     image(".assets/st_col/eglise/eglise_neige_2011-01-30.jpg"),
@@ -357,11 +338,9 @@ Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des tr
     caption: [Une cloche (2010-10-30)],
     image(".assets/st_col/eglise/eglise_cloche_2010-10-30.jpg"),
   ),
-))
+)
 
-#box(grid(
-  columns: 2,
-  gutter: 1em,
+#side-by-side(
   figure(
     caption: [L'église vue de derrière (2011-04-25)],
     image(".assets/st_col/eglise/eglise_derrière_2011-04-25.jpg"),
@@ -370,11 +349,9 @@ Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des tr
     caption: [Le ravalement (2013-08-13)],
     image(".assets/st_col/eglise/eglise_ravalement_2013-08-13.jpg"),
   ),
-))
+)
 
-#box(grid(
-  columns: 3,
-  gutter: 1em,
+#side-by-side(
   figure(
     caption: [Photo réalisée au Polaroid (s.d.)],
     image(".assets/st_col/eglise/eglise_polaroid_s.d..jpg"),
@@ -387,7 +364,7 @@ Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des tr
     caption: [L'église de nos jours (2026-05-08)],
     image(".assets/st_col/eglise/eglise_2026-05-08.jpg"),
   ),
-))
+)
 
 Une plaque commémorative rendant hommage aux habitants morts pour la France est apposée sur le mur gauche à l'entrée.
 
@@ -401,16 +378,14 @@ Le cimetière semble avoir été installé là où il se situe actuellement, ent
 
 Sur le chemin de la Gleya, dans la ruelle descendant à la place, on peut encore voir sur le haut d'une porte à droite en descendant l'enseigne d'un ancien café restaurant tenu par François et Philippine Thaon.
 
-#box(grid(
-  columns: 2,
-  gutter: 1em,
+#side-by-side(
   figure(image(".assets/st_col/chemin_de_la_gleya_ruelle.jpg", width: 100%), caption: [
     La ruelle descendant à la place
   ]),
   figure(image(".assets/st_col/chemin_de_la_gleya_bar.jpg", width: 100%), caption: [
     L'enseigne du café restaurant de la place
   ]),
-))
+)
 
 Une buvettes était présente au quartier du Coulet dans la maison à droite de la placette.
 
@@ -429,9 +404,7 @@ Il y avait 3 fours, un au Coulet à Saint-Colomban, un à l'entrée du hameau de
   Le four à pain de Béasse tel qu'il était
   (Photo Jean-Nicolas BEASSE)
 ])
-#box(grid(
-  columns: 2,
-  gutter: 1em,
+#side-by-side(
   figure(
     [
       #image(".assets/beasse/beasse_four_pierres.jpg", width: 100%)
@@ -451,7 +424,7 @@ Il y avait 3 fours, un au Coulet à Saint-Colomban, un à l'entrée du hameau de
       Le four a été quelque peu réarrangé début octobre 2022 (Photos #link("https://www.facebook.com/groups/21906880800/permalink/10160040968690801/")[Jackou Laugier] et #link("https://www.facebook.com/groups/21906880800/permalink/10160039939100801/")[Olon Nolo])
     ],
   ),
-))
+)
 
 #pagebreak()
 
@@ -462,31 +435,27 @@ Une école fut construite au dessus du quartier du Coulet à Saint-Colomban en 1
 Les enfants de Béasse montaient et descendaient chaque jour à l'école de Saint-Colomban, ce qui représente environ trois quarts d'heure de marche.
 Entre 1902 et 1908, une école y fut construite. Mais face à un exode rapide de la population de Béasse, elle fut contrainte de fermer, son nombre d'élève passant de 17 enfants en 1917 à seulement 3 en 1922, année de sa fermeture.
 
-#box(grid(
-  columns: 2,
-  gutter: 1em,
+#side-by-side(
   figure(image(".assets/beasse/beasse_2011-04-25.jpg", width: 100%), caption: [
     L'école de Béasse est le bâtiment encore debut sur la droite de la photo (2011-04-25)
   ]),
   figure(image(".assets/beasse/beasse_école.jpg", width: 100%), caption: [
     L'escalier pour entrer à l'étage (2022-02-15)
   ]),
-))
+)
 
 L'école de Saint-Colomban ferma à son tour en 19xx et fut reconvertie en gite. Puis, le gite fut contrait de fermer dans les années 2010 suite à une changement des normes en matière d'accessibilité, qui auraient nécessité des travaux, ce que la mairie n'a pas souhaité faire.
 
 Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - Compte rendu conseil municipal 2016-10-17.pdf")[17/10/2016]], l'ancienne école de Saint-Colomban servait de bureau de vote lors des élections. Dorénavant, les électeurs de Saint-Colomban et Loda votent à Lantosque dans la salle Gilbert Gaglio.
 
-#box(grid(
-  columns: 2,
-  gutter: 1em,
+#side-by-side(
   figure(image(".assets/ecole-1930.jpg", width: 100%), caption: [
     Les enfants de l'école de Saint-Colomban en 1930 (col. Emma ROBINI)
   ]),
   figure(image(".assets/ecole-1930-noms.jpg", width: 100%), caption: [
     Photographie annotée avec le nom des enfants (réalisée pour une exposition)
   ]),
-))
+)
 
 == La route
 
@@ -546,10 +515,9 @@ Tous les été, un festin est réalisé sur la place devant l'église.
 
 #figure(
   caption: [Bons d'entrée pour le bal de septembre 1936],
-  grid(
-    columns: 2,
-    gutter: 1em,
-    image(".assets/st_col/festin_bons_1936_hommes.jpg"), image(".assets/st_col/festin_bons_1936_femmes.jpg"),
+  side-by-side(
+    image(".assets/st_col/festin_bons_1936_hommes.jpg"),
+    image(".assets/st_col/festin_bons_1936_femmes.jpg"),
   ),
 )
 

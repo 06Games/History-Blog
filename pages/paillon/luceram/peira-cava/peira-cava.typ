@@ -1,6 +1,9 @@
 #import "/book.typ": book-page
 
 #show: book-page.with(title: "Peïra-Cava (Lucéram)")
+
+#import "/prelude.typ": *
+
 #set text(lang: "fr")
 
 = Peïra-Cava
