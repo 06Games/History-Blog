@@ -3,6 +3,7 @@ content_dir = "pages"
 
 [[html.assets]]
 css_stylesheet = "./style.css"
+js_scripts = "./viewer.js"
 copy = ["assets/**/*", "favicon.*"]
 
 [pdf.spine]
