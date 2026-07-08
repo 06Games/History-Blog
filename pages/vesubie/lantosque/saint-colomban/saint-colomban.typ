@@ -1,9 +1,6 @@
-#import "/book.typ": book-page
+#import "/pages/prelude.typ": *
 
-#show: book-page.with(title: "Saint-Colomban (Lantosque)")
-
-#import "/prelude.typ": *
-
+#show: sidebar-site.with(current: "Saint-Colomban (Lantosque)")
 #set text(lang: "fr")
 
 = Saint-Colomban
@@ -37,8 +34,8 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
 
   #align(center + horizon, box(width: 75%, figure(
     box[
-      #pad(5.75%, rotate(-98deg, image(
-        ".assets/IGNF_PVA_1-0__1945-07-14__C3840-0131_1945_MISSIONALPES16_5133.jpg",
+      #pad(5.75%, rotate(-98deg, fit-image(
+        "/assets/lantosque-saint-colomban/IGNF_PVA_1-0__1945-07-14__C3840-0131_1945_MISSIONALPES16_5133.jpg",
         width: 100%,
       )))
 
@@ -80,18 +77,18 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
 === Saint-Colomban
 
 #side-by-side(
-  figure(image(".assets/st_col/saint-colomban dessus.jpg", width: 100%), caption: [
+  figure(fit-image("/assets/lantosque-saint-colomban/st_col/saint-colomban dessus.jpg", width: 100%), caption: [
     Saint-Colomban vu du dessus
   ]),
-  figure(image(".assets/st_col/saint-colomban face.jpg", width: 100%), caption: [
+  figure(fit-image("/assets/lantosque-saint-colomban/st_col/saint-colomban face.jpg", width: 100%), caption: [
     Saint-Colomban vu d'en face
   ]),
 )
 
 
 #figure(
-  image(
-    ".assets/st_col/SAINT-COLOMBAN DE LANTOSQUE - 1 - Quartiers du Collet, de l'Eglise de Plena, Gléa-Lière.jpg",
+  fit-image(
+    "/assets/lantosque-saint-colomban/st_col/SAINT-COLOMBAN DE LANTOSQUE - 1 - Quartiers du Collet, de l'Eglise de Plena, Gléa-Lière.jpg",
     width: 80%,
   ),
   caption: [
@@ -116,11 +113,11 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
 
 #side-by-side(
   figure(
-    image(".assets/st_col/carte_postale_coulet.webp", width: 100%),
+    fit-image("/assets/lantosque-saint-colomban/st_col/carte_postale_coulet.webp", width: 100%),
     caption: [Carte postale montrant la vue depuis la route sur le dessus du Coulet (quartier de Saint-Colomban)],
   ),
   figure(
-    image(".assets/st_col/carte_postale_ecole.jpg", width: 100%),
+    fit-image("/assets/lantosque-saint-colomban/st_col/carte_postale_ecole.jpg", width: 100%),
     caption: [Carte postale montrant l'école et le lavoir au dessus du Coulet],
   ),
 )
@@ -130,21 +127,21 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
 #side-by-side(
   [
     #figure(
-      image(
-        ".assets/gorblaou/SAINT-COLOMBAN DE LANTOSQUE - 6 - Quartier Gorbleau. Col de Rabul recto.jpg",
+      fit-image(
+        "/assets/lantosque-saint-colomban/gorblaou/SAINT-COLOMBAN DE LANTOSQUE - 6 - Quartier Gorbleau. Col de Rabul recto.jpg",
         width: 100%,
       ),
       caption: [
         Gorblaou vers le début du siècle dernier
       ],
     )
-    #figure(image(".assets/gorblaou/gorblaou.jpg", width: 100%), caption: [
+    #figure(fit-image("/assets/lantosque-saint-colomban/gorblaou/gorblaou.jpg", width: 100%), caption: [
       Gorblaou
     ])
   ],
   figure(
-    image(
-      ".assets/gorblaou/SAINT-COLOMBAN DE LANTOSQUE - 7 - Le Pont de Gorbleau et le Moulin à farine.jpg",
+    fit-image(
+      "/assets/lantosque-saint-colomban/gorblaou/SAINT-COLOMBAN DE LANTOSQUE - 7 - Le Pont de Gorbleau et le Moulin à farine.jpg",
       width: 100%,
     ),
     caption: [
@@ -155,7 +152,7 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
 
 === Camari
 
-#figure(image(".assets/camari/camari.jpg", width: 100%), caption: [
+#figure(fit-image("/assets/lantosque-saint-colomban/camari/camari.jpg", width: 100%), caption: [
   Camari
 ])
 
@@ -172,7 +169,7 @@ Un recensement daté d'août 1718 fait état de 27 personnes, 12 boeufs, 8 vache
 #figure(
   caption: [Détail de la population recensée à Béasse en août 1718 #footnote([Selon la transcription de Jean-Nicolas BEASSE])],
 )[
-  #let data = csv(".assets/beasse/beasse_1718.csv")
+  #let data = csv("/assets/lantosque-saint-colomban/beasse/beasse_1718.csv")
   #let header-data = data.at(0)
   #let body-data = data.slice(1)
 
@@ -225,10 +222,10 @@ Un recensement daté d'août 1718 fait état de 27 personnes, 12 boeufs, 8 vache
 Les habitants de Béasse se mariaient pour la plupart à des gens de Saint-Colomban ou de Loda, qui étaient respectivement à 45 min et 1h15 de marche.
 
 #side-by-side(
-  figure(image(".assets/beasse/beasse_avant.jpg", width: 100%), caption: [
+  figure(fit-image("/assets/lantosque-saint-colomban/beasse/beasse_avant.jpg", width: 100%), caption: [
     Beasse autrefois
   ]),
-  figure(image(".assets/beasse/beasse_maison_date.jpg", width: 100%), caption: [
+  figure(fit-image("/assets/lantosque-saint-colomban/beasse/beasse_maison_date.jpg", width: 100%), caption: [
     Date inscrite sur l'une des maisons\
     (Photo Arlette GALLI, 2006-09-22)
   ]),
@@ -238,8 +235,14 @@ Autour de 1978 #footnote[Déjà en ruine sur les photos aérienne de la #link("h
 
 #figure(
   side-by-side(
-    image(".assets/beasse/IGNF_PVA_1-0__1979-08-14__C3441-0042_1979_FR9084_1148.jpg", width: 100%),
-    image(".assets/beasse/IGNF_PVA_1-0__1979-08-14__C3441-0041_1978_FR9084_1148.jpg", width: 100%),
+    fit-image(
+      "/assets/lantosque-saint-colomban/beasse/IGNF_PVA_1-0__1979-08-14__C3441-0042_1979_FR9084_1148.jpg",
+      width: 100%,
+    ),
+    fit-image(
+      "/assets/lantosque-saint-colomban/beasse/IGNF_PVA_1-0__1979-08-14__C3441-0041_1978_FR9084_1148.jpg",
+      width: 100%,
+    ),
   ),
   caption: [
     Photos aériennes prisent le 14 août 1979, peu de temps après l'incendie ravageur\
@@ -249,8 +252,8 @@ Autour de 1978 #footnote[Déjà en ruine sur les photos aérienne de la #link("h
 
 #figure(
   side-by-side(
-    image(".assets/beasse/beasse_2022-12-18_face.jpg", width: 100%),
-    image(".assets/beasse/beasse_2022-12-18_haut.jpg", width: 100%),
+    fit-image("/assets/lantosque-saint-colomban/beasse/beasse_2022-12-18_face.jpg", width: 100%),
+    fit-image("/assets/lantosque-saint-colomban/beasse/beasse_2022-12-18_haut.jpg", width: 100%),
   ),
   caption: [
     Beasse le 18 décembre 2022
@@ -264,45 +267,45 @@ Les terrains de la Colle ont été racheté, autour de 2020, par les Allari de G
 
 #figure(
   side-by-side(
-    image(".assets/colle/grange_sud_date.jpg", width: 100%),
-    image(".assets/colle/grange_sud.jpg", width: 100%),
-    image(".assets/colle/grange_sud_2.jpg", width: 100%),
+    fit-image("/assets/lantosque-saint-colomban/colle/grange_sud_date.jpg", width: 100%),
+    fit-image("/assets/lantosque-saint-colomban/colle/grange_sud.jpg", width: 100%),
+    fit-image("/assets/lantosque-saint-colomban/colle/grange_sud_2.jpg", width: 100%),
   ),
   caption: [La grange la plus au sud, en contre-bas des autres. Elle est datée de 1851\ (Photos personnelles, 2021-08-07 et 2025-12-31 pour la dernière)],
 )
 
 #figure(
   side-by-side(
-    image(".assets/colle/grange_ouest_2021_2.jpg", width: 100%),
-    image(".assets/colle/grange_ouest_2021.jpg", width: 100%),
+    fit-image("/assets/lantosque-saint-colomban/colle/grange_ouest_2021_2.jpg", width: 100%),
+    fit-image("/assets/lantosque-saint-colomban/colle/grange_ouest_2021.jpg", width: 100%),
   ),
   caption: [La grange ouest durant les travaux de restauration\
     (Photos personnelles, 2021-08-07)],
 )
 #side-by-side(
-  figure(image(".assets/colle/grange_ouest_2025.jpg", width: 100%), caption: [
+  figure(fit-image("/assets/lantosque-saint-colomban/colle/grange_ouest_2025.jpg", width: 100%), caption: [
     La grange ouest après les travaux de restauration\
     (Photo personnelle, 2025-12-31)
   ]),
   figure(
-    image(".assets/colle/grange_centre.jpg", width: 100%),
+    fit-image("/assets/lantosque-saint-colomban/colle/grange_centre.jpg", width: 100%),
     caption: [La grange du centre\ (Photo personnelle, 2021-08-07)],
   ),
 )
 
 #figure(
   side-by-side(
-    image(".assets/colle/grange_est.jpg", width: 100%),
-    image(".assets/colle/grange_est_2.jpg", width: 100%),
-    image(".assets/colle/grange_est_3.jpg", width: 100%),
+    fit-image("/assets/lantosque-saint-colomban/colle/grange_est.jpg", width: 100%),
+    fit-image("/assets/lantosque-saint-colomban/colle/grange_est_2.jpg", width: 100%),
+    fit-image("/assets/lantosque-saint-colomban/colle/grange_est_3.jpg", width: 100%),
   ),
   caption: [La grange est (Photos personnelles, 2021-08-07)],
 )
 
 #figure(
   side-by-side(
-    image(".assets/colle/piste.jpg", width: 100%),
-    image(".assets/colle/piste_2.jpg", width: 100%),
+    fit-image("/assets/lantosque-saint-colomban/colle/piste.jpg", width: 100%),
+    fit-image("/assets/lantosque-saint-colomban/colle/piste_2.jpg", width: 100%),
   ),
   caption: [La piste réalisée en deuxième partie de 2023 (Photos personnelles, 2023-11-03)],
 )
@@ -315,7 +318,10 @@ Une première chapelle, vraisemblablement dédiée à Saint-Colomban, était sit
 
 #figure(
   caption: [Section K du cadastre réalisé sous le Premier Empire vers 1808 montrant l'ancienne chapelle au centre en rouge (#link("https://archives06.fr/ark:/79346/783049.2781471")[CE P 196/10])],
-  image(".assets/st_col/eglise/eglise_cadastre_1808_section-K_CE-P-0196-10.jpg", width: 70%),
+  fit-image(
+    "/assets/lantosque-saint-colomban/st_col/eglise/eglise_cadastre_1808_section-K_CE-P-0196-10.jpg",
+    width: 70%,
+  ),
 )
 
 L'édifice actuel, dédié à Saint-Étienne, fut achevé en 1844. Il est resté ancré dans la mémoire collective comme un agrandissement de l'ancienne chapelle, dont il subsisterait des vestiges visibles dans le renforcement situé à gauche du maître-autel, donnant accès au clocher.
@@ -325,44 +331,44 @@ Les matériaux nécessaires à sa construction auraient été transportés pierr
 Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des travaux de rénovation vers 1915, à la suite d'un incendie accidentel ayant détruit l'autel, puis à nouveau en 1933. La facade fut refaite par la mairie en août 2013.
 
 #figure(caption: [Le maître-autel de l'église avant l'incendie de 1915], side-by-side(
-  image(".assets/st_col/eglise/eglise_maitre_autel_bef-1915.png", width: 100%),
-  image(".assets/st_col/eglise/eglise_maitre_autel_bef-1915_verso.png", width: 100%),
+  fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_maitre_autel_bef-1915.png", width: 100%),
+  fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_maitre_autel_bef-1915_verso.png", width: 100%),
 ))
 
 #side-by-side(
   figure(
     caption: [L'église sous la neige (2011-01-30)],
-    image(".assets/st_col/eglise/eglise_neige_2011-01-30.jpg"),
+    fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_neige_2011-01-30.jpg"),
   ),
   figure(
     caption: [Une cloche (2010-10-30)],
-    image(".assets/st_col/eglise/eglise_cloche_2010-10-30.jpg"),
+    fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_cloche_2010-10-30.jpg"),
   ),
 )
 
 #side-by-side(
   figure(
     caption: [L'église vue de derrière (2011-04-25)],
-    image(".assets/st_col/eglise/eglise_derrière_2011-04-25.jpg"),
+    fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_derrière_2011-04-25.jpg"),
   ),
   figure(
     caption: [Le ravalement (2013-08-13)],
-    image(".assets/st_col/eglise/eglise_ravalement_2013-08-13.jpg"),
+    fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_ravalement_2013-08-13.jpg"),
   ),
 )
 
 #side-by-side(
   figure(
     caption: [Photo réalisée au Polaroid (s.d.)],
-    image(".assets/st_col/eglise/eglise_polaroid_s.d..jpg"),
+    fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_polaroid_s.d..jpg"),
   ),
   figure(
     caption: [L'église avant le ravalement (2010-04-22)],
-    image("./.assets/st_col/eglise/eglise_2010-04-22.jpg"),
+    fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_2010-04-22.jpg"),
   ),
   figure(
     caption: [L'église de nos jours (2026-05-08)],
-    image(".assets/st_col/eglise/eglise_2026-05-08.jpg"),
+    fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_2026-05-08.jpg"),
   ),
 )
 
@@ -379,17 +385,17 @@ Le cimetière semble avoir été installé là où il se situe actuellement, ent
 Sur le chemin de la Gleya, dans la ruelle descendant à la place, on peut encore voir sur le haut d'une porte à droite en descendant l'enseigne d'un ancien café restaurant tenu par François et Philippine Thaon.
 
 #side-by-side(
-  figure(image(".assets/st_col/chemin_de_la_gleya_ruelle.jpg", width: 100%), caption: [
+  figure(fit-image("/assets/lantosque-saint-colomban/st_col/chemin_de_la_gleya_ruelle.jpg", width: 100%), caption: [
     La ruelle descendant à la place
   ]),
-  figure(image(".assets/st_col/chemin_de_la_gleya_bar.jpg", width: 100%), caption: [
+  figure(fit-image("/assets/lantosque-saint-colomban/st_col/chemin_de_la_gleya_bar.jpg", width: 100%), caption: [
     L'enseigne du café restaurant de la place
   ]),
 )
 
 Une buvettes était présente au quartier du Coulet dans la maison à droite de la placette.
 
-#figure(image(".assets/st_col/buvette_coulet.jpg", width: 60%), caption: [
+#figure(fit-image("/assets/lantosque-saint-colomban/st_col/buvette_coulet.jpg", width: 60%), caption: [
   Photo d'avant le ravalement des façades qui a fait disparaître la mention de la buvette (\~1980)
 ])
 
@@ -400,15 +406,15 @@ Il y avait 3 fours, un au Coulet à Saint-Colomban, un à l'entrée du hameau de
 #highlight[Photos St Col et Camari]
 
 
-#figure(image(".assets/beasse/beasse_four_avant.jpg", width: 50%), caption: [
+#figure(fit-image("/assets/lantosque-saint-colomban/beasse/beasse_four_avant.jpg", width: 50%), caption: [
   Le four à pain de Béasse tel qu'il était
   (Photo Jean-Nicolas BEASSE)
 ])
 #side-by-side(
   figure(
     [
-      #image(".assets/beasse/beasse_four_pierres.jpg", width: 100%)
-      #image(".assets/beasse/beasse_four_pierres_2006.jpg", width: 100%)
+      #fit-image("/assets/lantosque-saint-colomban/beasse/beasse_four_pierres.jpg", width: 100%)
+      #fit-image("/assets/lantosque-saint-colomban/beasse/beasse_four_pierres_2006.jpg", width: 100%)
     ],
     caption: [
       Le même four après que des pierres aient été volés autour de 2006\
@@ -417,8 +423,8 @@ Il y avait 3 fours, un au Coulet à Saint-Colomban, un à l'entrée du hameau de
   ),
   figure(
     [
-      #image(".assets/beasse/beasse_four_restauration.jpg", width: 100%)
-      #image(".assets/beasse/beasse_four_restauration2.jpg", width: 100%)
+      #fit-image("/assets/lantosque-saint-colomban/beasse/beasse_four_restauration.jpg", width: 100%)
+      #fit-image("/assets/lantosque-saint-colomban/beasse/beasse_four_restauration2.jpg", width: 100%)
     ],
     caption: [
       Le four a été quelque peu réarrangé début octobre 2022 (Photos #link("https://www.facebook.com/groups/21906880800/permalink/10160040968690801/")[Jackou Laugier] et #link("https://www.facebook.com/groups/21906880800/permalink/10160039939100801/")[Olon Nolo])
@@ -436,10 +442,10 @@ Les enfants de Béasse montaient et descendaient chaque jour à l'école de Sain
 Entre 1902 et 1908, une école y fut construite. Mais face à un exode rapide de la population de Béasse, elle fut contrainte de fermer, son nombre d'élève passant de 17 enfants en 1917 à seulement 3 en 1922, année de sa fermeture.
 
 #side-by-side(
-  figure(image(".assets/beasse/beasse_2011-04-25.jpg", width: 100%), caption: [
+  figure(fit-image("/assets/lantosque-saint-colomban/beasse/beasse_2011-04-25.jpg", width: 100%), caption: [
     L'école de Béasse est le bâtiment encore debut sur la droite de la photo (2011-04-25)
   ]),
-  figure(image(".assets/beasse/beasse_école.jpg", width: 100%), caption: [
+  figure(fit-image("/assets/lantosque-saint-colomban/beasse/beasse_école.jpg", width: 100%), caption: [
     L'escalier pour entrer à l'étage (2022-02-15)
   ]),
 )
@@ -449,10 +455,10 @@ L'école de Saint-Colomban ferma à son tour en 19xx et fut reconvertie en gite.
 Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - Compte rendu conseil municipal 2016-10-17.pdf")[17/10/2016]], l'ancienne école de Saint-Colomban servait de bureau de vote lors des élections. Dorénavant, les électeurs de Saint-Colomban et Loda votent à Lantosque dans la salle Gilbert Gaglio.
 
 #side-by-side(
-  figure(image(".assets/ecole-1930.jpg", width: 100%), caption: [
+  figure(fit-image("/assets/lantosque-saint-colomban/ecole-1930.jpg", width: 100%), caption: [
     Les enfants de l'école de Saint-Colomban en 1930 (col. Emma ROBINI)
   ]),
-  figure(image(".assets/ecole-1930-noms.jpg", width: 100%), caption: [
+  figure(fit-image("/assets/lantosque-saint-colomban/ecole-1930-noms.jpg", width: 100%), caption: [
     Photographie annotée avec le nom des enfants (réalisée pour une exposition)
   ]),
 )
@@ -466,7 +472,9 @@ Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - C
 
   #figure(
     caption: [Les Travaux Publics de la France - Défilé de Lantosque (1883)],
-    image(".assets/route/Les Travaux Publics de la France - Défilé de Lantosque (1883).jpg"),
+    fit-image(
+      "/assets/lantosque-saint-colomban/route/Les Travaux Publics de la France - Défilé de Lantosque (1883).jpg",
+    ),
   )
 ]
 
@@ -475,7 +483,7 @@ Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - C
 
   #figure(
     caption: [La croix située au lieu-dit de _La Pointe_. La date de 1892 peut être lue sur le socle en béton.],
-    image(".assets/route/croix_de_la_pointe.jpg", width: 45%),
+    fit-image("/assets/lantosque-saint-colomban/route/croix_de_la_pointe.jpg", width: 45%),
   )
 ]
 
@@ -484,7 +492,7 @@ Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - C
 
   #figure(
     caption: [Grutage d'un véhicule suite au blocage de la route],
-    image(".assets/route/eboulement_rte_st_col_grue.jpg", width: 50%),
+    fit-image("/assets/lantosque-saint-colomban/route/eboulement_rte_st_col_grue.jpg", width: 50%),
   )
 ]
 
@@ -516,8 +524,8 @@ Tous les été, un festin est réalisé sur la place devant l'église.
 #figure(
   caption: [Bons d'entrée pour le bal de septembre 1936],
   side-by-side(
-    image(".assets/st_col/festin_bons_1936_hommes.jpg"),
-    image(".assets/st_col/festin_bons_1936_femmes.jpg"),
+    fit-image("/assets/lantosque-saint-colomban/st_col/festin_bons_1936_hommes.jpg"),
+    fit-image("/assets/lantosque-saint-colomban/st_col/festin_bons_1936_femmes.jpg"),
   ),
 )
 
@@ -525,17 +533,20 @@ Les rambardes autour de la place et le "balcon" pour les musiciens (ou plus réc
 
 #figure(
   caption: [Discours durant le festin de Juillet 1991],
-  image(".assets/st_col/festin_juillet-1991.jpg"),
+  fit-image("/assets/lantosque-saint-colomban/st_col/festin_juillet-1991.jpg"),
 )
 
 L'eau était fournis par les Robini, détenant la maison attenante à la place.
 
 == La population
 
-#figure(caption: [Evolution de la population de Saint-Colomban et de ses écarts], image(".assets/demographie.png"))
+#figure(
+  caption: [Evolution de la population de Saint-Colomban et de ses écarts],
+  fit-image("/assets/lantosque-saint-colomban/demographie.png"),
+)
 
 #figure(caption: [Population recensée à Saint-Colomban et dans ses écarts])[
-  #let demographie = csv(".assets/demographie.csv")
+  #let demographie = csv("/assets/lantosque-saint-colomban/demographie.csv")
   #let header-data = demographie.at(0)
   #let body-data = demographie.slice(1)
 

@@ -1,0 +1,20 @@
+version = "0.4.0"
+content_dir = "pages"
+
+[[html.assets]]
+css_stylesheet = "./style.css"
+copy = ["assets/**/*", "favicon.*"]
+
+[pdf.spine]
+title = "Historique des villages du Moyen Pays Niçois"
+merge = true
+vertebrae = [
+    "frontmatter.typ",
+    "avant-propos/avant-propos.typ",
+    "vesubie/introduction/introduction.typ",
+    "vesubie/lantosque/lantosque.typ",
+    "vesubie/lantosque/notables.typ",
+    "vesubie/lantosque/saint-colomban/saint-colomban.typ",
+    "paillon/luceram/luceram.typ",
+    "paillon/luceram/peira-cava/peira-cava.typ",
+]

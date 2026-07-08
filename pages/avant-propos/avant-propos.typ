@@ -1,8 +1,6 @@
-#import "/book.typ": book-page
+#import "/pages/prelude.typ": *
 
-#show: book-page.with(title: "Avant-propos")
-#import "/prelude.typ": *
-
+#show: sidebar-site.with(current: "Avant-propos")
 #set text(lang: "fr")
 
 = Avant-propos

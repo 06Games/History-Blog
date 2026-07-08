@@ -1,9 +1,6 @@
-#import "/book.typ": book-page
+#import "/pages/prelude.typ": *
 
-#show: book-page.with(title: "Lantosque: Les notables")
-
-#import "/prelude.typ": *
-
+#show: sidebar-site.with(current: "Lantosque: Les notables")
 #set text(lang: "fr")
 
 = Les notables
@@ -136,7 +133,7 @@ La liste du maire sortant l'emporta largement et dans son intégralité.
   ),
 )
 
-#figure(image(".assets/Elections 1904.jpg", height: 5cm), caption: [
+#figure(fit-image("/assets/lantosque/Elections 1904.jpg", height: 5cm), caption: [
   Extrait du #link("https://archives06.fr/ark:/79346/9588bee5c3c066c4461c95baead3eb72/dao/0/5")[Le Petit Niçois du 3 mai 1904, p.5]
 ])
 
@@ -367,10 +364,10 @@ La réélection de Baptistin Dragon fit cracher de l'encre. Le 24 mai, le Petit 
 )
 
 #side-by-side(
-  figure(image(".assets/Elections 1929 - Lantosque.jpg", width: 100%), caption: [
+  figure(fit-image("/assets/lantosque/Elections 1929 - Lantosque.jpg", width: 100%), caption: [
     Extrait du #link("https://archives06.fr/ark:/79346/cada6c54d73a8f2270ce47ad7b9c6471/dao/0/2")[Petit Niçois du 6 mai 1929, p.2]
   ]),
-  figure(image(".assets/Elections 1929 - Pelasque.jpg", width: 100%), caption: [
+  figure(fit-image("/assets/lantosque/Elections 1929 - Pelasque.jpg", width: 100%), caption: [
     Extrait du #link("https://archives06.fr/ark:/79346/cada6c54d73a8f2270ce47ad7b9c6471/dao/0/2")[Petit Niçois du 6 mai 1929, p.2]
   ]),
 )
