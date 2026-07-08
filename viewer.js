@@ -61,6 +61,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
   wrapper.appendChild(img);
   wrapper.appendChild(caption);
+
+  // Stop touch propagation on the caption to allow scrolling long text without zooming/panning/swiping the image
+  caption.addEventListener("touchstart", (e) => e.stopPropagation(), { passive: true });
+  caption.addEventListener("touchmove", (e) => e.stopPropagation(), { passive: true });
+  caption.addEventListener("touchend", (e) => e.stopPropagation(), { passive: true });
+
   modal.appendChild(wrapper);
   modal.appendChild(closeBtn);
   modal.appendChild(prevBtn);
@@ -231,6 +237,8 @@ document.addEventListener("DOMContentLoaded", () => {
   // Wheel Zoom (Desktop) with proportional translation shrinking
   modal.addEventListener("wheel", (e) => {
     if (!modal.classList.contains("active")) return;
+    // Allow scrolling the caption text naturally without zooming
+    if (e.target.closest(".lightbox-caption")) return;
     e.preventDefault();
 
     const zoomSpeed = 0.15;
