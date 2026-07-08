@@ -1,4 +1,13 @@
 document.addEventListener("DOMContentLoaded", () => {
+  // Inject viewport-fit=cover to viewport meta tag for full-bleed mobile display
+  const viewportMeta = document.querySelector('meta[name="viewport"]');
+  if (viewportMeta) {
+    const currentContent = viewportMeta.getAttribute("content");
+    if (!currentContent.includes("viewport-fit=cover")) {
+      viewportMeta.setAttribute("content", currentContent + ", viewport-fit=cover");
+    }
+  }
+
   // Find all figure images wrapped in target="_blank" links (Rheo's default output format)
   // or any link pointing to an image
   const links = Array.from(document.querySelectorAll("figure a[target='_blank'], a[href$='.jpg'], a[href$='.jpeg'], a[href$='.png'], a[href$='.svg'], a[href$='.webp']"))
@@ -74,45 +83,56 @@ document.addEventListener("DOMContentLoaded", () => {
   let touchStartDist = 0;
   let initialScale = 1;
   let isPanning = false;
+  let isPinching = false;
   let touchStartX = 0;
   let touchEndX = 0;
   let lastTapTime = 0;
 
-  // Keep panning offsets constrained within the zoomed image boundaries
-  function clampTranslation() {
+  // Elastic drag settings
+  const tolerance = 80; // Allow dragging past strict boundaries by 80px
+
+  function getBoundaries() {
+    const vw = window.innerWidth;
+    const vh = window.innerHeight;
+
+    // Use offset size, fallback to natural size or default to ensure we never divide or multiply by 0
+    const width = img.offsetWidth || img.naturalWidth || 800;
+    const height = img.offsetHeight || img.naturalHeight || 600;
+
+    const zoomedWidth = width * scale;
+    const zoomedHeight = height * scale;
+
+    let maxTx = 0;
+    if (zoomedWidth > vw) {
+      maxTx = (zoomedWidth - vw) / 2;
+    }
+
+    let maxTy = 0;
+    if (zoomedHeight > vh) {
+      maxTy = (zoomedHeight - vh) / 2;
+    }
+
+    return { maxTx, maxTy };
+  }
+
+  function clampTranslation(useTolerance = false) {
     if (scale <= 1) {
       translateX = 0;
       translateY = 0;
       return;
     }
 
-    const vw = window.innerWidth;
-    const vh = window.innerHeight;
+    const { maxTx, maxTy } = getBoundaries();
+    const currentTolerance = useTolerance ? tolerance : 0;
 
-    // Unscaled layout dimensions
-    const zoomedWidth = img.offsetWidth * scale;
-    const zoomedHeight = img.offsetHeight * scale;
+    const limitX = maxTx + currentTolerance;
+    translateX = Math.min(Math.max(translateX, -limitX), limitX);
 
-    // Keep horizontal panning inside bounds if image is wider than viewport
-    if (zoomedWidth > vw) {
-      const maxTx = (zoomedWidth - vw) / 2;
-      translateX = Math.min(Math.max(translateX, -maxTx), maxTx);
-    } else {
-      translateX = 0;
-    }
-
-    // Keep vertical panning inside bounds if image is taller than viewport
-    if (zoomedHeight > vh) {
-      const maxTy = (zoomedHeight - vh) / 2;
-      translateY = Math.min(Math.max(translateY, -maxTy), maxTy);
-    } else {
-      translateY = 0;
-    }
+    const limitY = maxTy + currentTolerance;
+    translateY = Math.min(Math.max(translateY, -limitY), limitY);
   }
 
   function updateImageTransform(enableTransition = false) {
-    clampTranslation();
-
     if (enableTransition) {
       img.style.transition = "transform 0.25s cubic-bezier(0.25, 1, 0.5, 1)";
     } else {
@@ -230,6 +250,7 @@ document.addEventListener("DOMContentLoaded", () => {
       translateX *= ratio;
       translateY *= ratio;
     }
+    clampTranslation(false);
     updateImageTransform(false);
   }, { passive: false });
 
@@ -247,6 +268,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!isDragging) return;
     translateX = e.clientX - startX;
     translateY = e.clientY - startY;
+    clampTranslation(true); // Allow elastic dragging outside strict boundaries
     updateImageTransform(false);
   });
 
@@ -254,6 +276,8 @@ document.addEventListener("DOMContentLoaded", () => {
     if (isDragging) {
       isDragging = false;
       img.style.cursor = scale > 1 ? "grab" : "";
+      clampTranslation(false); // Snap back to strict bounds
+      updateImageTransform(true); // Animate the snap-back
     }
   });
 
@@ -273,23 +297,32 @@ document.addEventListener("DOMContentLoaded", () => {
       const mouseY = e.clientY - (vh / 2);
       translateX = -mouseX * 1.5;
       translateY = -mouseY * 1.5;
+      clampTranslation(false);
       updateImageTransform(true);
     }
   });
 
-  // Touch Pinch-to-Zoom, Panning, and Double Tap
-  img.addEventListener("touchstart", (e) => {
+  // Bind touch gestures directly to modal container so touches can be tracked anywhere on screen
+  // (Prevents problems when a finger moves off the image element during zoom/pan)
+  function getDistance(touches) {
+    const dx = touches[0].clientX - touches[1].clientX;
+    const dy = touches[0].clientY - touches[1].clientY;
+    return Math.sqrt(dx * dx + dy * dy);
+  }
+
+  modal.addEventListener("touchstart", (e) => {
     if (e.touches.length === 2) {
-      // Pinch start
+      isPinching = true;
       touchStartDist = getDistance(e.touches);
       initialScale = scale;
       isPanning = false;
+      e.preventDefault();
     } else if (e.touches.length === 1) {
       // Check for double tap
       const currentTime = new Date().getTime();
       const tapDelay = 300;
       if (currentTime - lastTapTime < tapDelay) {
-        // Double tap zoom toggle
+        e.preventDefault();
         if (scale > 1) {
           scale = 1;
           translateX = 0;
@@ -301,6 +334,7 @@ document.addEventListener("DOMContentLoaded", () => {
           const touchY = e.touches[0].clientY - (window.innerHeight / 2);
           translateX = -touchX * 1.5;
           translateY = -touchY * 1.5;
+          clampTranslation(false);
           updateImageTransform(true);
         }
         lastTapTime = 0; // Reset
@@ -313,51 +347,54 @@ document.addEventListener("DOMContentLoaded", () => {
         isPanning = true;
         startX = e.touches[0].clientX - translateX;
         startY = e.touches[0].clientY - translateY;
+        e.preventDefault();
       } else {
         // Prepare swipe navigation
         touchStartX = e.touches[0].screenX;
       }
     }
-  }, { passive: true });
+  }, { passive: false });
 
-  img.addEventListener("touchmove", (e) => {
+  modal.addEventListener("touchmove", (e) => {
     if (e.touches.length === 2) {
-      e.preventDefault(); // Stop layout scrolling when pinching
+      e.preventDefault(); // Stop default browser scroll and zoom
       const dist = getDistance(e.touches);
-      const factor = dist / touchStartDist;
-      scale = Math.min(Math.max(initialScale * factor, 1), 5);
-      if (scale === 1) {
-        translateX = 0;
-        translateY = 0;
+      if (touchStartDist > 0) {
+        const factor = dist / touchStartDist;
+        scale = Math.min(Math.max(initialScale * factor, 1), 5);
+        if (scale === 1) {
+          translateX = 0;
+          translateY = 0;
+        }
+        clampTranslation(true);
+        updateImageTransform(false);
       }
-      updateImageTransform(false);
     } else if (e.touches.length === 1) {
       if (isPanning && scale > 1) {
+        e.preventDefault(); // Stop page scroll
         translateX = e.touches[0].clientX - startX;
         translateY = e.touches[0].clientY - startY;
+        clampTranslation(true); // Allow elastic dragging outside strict boundaries
         updateImageTransform(false);
       }
     }
   }, { passive: false });
 
-  img.addEventListener("touchend", (e) => {
+  modal.addEventListener("touchend", (e) => {
     if (e.touches.length < 2) {
       touchStartDist = 0;
     }
     if (e.touches.length === 0) {
       isPanning = false;
+      clampTranslation(false); // Snap back to strict bounds
+      updateImageTransform(true); // Animate snap back
+      setTimeout(() => {
+        isPinching = false;
+      }, 100);
     }
-  }, { passive: true });
 
-  // Swipe Gestures on Modal Backdrop (only active at 1x zoom)
-  modal.addEventListener("touchstart", (e) => {
-    if (e.touches.length === 1 && scale === 1) {
-      touchStartX = e.touches[0].screenX;
-    }
-  }, { passive: true });
-
-  modal.addEventListener("touchend", (e) => {
-    if (scale > 1) return; // Ignore swipe if zoomed in
+    // Swipe Gestures on Modal Backdrop (only active at 1x zoom and not pinching)
+    if (scale > 1 || isPinching) return;
     if (e.changedTouches.length === 1) {
       touchEndX = e.changedTouches[0].screenX;
       const swipeThreshold = 60;
