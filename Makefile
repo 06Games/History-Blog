@@ -1,18 +1,16 @@
-.PHONY: all web pdf serve serve-html
+.PHONY: all compile optimize serve clean
 
-all: web pdf
+all: compile optimize
 
-web:
-	shiroa build
+compile:
+	rheo compile --html --pdf .
 
-pdf:
-	typst compile ebook.typ
-	mv ebook.pdf dist/ebook.pdf
+optimize:
 	gs -sDEVICE=pdfwrite -dPDFSETTINGS=/printer -dNOPAUSE -dBATCH \
-		-sOutputFile=dist/ebook_compressed.pdf dist/ebook.pdf
+		-sOutputFile=build/pdf/history-blog_compressed.pdf build/pdf/history-blog.pdf
 
 serve:
-	shiroa serve
+	rheo watch --html --open .
 
-serve-html:
-	shiroa serve --mode static-html
+clean:
+	rm -R build/

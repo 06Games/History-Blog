@@ -18,3 +18,15 @@ vertebrae = [
     "paillon/luceram/luceram.typ",
     "paillon/luceram/peira-cava/peira-cava.typ",
 ]
+
+[epub.spine]
+title = "Historique des villages du Moyen Pays Niçois"
+vertebrae = [
+    "avant-propos/avant-propos.typ",
+    "vesubie/introduction/introduction.typ",
+    "vesubie/lantosque/lantosque.typ",
+    "vesubie/lantosque/notables.typ",
+    "vesubie/lantosque/saint-colomban/saint-colomban.typ",
+    "paillon/luceram/luceram.typ",
+    "paillon/luceram/peira-cava/peira-cava.typ",
+]

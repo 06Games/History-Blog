@@ -49,81 +49,107 @@ La liste des maires de Lantosque est présentée dans le chapitre consacré aux 
 #highlight[TODO : ajouter légendes et chercher dates des cartes postales]
 
 #side-by-side(
-  fit-image(
-    "/assets/lantosque/vues-anciennes/3332 - LANTOSQUE (A.M.) - Vue générale et la Gare - Vallée de la Vésubie..jpg",
-    width: 100%,
+  figure(
+    fit-image(
+      "/assets/lantosque/vues-anciennes/3332 - LANTOSQUE (A.M.) - Vue générale et la Gare - Vallée de la Vésubie..jpg",
+    ),
   ),
-  fit-image(
-    "/assets/lantosque/vues-anciennes/11049 - LANTOSQUE (A.M.) - Altitude 512 m. - Vue générale..jpg",
-    width: 100%,
+  figure(
+    fit-image(
+      "/assets/lantosque/vues-anciennes/11049 - LANTOSQUE (A.M.) - Altitude 512 m. - Vue générale..jpg",
+    ),
   ),
 )
 #side-by-side(
-  align(horizon, fit-image(
-    "/assets/lantosque/vues-anciennes/Lantosque - La fontaine et la Vieille Porte.jpg",
-    width: 100%,
+  align(horizon, figure(
+    fit-image(
+      max-height: 15cm,
+      "/assets/lantosque/vues-anciennes/Lantosque - La fontaine et la Vieille Porte.jpg",
+    ),
   )),
   [
-    #fit-image("/assets/lantosque/vues-anciennes/Lantosque - Quartier du Pivol.jpg", width: 100%)
-    #fit-image("/assets/lantosque/vues-anciennes/Lantosque - Vue du Rion - Vallée de la Vésubie.jpg", width: 100%)
-    #fit-image("/assets/lantosque/vues-anciennes/Lantosque - Vue du Riou.jpg", width: 100%)
+    #figure(fit-image("/assets/lantosque/vues-anciennes/Lantosque - Quartier du Pivol.jpg"))
+    #figure(
+      fit-image(
+        "/assets/lantosque/vues-anciennes/Lantosque - Vue du Rion - Vallée de la Vésubie.jpg",
+      ),
+    )
+    #figure(fit-image("/assets/lantosque/vues-anciennes/Lantosque - Vue du Riou.jpg"))
   ],
 )
 
 === L'arrivée du tramway
 
 #side-by-side(
-  fit-image("/assets/lantosque/tramway/Le vallon du Riou.webp", width: 100%),
-  fit-image("/assets/lantosque/tramway/L'entrée du village et le quartier Pivol.webp", width: 100%),
+  figure(fit-image("/assets/lantosque/tramway/Le vallon du Riou.webp")),
+  figure(fit-image("/assets/lantosque/tramway/L'entrée du village et le quartier Pivol.webp")),
 )
 #side-by-side(
-  fit-image("/assets/lantosque/tramway/LANTOSQUE (A.M.) - Le Nouveau Pont.jpg", width: 100%),
-  fit-image("/assets/lantosque/tramway/La gare.webp", width: 100%),
+  figure(fit-image("/assets/lantosque/tramway/LANTOSQUE (A.M.) - Le Nouveau Pont.jpg")),
+  figure(fit-image("/assets/lantosque/tramway/La gare.webp")),
 )
 #side-by-side(
-  fit-image("/assets/lantosque/tramway/Lantosque - La Gare du Tramway.jpg", width: 100%),
-  figure(caption: [Vue plus récente sur la gare, avant sa destruction], fit-image(
-    "/assets/lantosque/tramway/L'entrée du village.webp",
-    width: 100%,
-  )),
+  figure(fit-image("/assets/lantosque/tramway/Lantosque - La Gare du Tramway.jpg")),
+  figure(
+    caption: [Vue plus récente sur la gare, avant sa destruction],
+    fit-image(
+      "/assets/lantosque/tramway/L'entrée du village.webp",
+    ),
+  ),
 )
 
 === Les cafés et les restaurants
 
 #side-by-side(
-  fit-image(
-    "/assets/lantosque/cafe-restaurants/1563 - LANTOSQUE (A.M.) - Station estivale - La Place - Vallée de la Vésubie..jpg",
-    width: 100%,
+  figure(
+    fit-image(
+      "/assets/lantosque/cafe-restaurants/1563 - LANTOSQUE (A.M.) - Station estivale - La Place - Vallée de la Vésubie..jpg",
+    ),
   ),
-  fit-image("/assets/lantosque/cafe-restaurants/Lantosque - Place de la Mairie - Café des Alpes.jpg", width: 100%),
+  figure(
+    fit-image(
+      "/assets/lantosque/cafe-restaurants/Lantosque - Place de la Mairie - Café des Alpes.jpg",
+    ),
+  ),
 )
 #side-by-side(
-  fit-image("/assets/lantosque/cafe-restaurants/Lantosque - Place de la Mairie - Café des Touristes.jpg", width: 100%),
-  fit-image("/assets/lantosque/cafe-restaurants/Souvenir de Lantosque - La Poste (Le Pivol).jpg", width: 100%),
-  fit-image("/assets/lantosque/cafe-restaurants/Souvenir de Lantosque - Restaurant de la Gare.jpg", width: 100%),
+  figure(
+    fit-image(
+      "/assets/lantosque/cafe-restaurants/Lantosque - Place de la Mairie - Café des Touristes.jpg",
+    ),
+  ),
+  figure(fit-image("/assets/lantosque/cafe-restaurants/Souvenir de Lantosque - La Poste (Le Pivol).jpg")),
+  figure(
+    fit-image(
+      "/assets/lantosque/cafe-restaurants/Souvenir de Lantosque - Restaurant de la Gare.jpg",
+    ),
+  ),
 )
 
 === La religion
 
 #side-by-side(
-  fit-image(
-    "/assets/lantosque/religion/Souvenir de Lantosque - En face la fontaine de St-Sulpice - chemin de St-Colomban et de Loda au-dessus de Ste-Claire - Procession du 24 mai 1926 et vue de Lantosque (St-André).jpg",
-    width: 100%,
+  figure(
+    fit-image(
+      "/assets/lantosque/religion/Souvenir de Lantosque - En face la fontaine de St-Sulpice - chemin de St-Colomban et de Loda au-dessus de Ste-Claire - Procession du 24 mai 1926 et vue de Lantosque (St-André).jpg",
+    ),
   ),
-  fit-image(
-    "/assets/lantosque/religion/Souvenir de Lantosque - La Procession se rendant à Notre-Dame de la Balma.jpg",
-    width: 100%,
+  figure(
+    fit-image(
+      "/assets/lantosque/religion/Souvenir de Lantosque - La Procession se rendant à Notre-Dame de la Balma.jpg",
+    ),
   ),
 )
 
 === Le militaire
 
 #side-by-side(
-  fit-image(
-    "/assets/lantosque/militaire/Les Granges de la Brasque par LANTOSQUE (A.M.) - Les Cuisines..jpg",
-    width: 100%,
+  figure(
+    fit-image(
+      "/assets/lantosque/militaire/Les Granges de la Brasque par LANTOSQUE (A.M.) - Les Cuisines..jpg",
+    ),
   ),
-  fit-image("/assets/lantosque/militaire/Classes 1935-1936.jpg", width: 100%),
+  figure(fit-image("/assets/lantosque/militaire/Classes 1935-1936.jpg")),
 )
 
 
@@ -154,7 +180,7 @@ Dans ce contexte, Lantosque est controlé par les résistants dès le 21 août, 
 
 Thomas Otho, président du comité local de libération, assure alors la gestion de la commune#footnote(link("https://archives06.fr/ark:/79346/ec73d64368b31715749e47b5af1e7ee022/daogrp/0/29")[AD06, 2 E 550 - 1944 - 5e feuillet]). Il reste en poste jusqu’en avril ou mai 1945, date à laquelle François Barberis lui succède officiellement.
 
-#figure(fit-image("/assets/lantosque/Place des Tilleuls, libération.jpg", width: 100%), caption: [
+#figure(fit-image("/assets/lantosque/Place des Tilleuls, libération.jpg"), caption: [
   Place des Tilleuls, Libération de Lantosque, août 1944
 ])
 
@@ -171,14 +197,14 @@ L’événement provoque la destruction partielle d’une maison située à prox
 Les dégâts sont tels que le bâtiment doit être rasé, laissant derrière lui une cicatrice dans le paysage : un "trou" toujours visible aujourd’hui.
 
 #side-by-side(
-  figure(fit-image("/assets/lantosque/22FI_780308005_img.jpg", width: 100%), caption: [
+  figure(fit-image("/assets/lantosque/22FI_780308005_img.jpg"), caption: [
     La maison éventrée par le glissement, 08/03/1978 (AD06, 22 Fi 780308005)
   ]),
-  figure(fit-image("/assets/lantosque/22FI_780308002_img.jpg", width: 100%), caption: [
+  figure(fit-image("/assets/lantosque/22FI_780308002_img.jpg"), caption: [
     Plan large du glissement Turini, 08/03/1978 (AD06, 22 Fi 780308002)
   ]),
 )
-#figure(fit-image("/assets/lantosque/FRAD006_03NUM_20160318_004_img.jpg", width: 100%), caption: [
+#figure(fit-image("/assets/lantosque/FRAD006_03NUM_20160318_004_img.jpg"), caption: [
   Vue d'ensemble du village laissant apparaître le "trou de 1978", 18/03/2016 (AD06, 3 Num 20160318/4)
 ])
 
@@ -201,14 +227,14 @@ Des engins de travaux publics sont déployés afin de rouvrir au moins partielle
 Les jours suivants sont consacrés à la mise en place de solutions de fortune : rétablissement temporaire des réseaux, aménagement de voies provisoires et hébergement d’urgence pour les sinistrés.
 
 #side-by-side(
-  figure(fit-image("/assets/lantosque/IMG_5764.jpg", width: 100%), caption: [
+  figure(fit-image("/assets/lantosque/IMG_5764.jpg"), caption: [
     Le lit de la rivière (26 février 2021)
   ]),
-  figure(fit-image("/assets/lantosque/IMG_5789.jpg", width: 100%), caption: [
+  figure(fit-image("/assets/lantosque/IMG_5789.jpg"), caption: [
     Les dégats au Mirail (27 février 2021)
   ]),
 )
-#figure(fit-image("/assets/lantosque/IMG_5794.jpg", width: 100%), caption: [
+#figure(fit-image("/assets/lantosque/IMG_5794.jpg"), caption: [
   La maison éventrée au-dessous du pont du tram (27 février 2021)
 ])
 

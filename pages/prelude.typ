@@ -56,7 +56,6 @@
   nav: site-nav,
   title: "Historique des villages du Moyen Pays Niçois",
   home-url: "/",
-  //logo: image("/favicon.svg", alt: "Icon"),
 )
 
 #let show-rules(doc) = {
@@ -64,10 +63,9 @@
     if target() == "html" {
       let img-src = str(it.source).trim("/")
       let img-alt = if it.alt != none { str(it.alt) } else { "" }
-      // Helper function to turn Typst dimensions into CSS safely
+
       let to-css-dim(dim) = {
         if dim == none or dim == auto { none } else {
-          // Typst wraps lengths in relative types sometimes, which breaks CSS calc() if the parent has no fixed height
           if type(dim) == relative {
             if dim.ratio == 0% { return repr(dim.length) }
             if dim.length == 0pt { return repr(dim.ratio) }
@@ -89,14 +87,10 @@
       let css-width = to-css-dim(it.width)
       let css-height = to-css-dim(it.height)
 
-      // Build our HTML attribute dictionary dynamically
       let attrs = (src: img-src, alt: img-alt)
 
-      // --- UPGRADED STYLE GENERATION ---
       let styles = ()
       if css-width != none and css-height != none {
-        // When both width and height are provided, use CSS max-dimensions
-        // so the image scales responsively without stretching or leaving empty whitespace boxes.
         if it.fit == "contain" or it.fit == none {
           styles.push("max-width: " + css-width)
           styles.push("max-height: " + css-height)
@@ -130,44 +124,7 @@
   }
 
   show align: it => context {
-    // Check the compilation target so PDF/print layouts remain untouched
-    if target() == "html" {
-      // Extract the horizontal component (handles both 1D like `center` and 2D like `center + horizon`)
-      let horiz = if it.alignment.x != none { it.alignment.x } else { it.alignment }
-
-      // Map Typst alignment values to CSS keywords
-      let css-align = if horiz == center {
-        "center"
-      } else if horiz == right or horiz == end {
-        "right"
-      } else {
-        "left"
-      }
-
-      let flex-align = if css-align == "center" {
-        "center"
-      } else if css-align == "right" {
-        "flex-end"
-      } else {
-        "flex-start"
-      }
-
-      // Emit a <div> with CSS handling both text and block-level alignment
-      html.elem(
-        "div",
-        attrs: (
-          style: "text-align: "
-            + css-align
-            + "; display: flex; flex-direction: column; align-items: "
-            + flex-align
-            + ";",
-        ),
-        it.body,
-      )
-    } else {
-      // Retain standard Typst layout for PDF/print compilation
-      it
-    }
+    if target() == "html" { it.body } else { it }
   }
 
   doc
@@ -175,7 +132,6 @@
 
 #let sidebar-site(current: none, doc) = {
   show: show-rules
-  // Pass the modified document into the original sidebar plugin
   base-sidebar(current: current, doc)
 }
 
