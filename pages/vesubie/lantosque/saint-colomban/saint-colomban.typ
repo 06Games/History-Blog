@@ -500,9 +500,12 @@ La route de Saint-Colomban à Camari (alors "Chemin vicinal n°5") a été const
 
 La piste de la Maïris date quant à elle de 1922-1926#footnote(link("https://archives06.fr/ark:/79346/1161833.2481733")[A.D.A.M. : E-dépôt 78 4 O 27 -- Chemin rural de Camari à la Maïris, construction : plan, profils, devis, état parcellaire, mémoire explicatif; acte de constitution d'une association syndicale libre, délibérations, correspondance.]).
 
-La route de Gorblaou date de 1974-1976 #footnote([
+De 1933 à 1950, les habitants de Béasse se sont regroupés en un "Syndicat agricole de Béasse" pour demander la construction d'une piste reliant Saint-Colomban à Béasse en passant par Gorblaou. La municipalité de Lantosque s'était dite intéressée par le projet dans le cadre de la desserte de Gorblaou. Malgré une pétition signée par 52 propriétaires riverains, ce projet ne verra jamais le jour. #footnote([
+  #link("https://archives06.fr/ark:/79346/1189636.2466394")[E-dépôt 126 149 4O 34. Chemin rural du hameau de Béasse au hameau de Saint-Colomban. - Construction, entretien, réparations : instructions préfectorales, pétition signée par 52 propriétaires riverains, membres du "Syndicat agricole de Béasse" demandant la construction du chemin, délibérations, courrier du Ministre de l'Agriculture au préfet, copies de délibérations de la municipalité de Lantosque, intéressée dans le projet pour la desserte du quartier de Gorbleau, courrier du directeur de l"Association syndicale du chemin de Béasse", correspondance (1933-1950). 1 liasse .]
+])
+Une route jusqu'à Gorblaou sera finalement construite entre 1974 et 1976 #footnote([
   #link("https://archives06.fr/ark:/79346/814985.2232060")[291 W 30]
-]).
+]), mais sans le difficile prolongement vers Béasse puisque le hameau s'était entre-temps dépeuplé et qu'il sera tragiquement détruit par un incendie peu de temps après.
 
 La construction de la route du cimetière a été faite sous l'impulsion de Jean-Marie Robini en 1978, faisant alors partie du conseil municipal. A cette occasion les arbres à droite en arrivant au cimetière ont été plantés. Le cyprès à gauche en montant la route, un peu avant d'arriver au chateau d'eau, a été planté ultérieurement par son épouse Emma Robini.\
 Jean souhaitait faire continuer la route à partir du chateau d'eau jusqu'aux maisons de la Gleya, mais les propriétaires des terrains à traverser n'ont pas voulu les céder. Il y a dorénavant une antenne Bouygues Telecom à l'emplacement où aurait commencé cette route.
