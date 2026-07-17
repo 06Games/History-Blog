@@ -1,9 +1,9 @@
 #import "/pages/prelude.typ": *
 
-#show: sidebar-site.with(current: "Introduction")
+#show: sidebar-site.with(current: "La Vésubie")
 #set text(lang: "fr")
 
-= Introduction
+= La Vésubie
 
 == Un nom dérivé d'une tribu antique ?
 

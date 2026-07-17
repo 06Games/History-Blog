@@ -30,7 +30,7 @@
 
 #let site-nav = (
   (id: "Avant-propos", title: "Avant-propos", url: "./avant-propos:avant-propos.html"),
-  (id: "Introduction", title: "La Vésubie", url: "./vesubie:introduction:introduction.html"),
+  (id: "La Vésubie", title: "La Vésubie", url: "./vesubie:introduction:introduction.html"),
   (
     title: "Lantosque",
     items: (
