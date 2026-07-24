@@ -11,23 +11,23 @@ title = "Historique des villages du Moyen Pays Niçois"
 merge = true
 vertebrae = [
     "frontmatter.typ",
-    "avant-propos/avant-propos.typ",
-    "vesubie/introduction/introduction.typ",
-    "vesubie/lantosque/lantosque.typ",
-    "vesubie/lantosque/notables.typ",
-    "vesubie/lantosque/saint-colomban/saint-colomban.typ",
-    "paillon/luceram/luceram.typ",
-    "paillon/luceram/peira-cava/peira-cava.typ",
+    "avant-propos.typ",
+    "vesubie.typ",
+    "lantosque.typ",
+    "lantosque_notables.typ",
+    "lantosque_saint-colomban.typ",
+    "luceram.typ",
+    "luceram_peira-cava.typ",
 ]
 
 [epub.spine]
 title = "Historique des villages du Moyen Pays Niçois"
 vertebrae = [
-    "avant-propos/avant-propos.typ",
-    "vesubie/introduction/introduction.typ",
-    "vesubie/lantosque/lantosque.typ",
-    "vesubie/lantosque/notables.typ",
-    "vesubie/lantosque/saint-colomban/saint-colomban.typ",
-    "paillon/luceram/luceram.typ",
-    "paillon/luceram/peira-cava/peira-cava.typ",
+    "avant-propos.typ",
+    "vesubie.typ",
+    "lantosque.typ",
+    "lantosque_notables.typ",
+    "lantosque_saint-colomban.typ",
+    "luceram.typ",
+    "luceram_peira-cava.typ",
 ]

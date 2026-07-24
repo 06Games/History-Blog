@@ -29,25 +29,25 @@
 )
 
 #let site-nav = (
-  (id: "Avant-propos", title: "Avant-propos", url: "./avant-propos:avant-propos.html"),
-  (id: "La Vésubie", title: "La Vésubie", url: "./vesubie:introduction:introduction.html"),
+  (id: "Avant-propos", title: "Avant-propos", url: "./avant-propos.html"),
+  (id: "La Vésubie", title: "La Vésubie", url: "./vesubie.html"),
   (
     title: "Lantosque",
     items: (
-      (id: "Lantosque", title: "Histoire générale", url: "./vesubie:lantosque:lantosque.html"),
-      (id: "Lantosque: Les notables", title: "Les notables", url: "./vesubie:lantosque:notables.html"),
+      (id: "Lantosque", title: "Histoire générale", url: "./lantosque.html"),
+      (id: "Lantosque: Les notables", title: "Les notables", url: "./lantosque_notables.html"),
       (
         id: "Saint-Colomban (Lantosque)",
         title: "Saint-Colomban",
-        url: "./vesubie:lantosque:saint-colomban:saint-colomban.html",
+        url: "./lantosque_saint-colomban.html",
       ),
     ),
   ),
   (
     title: "Lucéram",
     items: (
-      (id: "Lucéram", title: "Histoire générale", url: "./paillon:luceram:luceram.html"),
-      (id: "Peïra-Cava (Lucéram)", title: "Peïra-Cava", url: "./paillon:luceram:peira-cava:peira-cava.html"),
+      (id: "Lucéram", title: "Histoire générale", url: "./luceram.html"),
+      (id: "Peïra-Cava (Lucéram)", title: "Peïra-Cava", url: "./luceram_peira-cava.html"),
     ),
   ),
 )
