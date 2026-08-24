@@ -11,6 +11,18 @@
 
 #highlight[Vente du Figaret à Utelle]
 
+== La guerre de Succession d'Espagne et l'occupation française (1705-1713)
+
+Lantosque subit de plein fouet la guerre de Succession d'Espagne lorsque les armées de Louis XIV envahissent le comté de Nice au printemps 1705. Les passages de troupes, les violences et les réquisitions de vivres provoquent un choc brutal au sein de la communauté, où la mortalité triple par rapport aux années ordinaires #footnote[92 décès enregistrés pour la seule année de 1705 contre une moyenne de 35,8 sur la période 1679-1704.].
+
+Après l'échec de la contre-offensive austro-savoyarde sur Toulon à l'été 1707 #footnote[#link("https://journals.openedition.org/rha/6930")[MARTIN Jean-Marie, _La guerre de Succession d’Espagne : l’armée des Alpes et le siège de Toulon_, Les corps expéditionnaires, n°258, 2010, p. 89-98]], le commandement français installe une présence permanente dans la vallée afin de couvrir la frontière orientale de la Provence. Cette occupation pèse lourdement sur la vie locale : les troupes réquisitionnent l'église paroissiale Saint-Pons pour les besoins du service militaire. Privée de son lieu de culte habituel, la paroisse doit alors replier les offices et les sépultures sur l'oratoire Sainte-Croix (la chapelle des Pénitents Blancs) dès juin 1708 #footnote[#link("https://www.geneanet.org/registres/view/17492/56")[Registre des Sépultures de Lantosque (1679-1781), A.D.A.M. 5 Mi 75/1, p. 101] : "#text(lang: "la")[Sex abhinc annis usque adhuc data est sepultura cadaveribus huius loci in Oratorio S[anctae] Crucis, eo q[uod] non pateret ingressus in Ecclesiam Parochialem ob servitium militare occupatam.]" #sym.dash.em "Depuis six ans, les dépouilles des défunts de ce lieu ont été inhumées à l'Oratoire de la Sainte-Croix, car l'entrée dans l'église paroissiale était interdite en raison du service militaire."].
+
+Au-delà des pointes de mortalité de 1705 et 1708, la présence militaire et les difficultés économiques de la période désorganisent durablement la communauté. Durant toute la seconde moitié de l'occupation, le ralentissement des mariages et la chute de la natalité témoignent d'un village éprouvé, les naissances diminuant de près d'un tiers par rapport à l'avant-guerre.
+
+Bien que le traité d'Utrecht scelle la rétrocession du comté de Nice à Victor-Amédée II dès avril 1713, le départ effectif des troupes et la remise en état des lieux s'étalent sur plusieurs mois. Ce n'est qu'à la toute fin de l'année 1713 que le culte régulier et les inhumations réintègrent finalement l'église Saint-Pons, tournant la page de plus de huit années de présence militaire française.
+
+== TBD (1714-1791)
+
 == La Révolution française et l'Empire (1792-1814)
 
 === La prise de Lantosque
@@ -164,7 +176,7 @@ La liste des maires de Lantosque est présentée dans le chapitre consacré aux 
 Le docteur Charles Louis Valentin Passeron (1883–1944), chevalier de la Légion d’honneur et maire de Lantosque depuis 1929, s’engage résolument en faveur du régime de Vichy.
 Il préside la section locale de la Légion française des combattants (LFC) et occupe un poste influent au sein du Parti populaire français (PPF), un parti collaborationniste.
 
-Le 24 juillet 1944, un commando de résistants venu du Brec d’Utelle exécute, au quartier du Pivol, le docteur Passeron #footnote[#link("https://www.pressreader.com/france/var-matin-brignoles-le-luc-saint-maximin/20240518/282162181322525/textview")[#link("/assets/Les résistants à l'offensive.jpg")[Les résis­tants à l’offen­sive], Var Matin du 18 mai 2024]], son épouse Paule Lucienne Seitre (1900–1944), ainsi que leur fils Jean André Joseph (1921–1944), alors étudiant en médecine #footnote[#link("https://archives06.fr/ark:/79346/ec73d64368b31715749e47b5af1e7ee022/daogrp/0/28")[AD06, 2 E 550 - 1944 - 4e feuillet]].
+Le 24 juillet 1944, un commando de résistants venu du Brec d’Utelle exécute, au quartier du Pivol, le docteur Passeron #footnote[#link("https://www.pressreader.com/france/var-matin-brignoles-le-luc-saint-maximin/20240518/282162181322525/textview")[#link("/assets/Les résistants à l'offensive.jpg")[Les résis­tants à l’offen­sive], Var Matin du 18 mai 2024]], son épouse Paule Lucienne Seitre (1900–1944), ainsi que leur fils Jean André Joseph (1921–1944), alors étudiant en médecine #footnote[#link("https://archives06.fr/ark:/79346/ec73d64368b31715749e47b5af1e7ee022/daogrp/0/28")[Registre des Décès de Lantosque (1941-1955), A.D.A.M., 2 E 550, 4#super[e] feuillet de 1944]].
 
 === La libération
 
@@ -175,10 +187,10 @@ La défense du Grand Reich n’est clairement pas leur priorité, et le moral de
 
 Dès l’annonce du débarquement allié en Provence, le 15 août 1944, la Résistance passe à l’action.
 La garnison de Saint-Martin-Vésubie capitule dès le 16 août, suivie par les autres postes allemands, abandonnés dans les 48 heures.
-Cette reddition éclair permet aux maquisards de s’emparer de l’ensemble du bassin du Var, au nord de Saint-Martin-du-Var#footnote(link("https://archives06.fr/data/recherches_regionales_220_2023_3.pdf")[L’arrivée des Américains sur le Var, le retrait allemand et la libération de Nice, Alain OTHO, Recherches Régionales n°220 (2023)]).
+Cette reddition éclair permet aux maquisards de s’emparer de l’ensemble du bassin du Var, au nord de Saint-Martin-du-Var#footnote(link("https://archives06.fr/data/recherches_regionales_220_2023_3.pdf")[OTHO Alain, _L’arrivée des Américains sur le Var, le retrait allemand et la libération de Nice_, Recherches Régionales, n°220, 2023]).
 Dans ce contexte, Lantosque est controlé par les résistants dès le 21 août, et peut-être même quelques jours plus tôt.
 
-Thomas Otho, président du comité local de libération, assure alors la gestion de la commune#footnote(link("https://archives06.fr/ark:/79346/ec73d64368b31715749e47b5af1e7ee022/daogrp/0/29")[AD06, 2 E 550 - 1944 - 5e feuillet]). Il reste en poste jusqu’en avril ou mai 1945, date à laquelle François Barberis lui succède officiellement.
+Thomas Otho, président du comité local de libération, assure alors la gestion de la commune#footnote(link("https://archives06.fr/ark:/79346/ec73d64368b31715749e47b5af1e7ee022/daogrp/0/29")[Registre des Décès de Lantosque (1941-1955), A.D.A.M., 2 E 550, 5#super[e] feuillet de 1944]). Il reste en poste jusqu’en avril ou mai 1945, date à laquelle François Barberis lui succède officiellement.
 
 #figure(fit-image("/assets/lantosque/Place des Tilleuls, libération.jpg"), caption: [
   Place des Tilleuls, Libération de Lantosque, août 1944
