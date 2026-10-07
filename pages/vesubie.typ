@@ -367,4 +367,6 @@ Le XVIIe siècle est marqué par de nombreux tremblements de terre.
 
 31 juillet 1631, la peste arrive à Belvédère #footnote(link("https://www.geneanet.org/registres/view/17637/17")[Registres des sépultures 1609-1640 de Belvédère f. 17]).
 
+== Les occupations françaises
 
+#highlight[TODO: https://www.sudoc.fr/103243135]
