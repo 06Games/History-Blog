@@ -1,4 +1,4 @@
-version = "0.4.0"
+version = "0.6.4"
 content_dir = "pages"
 
 [[html.assets]]
@@ -8,26 +8,8 @@ copy = ["assets/**/*", "favicon.*"]
 
 [pdf.spine]
 title = "Historique des villages du Moyen Pays Niçois"
-merge = true
-vertebrae = [
-    "frontmatter.typ",
-    "avant-propos.typ",
-    "vesubie.typ",
-    "lantosque.typ",
-    "lantosque_notables.typ",
-    "lantosque_saint-colomban.typ",
-    "luceram.typ",
-    "luceram_peira-cava.typ",
-]
+exclude = ["prelude.typ"]
 
 [epub.spine]
 title = "Historique des villages du Moyen Pays Niçois"
-vertebrae = [
-    "avant-propos.typ",
-    "vesubie.typ",
-    "lantosque.typ",
-    "lantosque_notables.typ",
-    "lantosque_saint-colomban.typ",
-    "luceram.typ",
-    "luceram_peira-cava.typ",
-]
+exclude = ["frontmatter.typ", "prelude.typ"]
