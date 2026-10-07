@@ -132,7 +132,7 @@
   }
 
   show rotate: it => context {
-    if target() == "html" { it.body } else { it }
+    if target() == "html" { html.div(style: "transform: rotate(" + repr(it.angle) + ");", it.body) } else { it }
   }
 
   doc
