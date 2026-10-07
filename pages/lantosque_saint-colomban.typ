@@ -569,11 +569,32 @@ La piste des Maurins a été réalisée sous la municipalité Jean Thaon. Jean R
 
 == L'eau
 
-L'adduction de l'eau potable s'est fait aux alentours de 1900#footnote(link("https://archives06.fr/ark:/79346/1161853.2481738")[A.D.A.M. : E-dépôt 78 5 O 3 -- Hameaux de Camari et Saint-Colomban : pétition, délibérations, affiche d'adjudication, soumissions, rapport de l'ingénieur ordinaire, arrêté préfectoral, correspondance. ]).
+L'accès à l'eau a longtemps été une difficulté majeure dans la vallée. Avant la fin du XIX#super[e] siècle, l'eau destinée aux bêtes, à l'arrosage et aux besoins domestiques était directement puisée au vallon, sans aucun point d'eau véritablement potable à proximité immédiate #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", portail _Vesubian_ (vesubian.com).]. En été, la seule ressource connue était une source au débit très faible située à plus de 600 mètres du hameau, contraignant souvent les familles à aller chercher l'eau stagnante du ruisseau des Oules à plus de 700 mètres par des sentiers qualifiés d'impraticables #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
 
-Un canal d'irrigation partant la forêt de la Maïris et allant jusqu'à Saint-Colomban servait à arroser les champs. Il fut construit en 1925#footnote(link("https://archives06.fr/ark:/79346/1161889.2481744")[A.D.A.M. : E-dépôt 78 5 O 8 -- Construction et entretien : pétition, rapports de l'ingénieur, arrêté préfectoral, délibérations, acte de création d'association syndicale, devis, plan, correspondance.]).
+Après une pétition des habitants en avril 1896 et une délibération municipale en juin 1899, le premier réseau public d'adduction fut installé vers 1900-1901 #footnote(link("https://archives06.fr/ark:/79346/1161889.2481744")[A.D.A.M. : E-dépôt 78 5 O 3 -- Hameaux de Camari et Saint-Colomban : pétition, délibérations, affiche d'adjudication, soumissions, rapport de l'ingénieur ordinaire, arrêté préfectoral, correspondance.]). Le captage alimentait une fontaine publique couplée à deux abreuvoirs-lavoirs et à un système de bassins conçu pour éviter le gaspillage, la gestion de l'eau restant cruciale lors des sécheresses estivales #footnote[Solenne Szys, "La vallée de St Colomban (Saint-Colomban, Gorblaou, Camari) - Territoire de Lantosque : Éléments d'histoire d'une communauté oubliée", _AMONT, Pays vésubien_, n° 1, 2000, p. 2.]. Les écarts de Gorblaou et de Camari obtinrent à leur tour leurs fontaines quelques années plus tard, par l'entremise du syndicat agricole #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
 
-Le vallon de Saint-Colomban dispose de plusieurs launes (dont la laune de l'Eléphant aux Oules et la laune du diable aux Maurins) où il était possible de se baigner. La baignade est dorénavant interdite par arrêté municipal en date du 04/08/2020 #footnote(link("/assets/Lantosque - Arrete municipal 2020-08-04.pdf")[Arrêté municipal n°010/2020 portant interdiction de la baignade dans l'ensemble du cours d'eau sis dans le vallon de Camari - St Colomban jusqu'à la Vésubie]) dans l'entièreté du vallon.
+#figure(fit-image("/assets/lantosque-saint-colomban/eau_lavoir_coulet.jpg", width: 50%), caption: [
+  Le lauvoir du Coulet, à Saint-Colomban (Photo Christian LEVANIN)
+])
+
+En avril 1923, trente-cinq propriétaires du secteur créèrent l'Association Syndicale Libre de Saint-Colomban pour solliciter des subventions #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. C'est dans ce cadre que fut aménagé en 1925 le canal d'irrigation captant les eaux de la forêt de la Maïris pour arroser les cultures jusqu'au hameau #footnote(link("https://archives06.fr/ark:/79346/1161889.2481744")[A.D.A.M. : E-dépôt 78 5 O 8 -- Construction et entretien : pétition, rapports de l'ingénieur, arrêté préfectoral, délibérations, acte de création d'association syndicale, devis, plan, correspondance.]).
+
+Quant à l'adduction d'eau potable directement dans les habitations, elle ne s'est faite que tardivement et de façon progressive, entre 1947 et 1966 #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
+
+#side-by-side(
+  figure(fit-image("/assets/lantosque-saint-colomban/eau_usine_camari.jpg", width: 100%), caption: [
+    Usine de traitement de l'eau potable à Camari
+  ]),
+  figure(fit-image("/assets/lantosque-saint-colomban/eau_chateau_cimetiere.jpg", width: 56.5%), caption: [
+    Chateau d'eau potable déservant le hameau, au cimetière
+  ]),
+)
+
+Le vallon de Saint-Colomban dispose de plusieurs launes (dont la laune de l'Éléphant aux Oules et la laune du Diable aux Maurins) où il était autrefois possible de se baigner. La baignade est dorénavant interdite par arrêté municipal en date du 04/08/2020 #footnote(link("/assets/Lantosque - Arrete municipal 2020-08-04.pdf")[Arrêté municipal n°010/2020 portant interdiction de la baignade dans l'ensemble du cours d'eau sis dans le vallon de Camari - St Colomban jusqu'à la Vésubie]) dans l'entièreté du vallon.
+
+#figure(fit-image("/assets/lantosque-saint-colomban/eau_laune_diable.jpg", width: 50%), caption: [
+  La laune du diable aux Maurins, d'accès privé
+])
 
 == Le festin
 
