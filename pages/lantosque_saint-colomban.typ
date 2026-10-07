@@ -314,7 +314,9 @@ Les terrains de la Colle ont été racheté, autour de 2020, par les Allari de G
 
 == La religion
 
-Une première chapelle, vraisemblablement dédiée à Saint-Colomban, était située dans le quartier de la Gleya. Une seconde chapelle aurait ensuite été édifiée à l'emplacement de l'église actuelle. Cette dernière acquit le statut d'église paroissiale durant la Révolution française et conserva ses propres registres officiels jusqu'en 1860, date de l'annexion du Comté de Nice par la France.
+Une première chapelle, vraisemblablement dédiée à Saint-Colomban, se trouvait dans le quartier de la Gleya #footnote[Solenne Szys, "La vallée de St Colomban (Saint-Colomban, Gorblaou, Camari) - Territoire de Lantosque : Éléments d'histoire d'une communauté oubliée", _AMONT, Pays vésubien_, n° 1, 2000, p. 2.]. Une seconde chapelle a ensuite été bâtie à l'emplacement de l'église actuelle. Cette dernière devint église paroissiale à la Révolution et conserva ses propres registres jusqu'en 1860, date du rattachement du Comté de Nice à la France.
+
+Le saint patron faisait l'objet d'une dévotion particulière en raison de ses vertus thaumaturgiques #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", portail _Vesubian_ (vesubian.com).] : la tradition lui prêtait le don de rendre la parole aux muets grâce à l'eau d'une source jaillissant près d'une ferme. Des familles venaient à pied des vallées voisines avec leurs enfants dans l'espoir d'une guérison, ce qui avait inspiré une boutade locale : "Tiens, celui-là il vient de St Colomban !" pour désigner une personne très bavarde.
 
 #figure(
   caption: [Section K du cadastre réalisé sous le Premier Empire vers 1808 montrant l'ancienne chapelle au centre en rouge (#link("https://archives06.fr/ark:/79346/783049.2781471")[CE P 196/10])],
@@ -324,11 +326,11 @@ Une première chapelle, vraisemblablement dédiée à Saint-Colomban, était sit
   ),
 )
 
-L'édifice actuel, dédié à Saint-Étienne, fut achevé en 1844. Il est resté ancré dans la mémoire collective comme un agrandissement de l'ancienne chapelle, dont il subsisterait des vestiges visibles dans le renforcement situé à gauche du maître-autel, donnant accès au clocher.
+L'église actuelle, placée sous le vocable de Saint-Étienne, fut terminée en 1844 #footnote[Solenne Szys, op. cit., p. 3.]. La mémoire locale y voit l'agrandissement de l'ancienne chapelle, dont un vestige subsisterait dans le renfoncement à gauche du maître-autel menant au clocher.
 
-Les matériaux nécessaires à sa construction auraient été transportés pierre par pierre depuis la vallée de la Vésubie. Leur quantité était telle que la maison en face, dite "des Thaons" (qui abritait un bar au siècle dernier), aurait été construite avec les pierres excédentaires.
+Sa construction mobilisa largement les habitants : chacun montait des pierres depuis la Vésubie en venant à la messe #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit. ; Solenne Szys, op. cit., p. 3.], tandis que les poutres de charpente furent acheminées depuis Béasse #footnote[Solenne Szys, op. cit., p. 3.]. Les pierres furent apportées en telle quantité que l'excédent permit d'élever la maison située juste en face de la place ; celle-ci revint à la famille Thaon, à laquelle appartenait le curé de l'époque.
 
-Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des travaux de rénovation vers 1915, à la suite d'un incendie accidentel ayant détruit l'autel, puis à nouveau en 1933. La facade fut refaite par la mairie en août 2013.
+Le clocher, ajouté ultérieurement, fut achevé en 1888 #footnote[Solenne Szys, op. cit., p. 3.]. L'église connut des travaux de rénovation après un incendie accidentel de l'autel en 1915 #footnote[Le mémoire du portail _Vesubian_ indique 1907, mais l'annotation manuscrite au dos d'une photographie d'époque confirme bien 1915, date également retenue par Solenne Szys (op. cit., p. 3).], puis à nouveau en 1933. La mairie fit refaire la façade en août 2013.
 
 #figure(caption: [Le maître-autel de l'église avant l'incendie de 1915], side-by-side(
   fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_maitre_autel_bef-1915.png", width: 100%),
@@ -372,14 +374,23 @@ Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des tr
   ),
 )
 
+Le presbytère est situé directement derrière le chevet, avec le logement du desservant à l'étage #footnote[Solenne Szys, op. cit., p. 3.]. Il a également été réparé en 1933 #footnote[Solenne Szys, op. cit., p. 3.]. De nos jours, le bâtiment tombe en ruine : il n'est plus hors d'eau, un pan de mur s'est ouvert et un autre s'affaisse au niveau des fenêtres. Sur la toiture, des pierres posées il y a plusieurs décennies comme solution provisoire menacent de glisser. Le balcon s'est effondré et la toiture des deux petites granges attenantes s'écroule. Lors du ravalement de 2013, seule la façade du presbytère visible depuis la place a été refaite, le reste fut laissé en l'état.
+
+L'édifice surprend par ses dimensions au regard de l'isolement du hameau #footnote[Solenne Szys, op. cit., p. 3.]. La nef unique compte trois travées en plein cintre et reçoit le jour par trois fenêtres sur le flanc droit et deux sur le flanc gauche #footnote[Solenne Szys, op. cit., p. 3.]. La grande porte d'entrée et les bancs en bois, longtemps réservés aux familles du lieu par attribution nominative, avaient été façonnés par un menuisier du quartier Saint-Georges à Lantosque #footnote[Solenne Szys, op. cit., p. 3.].
+
+L'espace liturgique s'organise autour du chœur et de deux chapelles latérales #footnote[Solenne Szys, op. cit., p. 3.] :
+- Au fond, le maître-autel est bien détaché du chevet. Il porte une toile figurant la Vierge à l'Enfant entourée de saint Sébastien, d'un martyr crucifié les bras attachés au-dessus de la tête, ainsi que d'un clerc lisant et d'un évêque à leurs pieds #footnote[Solenne Szys, op. cit., p. 3.].
+- Dans la chapelle latérale droite, l'autel de la Vierge accueille une Pietà et conserve deux bannières de procession : une des Jeunes Filles de Marie (une Vierge étoilée dominant un serpent et des nuages, motif de l'Apocalypse courant dans la Vésubie comme à Roquebillière ou Saint-Martin-Vésubie) et une autre figurant le mariage de Marie et Joseph #footnote[Solenne Szys, op. cit., p. 3.].
+- Dans la chapelle latérale gauche, l'autel dédié à saint Colomban abrite une statue et un tableau du saint protecteur aux côtés de saint Sébastien et d'un moine franciscain rappelant le monastère des Mineurs de Lantosque, sous la protection de l'Ange gardien et de saint Antoine de Padoue. Deux croix de procession (croce) de la Confrérie des Pénitents blancs y sont appuyées contre le mur, ornées de deux pénitents en prière tournés vers la croix #footnote[Solenne Szys, op. cit., p. 3.].
+
 Une plaque commémorative rendant hommage aux habitants morts pour la France est apposée sur le mur gauche à l'entrée.
 
-On prêtait aux cloches de Saint-Colomban le don d'éloigner les orages. #footnote[Un #link("/assets/lantosque-saint-colomban/st_col/eglise/RMC - Cloches de St Colomban.mp3")[reportage RMC] en relate]
+On prêtait aux cloches de Saint-Colomban le don d'éloigner les orages #footnote[Un #link("/assets/lantosque-saint-colomban/st_col/eglise/RMC - Cloches de St Colomban.mp3")[reportage RMC] en relate].
 
 #context {
   if target() == "html" {
     figure(
-      caption: [Enregistrement cassette d'un reportage RMC sur le sujet\ (col. Emma Robini, surement daté du début des années 90)\ Reportage : Paul Barelli ; Intervenants : M. Zaniboni, Denise Thaon, Jean-Marie Robini],
+      caption: [Enregistrement d'un reportage RMC sur le pouvoir prêté aux cloches contre les orages\ (col. Emma Robini, vers le début des années 1990)\ Reportage : Paul Barelli ; Intervenants : M. Zaniboni, Denise Thaon, Jean-Marie Robini],
       [
         #html.audio(
           src: "/assets/lantosque-saint-colomban/st_col/eglise/RMC - Cloches de St Colomban.mp3",
@@ -391,9 +402,9 @@ On prêtait aux cloches de Saint-Colomban le don d'éloigner les orages. #footno
   }
 }
 
-#highlight[Parler du presbytère]
+Au-delà de l'office religieux, la messe dominicale était l'occasion pour les habitants de se retrouver, d'échanger les nouvelles et de s'organiser pour les travaux et coups de main de la semaine #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
 
-Le cimetière semble avoir été installé là où il se situe actuellement, entre 1808 et 1874.
+À droite de l'édifice, une petite pièce servait à l'origine de cimetière _ad sanctos_ #footnote[Solenne Szys, op. cit., p. 3.]. La terre et le sable nécessaires aux inhumations y étaient montés à dos d'homme dans des récipients confectionnés à partir de fonds d'épicéa #footnote[Solenne Szys, op. cit., p. 3.]. Le cimetière communal actuel, situé plus haut sur le replat dominant le hameau, semble quant à lui avoir été aménagé entre 1808 et 1874.
 
 == Les cafés et buvettes
 
