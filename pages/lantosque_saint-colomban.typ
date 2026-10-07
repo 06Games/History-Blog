@@ -7,11 +7,11 @@
 
 Saint-Colomban est un hameau de Lantosque, situé à 725 mètres d'altitude.
 
-Les premiers peuplements de Saint-Colomban remonterait au VIIe siècle selon la mairie de Lantosque #footnote(link("https://www.lantosque.fr/commune/histoire-et-patrimoine/")[Lantosque : Histoire et patrimoine]), mais je n'ai pu trouver de source pour le confirmer.
+Les premiers peuplements de Saint-Colomban remonteraient au VIIe siècle selon la mairie de Lantosque #footnote(link("https://www.lantosque.fr/commune/histoire-et-patrimoine/")[Lantosque : Histoire et patrimoine]), mais je n'ai pu trouver de source pour le confirmer.
 
 Le hameau est mentionné dans le cartulaire de la cathédrale de Nice au XIIe siècle#footnote(link("https://gallica.bnf.fr/ark:/12148/bpt6k59258/f447.item")[Pouillés des provinces d'Aix, d'Arles et d'Embrun, publiés, sous la direction de M. Maurice Prou membre de l'Académie, par M. Étienne Clouzot archiviste paléographe auxiliaire de l'Académie, p278]).
 
-Les habitations sont décrites comme en ruine dans le registre d'"État des droits et revenus du comte Charles 1#super[er] en Provence" datant de 1252 #footnote[#link("https://odyssee.univ-amu.fr/files/original/1/532/FR_MMSH_MDQ_PRJ_MG_004.pdf")[Enquêtes sur les droits et revenus de Charles Ier d'Anjou en Provence (1252 et 1278) par Edouard Baratier] : #text(lang: "la", style: "italic")["San Columbar est castrum dirrutum, cujus territorium tenent homines de Lantoscha."] --- Saint-Colomban est un site fortifié en ruines, dont le territoire est tenu par les hommes de Lantosque.].
+Les habitations sont décrites comme en ruine dans le registre d'"État des droits et revenus du comte Charles 1#super[er] en Provence" datant de 1252 #footnote[#link("https://odyssee.univ-amu.fr/files/original/1/532/FR_MMSH_MDQ_PRJ_MG_004.pdf")[Enquêtes sur les droits et revenus de Charles Ier d'Anjou en Provence (1252 et 1278) par Édouard Baratier] : #text(lang: "la", style: "italic")["San Columbar est castrum dirrutum, cujus territorium tenent homines de Lantoscha."] --- Saint-Colomban est un site fortifié en ruines, dont le territoire est tenu par les hommes de Lantosque.].
 
 == Les écarts
 
@@ -93,21 +93,21 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
   ),
   caption: [
     Saint-Colomban vu d'en face vers le début du siècle dernier. #footnote[
-      On notera que l'éditeur de la carte postale a eu bien du mal à comprendre les noms de lieu qui lui était présenté puisqu'ils ont été assez fortement écorchées.
+      On notera que l'éditeur de la carte postale a eu bien du mal à comprendre les noms de lieu qui lui étaient présentés puisqu'ils ont été assez fortement écorchés.
 
       Collet = Le Coulet ("Lo Colet" en occitan, ce qui se prononce "Lou Coulet", désigne une zone de rupture de pente)\
       Église de Plena = "Église de la plaine", du replat, aujourd'hui connu comme le quartier de la place (et où se situe toujours l'église de nos jours)\
-      Gléa = Glèia ou Glèya (Que l'ont peut franciser en quartier de "l’église", nommé ainsi car l'église y était située auparavant)\
+      Gléa = Glèia ou Glèya (Que l'on peut franciser en quartier de "l’église", nommé ainsi car l'église y était située auparavant)\
       Lière = L'Ièra (Au vu de l'étymologie, cela devait être une aire de battage)
 
       Le X sur l'église semble être une marque ultérieure à l'encre bleue.
     ]
 
     On observe dans la végétation à gauche une bâtisse chez les héritiers Durante (Guillon notamment) à l'Ièra.\
-    _La maison de l'Escassa n'est pas visible car en contre-bas._
-    Au dessus, les maisons de la Glèia.\
-    Au premier plan, les deux maisons du coté gauche du Chemin des Maurins en descendant de l'église ainsi que l'église elle-même avec le presbytère. _La maison "des Thaons" en face de la place est cachée par l'église._\
-    À droite, l'École, les maisons du Coulet et le transformateur électrique. Au dessus, le cimetière.
+    _La maison de l'Escassa n'est pas visible car en contrebas._
+    Au-dessus, les maisons de la Glèia.\
+    Au premier plan, les deux maisons du côté gauche du Chemin des Maurins en descendant de l'église ainsi que l'église elle-même avec le presbytère. _La maison "des Thaons" en face de la place est cachée par l'église._\
+    À droite, l'École, les maisons du Coulet et le transformateur électrique. Au-dessus, le cimetière.
   ],
 )
 
@@ -118,7 +118,7 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
   ),
   figure(
     fit-image("/assets/lantosque-saint-colomban/st_col/carte_postale_ecole.jpg", width: 100%),
-    caption: [Carte postale montrant l'école et le lavoir au dessus du Coulet],
+    caption: [Carte postale montrant l'école et le lavoir au-dessus du Coulet],
   ),
 )
 
@@ -145,7 +145,7 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
       width: 100%,
     ),
     caption: [
-      Le pont au dessus du vallon et le Moulin, en contre-bas de Gorblaou
+      Le pont au-dessus du vallon et le Moulin, en contrebas de Gorblaou
     ],
   ),
 )
@@ -161,10 +161,10 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
 Béasse, dit "Biassa" en occitan, est un hameau dorénavant en ruine et à l'abandon situé sur la commune de Lucéram.
 Bien que situé à Lucéram, le hameau a toujours été rattaché à Saint-Colomban, tant par son origine que par sa proximité.
 
-En effet, Béasse a été construit aux alentours de la fin du XVII#super[e] siècle / tout début du XVIII#super[e] siècle par les Ciais dit "_Ciaissi Boen_" #footnote([La première mention que j'ai trouvé date d'un #link("https://www.geneanet.org/archives/registres/view/17455/50?idmarqueur=19316721")[mariage du 13 novembre 1712] entre Jean Baptiste Ciais fils de Jean Antoine de Béasse et Antoronette Gaglio fille de Claude de Lantosque.\
-  Marie Marguerite Ciais fille d'Antoine Sulpice Ciaissi Boen née le 07 janvier 1706 est par la suite dites native de Béasse lors de l'élaboration de la dot de sa fille Marie Catherine Maurin le 10 février 1755.]).
+En effet, Béasse a été construit aux alentours de la fin du XVII#super[e] siècle / tout début du XVIII#super[e] siècle par les Ciais dit "_Ciaissi Boen_" #footnote([La première mention que j'ai trouvée date d'un #link("https://www.geneanet.org/archives/registres/view/17455/50?idmarqueur=19316721")[mariage du 13 novembre 1712] entre Jean Baptiste Ciais fils de Jean Antoine de Béasse et Antoronette Gaglio fille de Claude de Lantosque.\
+  Marie Marguerite Ciais fille d'Antoine Sulpice Ciaissi Boen née le 07 janvier 1706 est par la suite dite native de Béasse lors de l'élaboration de la dot de sa fille Marie Catherine Maurin le 10 février 1755.]).
 
-Un recensement daté d'août 1718 fait état de 27 personnes, 12 boeufs, 8 vaches, 2 veaux, 197 brebis et chèvres, 25 chevreaux, 10 agneaux et 4 porcs de consommation personnelles. À l'exception des Brun, tous les habitants sont des descendants de Jean Louis _Ciaissi Boen_.
+Un recensement daté d'août 1718 fait état de 27 personnes, 12 bœufs, 8 vaches, 2 veaux, 197 brebis et chèvres, 25 chevreaux, 10 agneaux et 4 porcs de consommation personnelle. À l'exception des Brun, tous les habitants sont des descendants de Jean Louis _Ciaissi Boen_.
 
 #figure(
   caption: [Détail de la population recensée à Béasse en août 1718 #footnote([Selon la transcription de Jean-Nicolas BEASSE])],
@@ -223,7 +223,7 @@ Les habitants de Béasse se mariaient pour la plupart à des gens de Saint-Colom
 
 #side-by-side(
   figure(fit-image("/assets/lantosque-saint-colomban/beasse/beasse_avant.jpg", width: 100%), caption: [
-    Beasse autrefois
+    Béasse autrefois
   ]),
   figure(fit-image("/assets/lantosque-saint-colomban/beasse/beasse_maison_date.jpg", width: 100%), caption: [
     Date inscrite sur l'une des maisons\
@@ -231,7 +231,7 @@ Les habitants de Béasse se mariaient pour la plupart à des gens de Saint-Colom
   ]),
 )
 
-Autour de 1978 #footnote[Déjà en ruine sur les photos aérienne de la #link("https://remonterletemps.ign.fr/telecharger/?lon=7.342103&lat=43.943941&z=14&pointer=true&layer=pva&year=1977&couleur=P&mission=3541-0041")[mission 3541-0041 du 03/09/1978] de l'IGN], la majorité des maisons sont détruite dans un incendie vraisemblablement criminel. On raconte qu'un mari découvrant que sa femme le trompait avec le voisin décida de se venger en mettant le feu à son habitation. Le feu prit un caractère incontrollable et se propagea à l'ensemble des maisons mitoyennes.
+Autour de 1978 #footnote[Déjà en ruine sur les photos aériennes de la #link("https://remonterletemps.ign.fr/telecharger/?lon=7.342103&lat=43.943941&z=14&pointer=true&layer=pva&year=1977&couleur=P&mission=3541-0041")[mission 3541-0041 du 03/09/1978] de l'IGN], la majorité des maisons furent détruites dans un incendie vraisemblablement criminel. On raconte qu'un mari découvrant que sa femme le trompait avec le voisin décida de se venger en mettant le feu à son habitation. Le feu prit un caractère incontrôlable et se propagea à l'ensemble des maisons mitoyennes.
 
 #figure(
   side-by-side(
@@ -245,7 +245,7 @@ Autour de 1978 #footnote[Déjà en ruine sur les photos aérienne de la #link("h
     ),
   ),
   caption: [
-    Photos aériennes prisent le 14 août 1979, peu de temps après l'incendie ravageur\
+    Photos aériennes prises le 14 août 1979, peu de temps après l'incendie ravageur\
     (#link("https://remonterletemps.ign.fr/telecharger/?lon=7.342845&lat=43.944625&z=14.5&pointer=true&layer=pva&year=1978&couleur=C&mission=3441-0042")[IGN, Mis. 3441-0042, Cliché 1148, Éch. 1/14203] et #link("https://remonterletemps.ign.fr/telecharger/?lon=7.342845&lat=43.944625&z=14.5&pointer=true&layer=pva&year=1978&couleur=C&mission=3441-0042")[IGN, Mis. 3441-0041, Cliché 1148, Éch. 1/14263])
   ],
 )
@@ -256,14 +256,14 @@ Autour de 1978 #footnote[Déjà en ruine sur les photos aérienne de la #link("h
     fit-image("/assets/lantosque-saint-colomban/beasse/beasse_2022-12-18_haut.jpg", width: 100%),
   ),
   caption: [
-    Beasse le 18 décembre 2022
+    Béasse le 18 décembre 2022
     (Photos #link("https://www.instagram.com/p/CmUEK0koakE/")[Laurent PLANSON CREQUER])
   ],
 )
 
 === La Couala de Guillerm
 
-Les terrains de la Colle ont été racheté, autour de 2020, par les Allari de Gorblaou qui ont entrepris des travaux de restauration sur l'une des granges ainsi que la création d'une piste à partir de la "Piste des Chasseurs" à Camari.
+Les terrains de la Colle ont été rachetés, autour de 2020, par les Allari de Gorblaou qui ont entrepris des travaux de restauration sur l'une des granges ainsi que la création d'une piste à partir de la "Piste des Chasseurs" à Camari.
 
 #figure(
   side-by-side(
@@ -271,7 +271,7 @@ Les terrains de la Colle ont été racheté, autour de 2020, par les Allari de G
     fit-image("/assets/lantosque-saint-colomban/colle/grange_sud.jpg", width: 100%),
     fit-image("/assets/lantosque-saint-colomban/colle/grange_sud_2.jpg", width: 100%),
   ),
-  caption: [La grange la plus au sud, en contre-bas des autres. Elle est datée de 1851\ (Photos personnelles, 2021-08-07 et 2025-12-31 pour la dernière)],
+  caption: [La grange la plus au sud, en contrebas des autres. Elle est datée de 1851\ (Photos personnelles, 2021-08-07 et 2025-12-31 pour la dernière)],
 )
 
 #figure(
@@ -314,7 +314,7 @@ Les terrains de la Colle ont été racheté, autour de 2020, par les Allari de G
 
 == La religion
 
-Une première chapelle, vraisemblablement dédiée à Saint-Colomban, se trouvait dans le quartier de la Gleya #footnote[Solenne Szys, "La vallée de St Colomban (Saint-Colomban, Gorblaou, Camari) - Territoire de Lantosque : Éléments d'histoire d'une communauté oubliée", _AMONT, Pays vésubien_, n° 1, 2000, p. 2.]. Une seconde chapelle a ensuite été bâtie à l'emplacement de l'église actuelle. Cette dernière devint église paroissiale à la Révolution et tint des registres ayant valeur d'état civil jusqu'en 1860, date du rattachement du Comté de Nice à la France.
+Une première chapelle, vraisemblablement dédiée à Saint-Colomban, se trouvait sans doute dans le quartier de la Gleya #footnote[Solenne Szys, "La vallée de St Colomban (Saint-Colomban, Gorblaou, Camari) - Territoire de Lantosque : Éléments d'histoire d'une communauté oubliée", _AMONT, Pays vésubien_, n° 1, 2000, p. 2.]. Une seconde chapelle a ensuite été bâtie à l'emplacement de l'église actuelle. Cette dernière devint église paroissiale à la Révolution et tint des registres ayant valeur d'état civil jusqu'en 1860, date du rattachement du Comté de Nice à la France.
 
 Le saint patron faisait l'objet d'une dévotion particulière en raison de ses vertus thaumaturgiques #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", portail _Vesubian_ (vesubian.com).] : la tradition lui prêtait le don de rendre la parole aux muets grâce à l'eau d'une source jaillissant près d'une ferme. Des familles venaient à pied des vallées voisines avec leurs enfants dans l'espoir d'une guérison, ce qui avait inspiré une boutade locale : "Tiens, celui-là il vient de St Colomban !" pour désigner une personne très bavarde.
 
@@ -328,7 +328,7 @@ Le saint patron faisait l'objet d'une dévotion particulière en raison de ses v
 
 L'église actuelle, placée sous le vocable de Saint-Étienne, fut terminée en 1844 #footnote[Solenne Szys, op. cit., p. 3.]. La mémoire locale y voit l'agrandissement de l'ancienne chapelle, dont un vestige subsisterait dans le renfoncement à gauche du maître-autel menant au clocher.
 
-Sa construction mobilisa largement les habitants : chacun montait des pierres depuis la Vésubie en venant à la messe #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit. ; Solenne Szys, op. cit., p. 3.], tandis que les poutres de charpente furent acheminées depuis Béasse #footnote[Solenne Szys, op. cit., p. 3.]. Les pierres furent apportées en telle quantité que l'excédent permit d'élever la maison située juste en face de la place ; celle-ci revint à la famille Thaon, à laquelle appartenait le curé de l'époque.
+Sa construction mobilisa largement les habitants : chacun aurait monté des pierres depuis la Vésubie en venant à la messe #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit. ; Solenne Szys, op. cit., p. 3.], tandis que les poutres de charpente auraient été acheminées depuis Béasse #footnote[Solenne Szys, op. cit., p. 3.]. Les pierres auraient été apportées en telle quantité que l'excédent aurait permis d'élever la maison située juste en face de la place ; celle-ci revint à la famille Thaon, à laquelle appartenait le curé de l'époque.
 
 Le clocher, ajouté ultérieurement, fut achevé en 1888 #footnote[Solenne Szys, op. cit., p. 3.]. L'église connut des travaux de rénovation après un incendie accidentel de l'autel en 1915 #footnote[Le mémoire du portail _Vesubian_ indique 1907, mais l'annotation manuscrite au dos d'une photographie d'époque confirme bien 1915, date également retenue par Solenne Szys (op. cit., p. 3).], puis à nouveau en 1933. La mairie fit refaire la façade en août 2013.
 
@@ -391,16 +391,16 @@ Le presbytère est situé directement derrière le chevet, avec le logement du d
     fit-image("/assets/lantosque-saint-colomban/st_col/eglise/presbytere_vue_sud_2026-08-23.jpg"),
   ),
   figure(
-    caption: [La cabanon dont le toit s'écroule (2026-08-23)],
+    caption: [Le cabanon dont le toit s'écroule (2026-08-23)],
     fit-image("/assets/lantosque-saint-colomban/st_col/eglise/presbytere_cabanon_2026-08-23.jpg"),
   ),
 )
 
-L'édifice surprend par ses dimensions au regard de l'isolement du hameau #footnote[Solenne Szys, op. cit., p. 3.]. La nef unique compte trois travées en plein cintre et reçoit le jour par trois fenêtres sur le flanc droit et deux sur le flanc gauche #footnote[Solenne Szys, op. cit., p. 3.]. La grande porte d'entrée et les bancs en bois, longtemps réservés aux familles du lieu par attribution nominative, avaient été façonnés par un menuisier du quartier Saint-Georges à Lantosque #footnote[Solenne Szys, op. cit., p. 3.].
+L'édifice surprend par ses dimensions au regard de l'isolement du hameau #footnote[Solenne Szys, op. cit., p. 3.]. La nef unique compte trois travées en plein cintre et reçoit le jour par trois fenêtres sur le flanc droit et deux sur le flanc gauche #footnote[Solenne Szys, op. cit., p. 3.]. La grande porte d'entrée et les bancs en bois, longtemps réservés aux familles du lieu par attribution nominative, auraient été façonnés par un menuisier du quartier Saint-Georges à Lantosque #footnote[Solenne Szys, op. cit., p. 3.].
 
 L'espace liturgique s'organise autour du chœur et de deux chapelles latérales #footnote[Solenne Szys, op. cit., p. 3.] :
-- Au fond, le maître-autel est bien détaché du chevet. Il porte une toile figurant la Vierge à l'Enfant entourée de saint Sébastien, d'un martyr crucifié les bras attachés au-dessus de la tête, ainsi que d'un clerc lisant et d'un évêque à leurs pieds #footnote[Solenne Szys, op. cit., p. 3.].
-- Dans la chapelle latérale droite, l'autel de la Vierge accueille une Pietà et conserve deux bannières de procession : une des Jeunes Filles de Marie (une Vierge étoilée dominant un serpent et des nuages, motif de l'Apocalypse courant dans la Vésubie comme à Roquebillière ou Saint-Martin-Vésubie) et une autre figurant le mariage de Marie et Joseph #footnote[Solenne Szys, op. cit., p. 3.].
+- Au fond, le maître-autel est bien détaché du chevet. Il porte une toile figurant la Vierge à l'Enfant au centre, entourée à sa gauche de saint Sébastien (représenté en martyr, les bras attachés au-dessus de la tête) et, à ses pieds, de deux autres personnages : l'un lisant, à gauche, l'autre un évêque, à droite #footnote[Solenne Szys, op. cit., p. 3.].
+- Dans la chapelle latérale droite, l'autel, sans doute dédié à la Vierge, accueille une Pietà et conserve deux bannières de procession : une des Jeunes Filles de Marie (une Vierge étoilée dominant un serpent et des nuages, motif de l'Apocalypse courant dans la Vésubie comme à Roquebillière ou Saint-Martin-Vésubie) et une autre figurant le mariage de Marie et Joseph #footnote[Solenne Szys, op. cit., p. 3.].
 - Dans la chapelle latérale gauche, l'autel dédié à saint Colomban abrite une statue et un tableau du saint protecteur aux côtés de saint Sébastien et d'un moine franciscain rappelant le monastère des Mineurs de Lantosque, sous la protection de l'Ange gardien et de saint Antoine de Padoue. Deux croix de procession (croce) de la Confrérie des Pénitents blancs y sont appuyées contre le mur, ornées de deux pénitents en prière tournés vers la croix #footnote[Solenne Szys, op. cit., p. 3.].
 
 Une plaque commémorative rendant hommage aux habitants morts pour la France est apposée sur le mur gauche à l'entrée.
@@ -424,7 +424,7 @@ On prêtait aux cloches de Saint-Colomban le don d'éloigner les orages #footnot
 
 Au-delà de l'office religieux, la messe dominicale était l'occasion pour les habitants de se retrouver, d'échanger les nouvelles et de s'organiser pour les travaux et coups de main de la semaine #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
 
-À droite de l'édifice, une petite pièce servait à l'origine de cimetière _ad sanctos_ #footnote[Solenne Szys, op. cit., p. 3.]. La terre et le sable nécessaires aux inhumations y étaient montés à dos d'homme dans des récipients confectionnés à partir de fonds d'épicéa #footnote[Solenne Szys, op. cit., p. 3.]. Le cimetière communal actuel, situé plus haut sur le replat dominant le hameau, semble quant à lui avoir été aménagé entre 1808 et 1874.
+À droite de l'édifice, une petite pièce servait à l'origine de cimetière _ad sanctos_ #footnote[Solenne Szys, op. cit., p. 3.]. La terre et le sable nécessaires aux inhumations y auraient été montés à dos d'homme dans des récipients confectionnés à partir de fonds d'épicéa #footnote[Solenne Szys, op. cit., p. 3.]. Le cimetière communal actuel, situé plus haut sur le replat dominant le hameau, semble quant à lui avoir été aménagé entre 1808 et 1874.
 
 #figure(
   caption: [Le cimetière actuel (2020-08-03)],
@@ -457,13 +457,13 @@ Le dénivelé permettait souvent un accès de plain-pied à deux niveaux distinc
 
 L'économie de la vallée reposait sur un système agropastoral traditionnel proche de l'autarcie #footnote[Solenne Szys, "La vallée de St Colomban (Saint-Colomban, Gorblaou, Camari) - Territoire de Lantosque : Éléments d'histoire d'une communauté oubliée", _AMONT, Pays vésubien_, n° 1, 2000, p. 2.] #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", portail _Vesubian_ (vesubian.com).]. Chaque famille assurait l'essentiel de sa subsistance en produisant ses céréales, ses légumes, ses fruits, son vin, sa viande et ses fromages #footnote[Solenne Szys, op. cit., p. 2.] #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. Les achats extérieurs demeuraient limités à des ustensiles, des outils et quelques denrées indispensables comme le sucre, le café ou le sel #footnote[Solenne Szys, op. cit., p. 2.] #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. Ce dernier arrivait par la Route Ducale traversant la Vésubie et servait principalement à la conservation des aliments #footnote[Solenne Szys, op. cit., p. 2.].
 
-Le relief accidenté imposait un aménagement méthodique des versants en terrasses (_faïsses_) soutenues par des murets en pierres sèches #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. Ces murs étaient bâtis de façon à retenir la terre meuble tout en laissant s'infiltrer et s'évacuer les eaux de pluie #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. Le secteur de Camari regroupait les terrasses les plus vastes et les mieux ensoleillées #footnote[Solenne Szys, op. cit., p. 1.], tandis que les versants au sud de Saint-Colomban, aujourd'hui entièrement boisés, étaient autrefois cultivés en blé, orge, avoine et seigle #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.] #footnote[Solenne Szys, op. cit., p. 2.]. Les sentiers muletiers qui desservaient ces parcelles disséminées demandaient un entretien permanent, particulièrement en hiver où le verglas rendait les passages glissants et dangereux #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
+Le relief accidenté imposait un aménagement méthodique des versants en terrasses (_faïsses_) soutenues par des murets en pierres sèches #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. Ces murs étaient bâtis de façon à retenir la terre meuble tout en laissant s'infiltrer et s'évacuer les eaux de pluie #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. Le secteur de Camari regroupait les terrasses les plus vastes et les mieux ensoleillées #footnote[Solenne Szys, op. cit., p. 1.], tandis que les versants au sud de Saint-Colomban, aujourd'hui entièrement boisés, étaient autrefois cultivés en blé, orge et avoine #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. Les sentiers muletiers qui desservaient ces parcelles disséminées demandaient un entretien permanent, particulièrement en hiver où le verglas rendait les passages glissants et dangereux #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
 
 Les céréales moissonnées en juillet étaient entreposées dans les greniers des habitations, les familles veillant par précaution à garder une récolte d'avance pour parer aux années difficiles #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. Les pentes portaient également des oliviers fournissant la consommation familiale en huile #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.], ainsi que des vergers fruitiers #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. Les prunes Reine-Claude étaient particulièrement réputées dans le pays : des primeurs montaient les acheter sur pied pour alimenter les étals des marchés de Lantosque et de Levens, et des boîtes de pruneaux séchés étaient même exportées jusqu'en Angleterre #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
 
 L'élevage complétait cette polyculture vivrière #footnote[Solenne Szys, op. cit., p. 2.]. Les bovins partaient en estive durant la période estivale sur les pâturages de la Maïris, tandis que les chèvres restaient gardées au village #footnote[Solenne Szys, op. cit., p. 1-2.]. Chaque foyer possédait une basse-cour de poules et de lapins, ainsi qu'un ou deux cochons engraissés puis tués vers Noël pour fournir des réserves de viande sur plusieurs mois #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
 
-La forêt de la Maïris représentait un ensemble foncier déterminant, comptant 37 hectares de terres potagères arrosables, 18 hectares de châtaigneraies et 217 hectares de bois et de pacages #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. Ses boisements de mélèzes et de résineux furent par ailleurs exploités sous l'administration piémontaise pour la construction navale des ports ligures (quais et pontons), les billots étant descendus par câbles et flottage, bien avant la création de pistes carrossables #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
+La forêt de la Maïris représentait un ensemble foncier déterminant, comptant 37 hectares de terres potagères arrosables, 18 hectares de châtaigneraies et 217 hectares de bois et de pacages #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. Ses boisements de feuillus et de mélèzes furent par ailleurs exploités sous l'administration piémontaise pour la construction navale des ports ligures (quais et pontons), les billots étant descendus par câbles et flottage, bien avant la création de pistes carrossables #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
 
 == Les équipements collectifs
 
@@ -493,7 +493,7 @@ Le hameau de Gorblaou ne disposait quant à lui d'aucun four propre #footnote[So
       #fit-image("/assets/lantosque-saint-colomban/beasse/beasse_four_pierres_2006.jpg", width: 100%)
     ],
     caption: [
-      Le même four après que des pierres aient été volés autour de 2006\
+      Le même four après que des pierres ont été volées autour de 2006\
       (Photos Jean-Nicolas BEASSE et Arlette GALLI)
     ],
   ),
@@ -520,23 +520,23 @@ Le moulin a depuis été reconverti en maison d'habitation.
 
 == L'éducation
 
-Une école fut construite au dessus du quartier du Coulet à Saint-Colomban en 1xxx. Elle subit des réparations entre 1925 et 1931#footnote(link("https://archives06.fr/ark:/79346/1161435.2481670")[A.D.A.M. : E-dépôt 78 11 M 4 -- École de Saint-Colomban, réparation : plans, bordereau des prix, instructions préfectorales, délibérations, soumission, procès-verbaux d'adjudication et de réception des travaux, décompte définitif, arrêté de subvention, correspondance.]).
+Une école fut construite au-dessus du quartier du Coulet à Saint-Colomban en 1xxx. Elle subit des réparations entre 1925 et 1931#footnote(link("https://archives06.fr/ark:/79346/1161435.2481670")[A.D.A.M. : E-dépôt 78 11 M 4 -- École de Saint-Colomban, réparation : plans, bordereau des prix, instructions préfectorales, délibérations, soumission, procès-verbaux d'adjudication et de réception des travaux, décompte définitif, arrêté de subvention, correspondance.]).
 
 Les enfants de Béasse montaient et descendaient chaque jour à l'école de Saint-Colomban, ce qui représente environ trois quarts d'heure de marche.
-Entre 1902 et 1908, une école y fut construite. Mais face à un exode rapide de la population de Béasse, elle fut contrainte de fermer, son nombre d'élève passant de 17 enfants en 1917 à seulement 3 en 1922, année de sa fermeture.
+Entre 1902 et 1908, une école y fut construite. Mais face à un exode rapide de la population de Béasse, elle fut contrainte de fermer, son nombre d'élèves passant de 17 enfants en 1917 à seulement 3 en 1922, année de sa fermeture.
 
 #side-by-side(
   figure(fit-image("/assets/lantosque-saint-colomban/beasse/beasse_2011-04-25.jpg", width: 100%), caption: [
-    L'école de Béasse est le bâtiment encore debut sur la droite de la photo (2011-04-25)
+    L'école de Béasse est le bâtiment encore debout sur la droite de la photo (2011-04-25)
   ]),
   figure(fit-image("/assets/lantosque-saint-colomban/beasse/beasse_école.jpg", width: 100%), caption: [
     L'escalier pour entrer à l'étage (2022-02-15)
   ]),
 )
 
-L'école de Saint-Colomban ferma à son tour en 19xx et fut reconvertie en gite. Puis, le gite fut contrait de fermer dans les années 2010 suite à une changement des normes en matière d'accessibilité, qui auraient nécessité des travaux, ce que la mairie n'a pas souhaité faire.
+L'école de Saint-Colomban ferma à son tour en 19xx et fut reconvertie en gîte. Puis, le gîte fut contraint de fermer dans les années 2010 suite à un changement des normes en matière d'accessibilité, qui auraient nécessité des travaux, ce que la mairie n'a pas souhaité faire.
 
-Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - Compte rendu conseil municipal 2016-10-17.pdf")[17/10/2016]], l'ancienne école de Saint-Colomban servait de bureau de vote lors des élections. Dorénavant, les électeurs de Saint-Colomban et Loda votent à Lantosque dans la salle Gilbert Gaglio.
+Jusqu'en 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - Compte rendu conseil municipal 2016-10-17.pdf")[17/10/2016]], l'ancienne école de Saint-Colomban servait de bureau de vote lors des élections. Dorénavant, les électeurs de Saint-Colomban et Loda votent à Lantosque dans la salle Gilbert Gaglio.
 
 #side-by-side(
   figure(fit-image("/assets/lantosque-saint-colomban/ecole-1930.jpg", width: 100%), caption: [
@@ -552,7 +552,7 @@ Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - C
 #highlight[Parler des anciens chemins et de ce qu'il en reste]
 
 #box[
-  Le pont au dessus de la Vésubie a été construit au alentours de 1883.
+  Le pont au-dessus de la Vésubie a été construit aux alentours de 1883.
 
   #figure(
     caption: [Les Travaux Publics de la France - Défilé de Lantosque (1883)],
@@ -563,7 +563,7 @@ Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - C
 ]
 
 #box[
-  La première croix en vue de Saint-Colomban date de 1892 et à été restaurée par Jean-Marie Robini, mon arrière-grand-père, en 1992.
+  La première croix en vue de Saint-Colomban date de 1892 et a été restaurée par Jean-Marie Robini, mon arrière-grand-père, en 1992.
 
   #figure(
     caption: [La croix située au lieu-dit de _La Pointe_. La date de 1892 peut être lue sur le socle en béton.],
@@ -572,7 +572,7 @@ Jusque 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement - C
 ]
 
 #box[
-  Un éboulement était survenu (à une date que je ne saurais donner) au tout début de la route de Saint-Colomban en arrivant de Lantosque. Une grue avait alors été mise en place et a servie à libérer les véhicules pris au piège en amont.
+  Un éboulement était survenu (à une date que je ne saurais donner) au tout début de la route de Saint-Colomban en arrivant de Lantosque. Une grue avait alors été mise en place et a servi à libérer les véhicules pris au piège en amont.
 
   #figure(
     caption: [Grutage d'un véhicule suite au blocage de la route],
@@ -588,16 +588,16 @@ En 1873, le sentier de Béasse (alors "Chemin vicinal ordinaire n° 6") fait l'o
   #link("https://archives06.fr/ark:/79346/1189628.2466393")[E-dépôt 126 148 4 O 21. Chemin vicinal ordinaire n° 6 dit "de Béasse", de Lucéram au hameau de Béasse. - Élargissement : plan et tableau parcellaire des terrains à occuper, arrêté de la Commission départementale des chemins portant approbation du projet, instruction de la Préfecture, correspondance (1873). 5 pièces.]
 ])\
 De 1933 à 1950, les habitants de Béasse se sont regroupés en un "Syndicat agricole de Béasse" pour demander la construction d'une piste reliant Saint-Colomban à Béasse en passant par Gorblaou. La municipalité de Lantosque s'était dite intéressée par le projet dans le cadre de la desserte de Gorblaou. Malgré une pétition signée par 52 propriétaires riverains, ce projet ne verra jamais le jour. #footnote([
-  #link("https://archives06.fr/ark:/79346/1189636.2466394")[E-dépôt 126 149 4 O 34. Chemin rural du hameau de Béasse au hameau de Saint-Colomban. - Construction, entretien, réparations : instructions préfectorales, pétition signée par 52 propriétaires riverains, membres du "Syndicat agricole de Béasse" demandant la construction du chemin, délibérations, courrier du Ministre de l'Agriculture au préfet, copies de délibérations de la municipalité de Lantosque, intéressée dans le projet pour la desserte du quartier de Gorbleau, courrier du directeur de l"Association syndicale du chemin de Béasse", correspondance (1933-1950). 1 liasse .]
+  #link("https://archives06.fr/ark:/79346/1189636.2466394")[E-dépôt 126 149 4 O 34. Chemin rural du hameau de Béasse au hameau de Saint-Colomban. - Construction, entretien, réparations : instructions préfectorales, pétition signée par 52 propriétaires riverains, membres du "Syndicat agricole de Béasse" demandant la construction du chemin, délibérations, courrier du Ministre de l'Agriculture au préfet, copies de délibérations de la municipalité de Lantosque, intéressée dans le projet pour la desserte du quartier de Gorbleau, courrier du directeur de l'"Association syndicale du chemin de Béasse", correspondance (1933-1950). 1 liasse.]
 ])\
 Une route jusqu'à Gorblaou sera finalement construite entre 1974 et 1976 #footnote([
   #link("https://archives06.fr/ark:/79346/814985.2232060")[291 W 30]
 ]), mais sans le difficile prolongement vers Béasse puisque le hameau s'était entre-temps dépeuplé et qu'il sera tragiquement détruit par un incendie peu de temps après.
 
-La construction de la route du cimetière a été faite sous l'impulsion de Jean-Marie Robini en 1978, faisant alors partie du conseil municipal. A cette occasion les arbres à droite en arrivant au cimetière ont été plantés. Le cyprès à gauche en montant la route, un peu avant d'arriver au chateau d'eau, a été planté ultérieurement par son épouse Emma Robini.\
-Jean souhaitait faire continuer la route à partir du chateau d'eau jusqu'aux maisons de la Gleya, mais les propriétaires des terrains à traverser n'ont pas voulu les céder. Il y a dorénavant une antenne Bouygues Telecom à l'emplacement où aurait commencé cette route.
+La construction de la route du cimetière a été faite sous l'impulsion de Jean-Marie Robini en 1978, faisant alors partie du conseil municipal. À cette occasion les arbres à droite en arrivant au cimetière ont été plantés. Le cyprès à gauche en montant la route, un peu avant d'arriver au château d'eau, a été planté ultérieurement par son épouse Emma Robini.\
+Jean souhaitait faire continuer la route à partir du château d'eau jusqu'aux maisons de la Gleya, mais les propriétaires des terrains à traverser n'ont pas voulu les céder. Il y a dorénavant une antenne Bouygues Telecom à l'emplacement où aurait commencé cette route.
 
-La piste des Maurins a été réalisée sous la municipalité Jean Thaon. Jean Robini, qui n'était alors plus au conseil, servi de médiateur pour négocier la cession des terrains necessaires. Il fut d'ailleurs un des principaux contributeurs terrien. Des murs ont été construit sur cette même piste aux alentours de 2001.
+La piste des Maurins a été réalisée sous la municipalité Jean Thaon. Jean Robini, qui n'était alors plus au conseil, servit de médiateur pour négocier la cession des terrains nécessaires. Il fut d'ailleurs un des principaux contributeurs terriens. Des murs ont été construits sur cette même piste aux alentours de 2001.
 
 == L'eau
 
@@ -606,7 +606,7 @@ L'accès à l'eau a longtemps été une difficulté majeure dans la vallée. Ava
 Après une pétition des habitants en avril 1896 et une délibération municipale en juin 1899, le premier réseau public d'adduction fut installé vers 1900-1901 #footnote(link("https://archives06.fr/ark:/79346/1161889.2481744")[A.D.A.M. : E-dépôt 78 5 O 3 -- Hameaux de Camari et Saint-Colomban : pétition, délibérations, affiche d'adjudication, soumissions, rapport de l'ingénieur ordinaire, arrêté préfectoral, correspondance.]). Le captage alimentait une fontaine publique couplée à deux abreuvoirs-lavoirs et à un système de bassins conçu pour éviter le gaspillage, la gestion de l'eau restant cruciale lors des sécheresses estivales #footnote[Solenne Szys, "La vallée de St Colomban (Saint-Colomban, Gorblaou, Camari) - Territoire de Lantosque : Éléments d'histoire d'une communauté oubliée", _AMONT, Pays vésubien_, n° 1, 2000, p. 2.]. Les écarts de Gorblaou et de Camari obtinrent à leur tour leurs fontaines quelques années plus tard, par l'entremise du syndicat agricole #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
 
 #figure(fit-image("/assets/lantosque-saint-colomban/eau_lavoir_coulet.jpg", width: 50%), caption: [
-  Le lauvoir du Coulet, à Saint-Colomban (Photo Christian LEVANIN)
+  Le lavoir du Coulet, à Saint-Colomban (Photo Christian LEVANIN)
 ])
 
 En avril 1923, trente-cinq propriétaires du secteur créèrent l'Association Syndicale Libre de Saint-Colomban pour solliciter des subventions #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. C'est dans ce cadre que fut aménagé en 1925 le canal d'irrigation captant les eaux de la forêt de la Maïris pour arroser les cultures jusqu'au hameau #footnote(link("https://archives06.fr/ark:/79346/1161889.2481744")[A.D.A.M. : E-dépôt 78 5 O 8 -- Construction et entretien : pétition, rapports de l'ingénieur, arrêté préfectoral, délibérations, acte de création d'association syndicale, devis, plan, correspondance.]).
@@ -618,7 +618,7 @@ Quant à l'adduction d'eau potable directement dans les habitations, elle ne s'e
     Usine de traitement de l'eau potable à Camari
   ]),
   figure(fit-image("/assets/lantosque-saint-colomban/eau_chateau_cimetiere.jpg", width: 56.5%), caption: [
-    Chateau d'eau potable déservant le hameau, au cimetière
+    Château d'eau potable desservant le hameau, au cimetière
   ]),
 )
 
@@ -642,7 +642,7 @@ Sur le chemin de la Gleya, dans la ruelle descendant à la place, on peut encore
   ]),
 )
 
-Une buvettes était présente au quartier du Coulet dans la maison à droite de la placette.
+Une buvette était présente au quartier du Coulet dans la maison à droite de la placette.
 
 #figure(fit-image("/assets/lantosque-saint-colomban/st_col/buvette_coulet.jpg", width: 60%), caption: [
   Photo d'avant le ravalement des façades qui a fait disparaître la mention de la buvette (\~1980)
@@ -650,7 +650,7 @@ Une buvettes était présente au quartier du Coulet dans la maison à droite de 
 
 == Le festin
 
-Tous les été, un festin est réalisé sur la place devant l'église.
+Tous les étés, un festin est réalisé sur la place devant l'église.
 
 #figure(
   caption: [Bons d'entrée pour le bal de septembre 1936],
@@ -667,12 +667,12 @@ Les rambardes autour de la place et le "balcon" pour les musiciens (ou plus réc
   fit-image("/assets/lantosque-saint-colomban/st_col/festin_juillet-1991.jpg"),
 )
 
-L'eau était fournis par les Robini, détenant la maison attenante à la place.
+L'eau était fournie par les Robini, détenant la maison attenante à la place.
 
 == La population
 
 #figure(
-  caption: [Evolution de la population de Saint-Colomban et de ses écarts],
+  caption: [Évolution de la population de Saint-Colomban et de ses écarts],
   fit-image("/assets/lantosque-saint-colomban/demographie.png"),
 )
 
