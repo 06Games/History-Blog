@@ -374,7 +374,22 @@ Le clocher, ajouté ultérieurement, fut achevé en 1888. L'église subit des tr
 
 Une plaque commémorative rendant hommage aux habitants morts pour la France est apposée sur le mur gauche à l'entrée.
 
-On prêtait aux cloches de Saint-Colomban le don d'éloigner les orages. #footnote[Un #link("/assets/RMC - Cloches de St Colomban.m4a")[reportage RMC] en relate]
+On prêtait aux cloches de Saint-Colomban le don d'éloigner les orages. #footnote[Un #link("/assets/lantosque-saint-colomban/st_col/eglise/RMC - Cloches de St Colomban.mp3")[reportage RMC] en relate]
+
+#context {
+  if target() == "html" {
+    figure(
+      caption: [Enregistrement cassette d'un reportage RMC sur le sujet\ (col. Emma Robini, surement daté du début des années 90)\ Reportage : Paul Barelli ; Intervenants : M. Zaniboni, Denise Thaon, Jean-Marie Robini],
+      [
+        #html.audio(
+          src: "/assets/lantosque-saint-colomban/st_col/eglise/RMC - Cloches de St Colomban.mp3",
+          controls: true,
+          loop: false,
+        )
+      ],
+    )
+  }
+}
 
 #highlight[Parler du presbytère]
 
@@ -502,10 +517,10 @@ La piste de la Maïris date quant à elle de 1922-1926#footnote(link("https://ar
 
 En 1873, le sentier de Béasse (alors "Chemin vicinal ordinaire n° 6") fait l'objet d'un élargissement dans sa portion sud vers Lucéram. #footnote([
   #link("https://archives06.fr/ark:/79346/1189628.2466393")[E-dépôt 126 148 4 O 21. Chemin vicinal ordinaire n° 6 dit "de Béasse", de Lucéram au hameau de Béasse. - Élargissement : plan et tableau parcellaire des terrains à occuper, arrêté de la Commission départementale des chemins portant approbation du projet, instruction de la Préfecture, correspondance (1873). 5 pièces.]
-])\ 
+])\
 De 1933 à 1950, les habitants de Béasse se sont regroupés en un "Syndicat agricole de Béasse" pour demander la construction d'une piste reliant Saint-Colomban à Béasse en passant par Gorblaou. La municipalité de Lantosque s'était dite intéressée par le projet dans le cadre de la desserte de Gorblaou. Malgré une pétition signée par 52 propriétaires riverains, ce projet ne verra jamais le jour. #footnote([
   #link("https://archives06.fr/ark:/79346/1189636.2466394")[E-dépôt 126 149 4 O 34. Chemin rural du hameau de Béasse au hameau de Saint-Colomban. - Construction, entretien, réparations : instructions préfectorales, pétition signée par 52 propriétaires riverains, membres du "Syndicat agricole de Béasse" demandant la construction du chemin, délibérations, courrier du Ministre de l'Agriculture au préfet, copies de délibérations de la municipalité de Lantosque, intéressée dans le projet pour la desserte du quartier de Gorbleau, courrier du directeur de l"Association syndicale du chemin de Béasse", correspondance (1933-1950). 1 liasse .]
-])\ 
+])\
 Une route jusqu'à Gorblaou sera finalement construite entre 1974 et 1976 #footnote([
   #link("https://archives06.fr/ark:/79346/814985.2232060")[291 W 30]
 ]), mais sans le difficile prolongement vers Béasse puisque le hameau s'était entre-temps dépeuplé et qu'il sera tragiquement détruit par un incendie peu de temps après.
