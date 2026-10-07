@@ -440,9 +440,17 @@ Au-delà de l'office religieux, la messe dominicale était l'occasion pour les h
 
 #pagebreak()
 
-== L'agriculture
+== L'agriculture et les ressources
 
-#highlight[TODO]
+L'économie de la vallée reposait sur un système agropastoral traditionnel proche de l'autarcie #footnote[Solenne Szys, "La vallée de St Colomban (Saint-Colomban, Gorblaou, Camari) - Territoire de Lantosque : Éléments d'histoire d'une communauté oubliée", _AMONT, Pays vésubien_, n° 1, 2000, p. 2.] #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", portail _Vesubian_ (vesubian.com).]. Chaque famille assurait l'essentiel de sa subsistance en produisant ses céréales, ses légumes, ses fruits, son vin, sa viande et ses fromages #footnote[Solenne Szys, op. cit., p. 2.] #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. Les achats extérieurs demeuraient limités à des ustensiles, des outils et quelques denrées indispensables comme le sucre, le café ou le sel #footnote[Solenne Szys, op. cit., p. 2.] #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. Ce dernier arrivait par la Route Ducale traversant la Vésubie et servait principalement à la conservation des aliments #footnote[Solenne Szys, op. cit., p. 2.].
+
+Le relief accidenté imposait un aménagement méthodique des versants en terrasses (_faïsses_) soutenues par des murets en pierres sèches #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. Ces murs étaient bâtis de façon à retenir la terre meuble tout en laissant s'infiltrer et s'évacuer les eaux de pluie #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. Le secteur de Camari regroupait les terrasses les plus vastes et les mieux ensoleillées #footnote[Solenne Szys, op. cit., p. 1.], tandis que les versants au sud de Saint-Colomban, aujourd'hui entièrement boisés, étaient autrefois cultivés en blé, orge, avoine et seigle #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.] #footnote[Solenne Szys, op. cit., p. 2.]. Les sentiers muletiers qui desservaient ces parcelles disséminées demandaient un entretien permanent, particulièrement en hiver où le verglas rendait les passages glissants et dangereux #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
+
+Les céréales moissonnées en juillet étaient entreposées dans les greniers des habitations, les familles veillant par précaution à garder une récolte d'avance pour parer aux années difficiles #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. Les pentes portaient également des oliviers fournissant la consommation familiale en huile #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.], ainsi que des vergers fruitiers #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. Les prunes Reine-Claude étaient particulièrement réputées dans le pays : des primeurs montaient les acheter sur pied pour alimenter les étals des marchés de Lantosque et de Levens, et des boîtes de pruneaux séchés étaient même exportées jusqu'en Angleterre #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
+
+L'élevage complétait cette polyculture vivrière #footnote[Solenne Szys, op. cit., p. 2.]. Les bovins partaient en estive durant la période estivale sur les pâturages de la Maïris, tandis que les chèvres restaient gardées au village #footnote[Solenne Szys, op. cit., p. 1-2.]. Chaque foyer possédait une basse-cour de poules et de lapins, ainsi qu'un ou deux cochons engraissés puis tués vers Noël pour fournir des réserves de viande sur plusieurs mois #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
+
+La forêt de la Maïris représentait un ensemble foncier déterminant, comptant 37 hectares de terres potagères arrosables, 18 hectares de châtaigneraies et 217 hectares de bois et de pacages #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. Ses boisements de mélèzes et de résineux furent par ailleurs exploités sous l'administration piémontaise pour la construction navale des ports ligures (quais et pontons), les billots étant descendus par câbles et flottage, bien avant la création de pistes carrossables #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
 
 == Les équipements collectifs
 
@@ -489,9 +497,11 @@ Le hameau de Gorblaou ne disposait quant à lui d'aucun four propre #footnote[So
 
 === Le moulin
 
-Une des particularités du vallon réside dans la présence d'un moulin à roue verticale, établi au fond du vallon en contrebas de Gorblaou #footnote[Solenne Szys, op. cit., p. 2.]. Ce moulin mixte servait à la fois à moudre les céréales (seigle et froment) et à presser les olives pour l'huile #footnote[Solenne Szys, op. cit., p. 2.].
+Un moulin à roue verticale était établi au fond du vallon en contrebas de Gorblaou #footnote[Solenne Szys, op. cit., p. 2.]. Ce moulin mixte servait à la fois à moudre les céréales (seigle et froment) et à presser les olives pour l'huile #footnote[Solenne Szys, op. cit., p. 2.].
 
-Son activité demeurait toutefois saisonnière en raison du manque d'eau et du tarissement estival du ruisseau #footnote[Solenne Szys, op. cit., p. 2.]. Au début du XXe siècle, son exploitation fut placée sous régie, au même titre que la production locale de vin et d'alcool #footnote[Solenne Szys, op. cit., p. 2.].
+Son activité demeurait toutefois saisonnière en raison du manque d'eau et du tarissement estival du vallon #footnote[Solenne Szys, op. cit., p. 2.]. Au début du XXe siècle, son exploitation fut placée sous régie, au même titre que la production locale de vin et d'alcool #footnote[Solenne Szys, op. cit., p. 2.].
+
+Le moulin a depuis été reconverti en maison d'habitation.
 
 #pagebreak()
 
