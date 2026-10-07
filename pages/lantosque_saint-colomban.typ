@@ -451,12 +451,22 @@ Une buvettes était présente au quartier du Coulet dans la maison à droite de 
   Photo d'avant le ravalement des façades qui a fait disparaître la mention de la buvette (\~1980)
 ])
 
-== Les fours
+== Les équipements collectifs
 
-Il y avait 3 fours, un au Coulet à Saint-Colomban, un à l'entrée du hameau de Camari et un dernier, à Béasse, sur le coté du chemin après l'école.
+L'économie pastorale et vivrière imposait l'entretien d'équipements collectifs indispensables à la transformation locale des récoltes #footnote[Solenne Szys, "La vallée de St Colomban (Saint-Colomban, Gorblaou, Camari) - Territoire de Lantosque : Éléments d'histoire d'une communauté oubliée", _AMONT, Pays vésubien_, n° 1, 2000, p. 2.].
+
+=== Les fours à pain
+
+Le pain était cuit une fois par semaine lors de fournées collectives, ce qui explique l'absence de boulangerie commerciale dans la vallée #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", portail _Vesubian_ (vesubian.com).].
+
+Trois fours assuraient ces besoins :
+- Le four du Coulet à Saint-Colomban, daté du début du XVIIIe siècle (1715 ou 1719) #footnote[Solenne Szys, op. cit., p. 2.].
+- Le four situé à l'entrée de Camari, construit en 1896 puis restauré #footnote[Solenne Szys, op. cit., p. 2.].
+- Le four de Béasse, bâti en bordure du chemin après l'école.
+
+Le hameau de Gorblaou ne disposait quant à lui d'aucun four propre #footnote[Solenne Szys, op. cit., p. 2.].
 
 #highlight[Photos St Col et Camari]
-
 
 #figure(fit-image("/assets/lantosque-saint-colomban/beasse/beasse_four_avant.jpg", width: 50%), caption: [
   Le four à pain de Béasse tel qu'il était
@@ -483,6 +493,12 @@ Il y avait 3 fours, un au Coulet à Saint-Colomban, un à l'entrée du hameau de
     ],
   ),
 )
+
+=== Le moulin
+
+Une des particularités du vallon réside dans la présence d'un moulin à roue verticale, établi au fond du vallon en contrebas de Gorblaou #footnote[Solenne Szys, op. cit., p. 2.]. Ce moulin mixte servait à la fois à moudre les céréales (seigle et froment) et à presser les olives pour l'huile #footnote[Solenne Szys, op. cit., p. 2.].
+
+Son activité demeurait toutefois saisonnière en raison du manque d'eau et du tarissement estival du ruisseau #footnote[Solenne Szys, op. cit., p. 2.]. Au début du XXe siècle, son exploitation fut placée sous régie, au même titre que la production locale de vin et d'alcool #footnote[Solenne Szys, op. cit., p. 2.].
 
 #pagebreak()
 
