@@ -431,12 +431,25 @@ Au-delà de l'office religieux, la messe dominicale était l'occasion pour les h
   fit-image("/assets/lantosque-saint-colomban/st_col/eglise/cimetiere_2020-08-03.jpg"),
 )
 
-
-
+#pagebreak()
 
 == Le bâti
 
-#link("https://www.google.com/maps/d/view?mid=1rW6JkY7RSwRCz1u5rN-LxLbp1iK0FFE&usp=sharing")
+#highlight[WIP: #link("https://www.google.com/maps/d/view?mid=1rW6JkY7RSwRCz1u5rN-LxLbp1iK0FFE&usp=sharing")]
+
+L'implantation des habitations a été guidée par le relief et la recherche d'une exposition à l'adret pour profiter au maximum de l'ensoleillement #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", portail _Vesubian_ (vesubian.com).].
+
+La disposition varie selon les secteurs de la vallée :
+- Saint-Colomban présente un habitat dispersé le long du versant #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.] #footnote[Solenne Szys, "La vallée de St Colomban (Saint-Colomban, Gorblaou, Camari) - Territoire de Lantosque : Éléments d'histoire d'une communauté oubliée", _AMONT, Pays vésubien_, n° 1, 2000, p. 1.].
+- Gorblaou est formé de maisons groupées sur la rive gauche, surplombant le cours d'eau et les champs #footnote[Solenne Szys, op. cit., p. 1.] #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
+- Camari s'étire le long de la route, ses habitations se resserrant autour du four, de la fontaine et de l'abreuvoir #footnote[Solenne Szys, op. cit., p. 1.].
+
+Les maisons répondent à un modèle d'architecture en pierres sur plusieurs niveaux, tirant parti de la pente #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.] :
+- le rez-de-chaussée est réservé à l'écurie pour les bêtes #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.] ;
+- le premier niveau comprend les pièces d'habitation (cuisine avec le foyer, salle commune et chambres) #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.] ;
+- le dernier niveau sous les toits sert de grenier pour le foin et les récoltes #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
+
+Le dénivelé permettait souvent un accès de plain-pied à deux niveaux distincts, complété à l'intérieur par des escaliers, échelles ou trappes #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. Les murs étaient montés très épais avec des ouvertures de faible dimension afin de limiter les déperditions de chaleur en hiver et de conserver la fraîcheur en été #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. Les toitures, à un ou deux versants simples, sont couvertes de tuiles rondes #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
 
 #pagebreak()
 
