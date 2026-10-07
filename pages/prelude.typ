@@ -127,6 +127,14 @@
     if target() == "html" { it.body } else { it }
   }
 
+  show pad: it => context {
+    if target() == "html" { it.body } else { it }
+  }
+
+  show rotate: it => context {
+    if target() == "html" { it.body } else { it }
+  }
+
   doc
 }
 
