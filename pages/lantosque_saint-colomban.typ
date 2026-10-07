@@ -314,7 +314,7 @@ Les terrains de la Colle ont été racheté, autour de 2020, par les Allari de G
 
 == La religion
 
-Une première chapelle, vraisemblablement dédiée à Saint-Colomban, se trouvait dans le quartier de la Gleya #footnote[Solenne Szys, "La vallée de St Colomban (Saint-Colomban, Gorblaou, Camari) - Territoire de Lantosque : Éléments d'histoire d'une communauté oubliée", _AMONT, Pays vésubien_, n° 1, 2000, p. 2.]. Une seconde chapelle a ensuite été bâtie à l'emplacement de l'église actuelle. Cette dernière devint église paroissiale à la Révolution et conserva ses propres registres jusqu'en 1860, date du rattachement du Comté de Nice à la France.
+Une première chapelle, vraisemblablement dédiée à Saint-Colomban, se trouvait dans le quartier de la Gleya #footnote[Solenne Szys, "La vallée de St Colomban (Saint-Colomban, Gorblaou, Camari) - Territoire de Lantosque : Éléments d'histoire d'une communauté oubliée", _AMONT, Pays vésubien_, n° 1, 2000, p. 2.]. Une seconde chapelle a ensuite été bâtie à l'emplacement de l'église actuelle. Cette dernière devint église paroissiale à la Révolution et tint des registres ayant valeur d'état civil jusqu'en 1860, date du rattachement du Comté de Nice à la France.
 
 Le saint patron faisait l'objet d'une dévotion particulière en raison de ses vertus thaumaturgiques #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", portail _Vesubian_ (vesubian.com).] : la tradition lui prêtait le don de rendre la parole aux muets grâce à l'eau d'une source jaillissant près d'une ferme. Des familles venaient à pied des vallées voisines avec leurs enfants dans l'espoir d'une guérison, ce qui avait inspiré une boutade locale : "Tiens, celui-là il vient de St Colomban !" pour désigner une personne très bavarde.
 
