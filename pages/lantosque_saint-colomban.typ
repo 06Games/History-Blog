@@ -432,24 +432,17 @@ Au-delà de l'office religieux, la messe dominicale était l'occasion pour les h
 )
 
 
-== Les cafés et buvettes
 
-Sur le chemin de la Gleya, dans la ruelle descendant à la place, on peut encore voir sur le haut d'une porte à droite en descendant l'enseigne d'un ancien café restaurant tenu par François et Philippine Thaon.
 
-#side-by-side(
-  figure(fit-image("/assets/lantosque-saint-colomban/st_col/chemin_de_la_gleya_ruelle.jpg", width: 100%), caption: [
-    La ruelle descendant à la place
-  ]),
-  figure(fit-image("/assets/lantosque-saint-colomban/st_col/chemin_de_la_gleya_bar.jpg", width: 100%), caption: [
-    L'enseigne du café restaurant de la place
-  ]),
-)
+== Le bâti
 
-Une buvettes était présente au quartier du Coulet dans la maison à droite de la placette.
+#link("https://www.google.com/maps/d/view?mid=1rW6JkY7RSwRCz1u5rN-LxLbp1iK0FFE&usp=sharing")
 
-#figure(fit-image("/assets/lantosque-saint-colomban/st_col/buvette_coulet.jpg", width: 60%), caption: [
-  Photo d'avant le ravalement des façades qui a fait disparaître la mention de la buvette (\~1980)
-])
+#pagebreak()
+
+== L'agriculture
+
+#highlight[TODO]
 
 == Les équipements collectifs
 
@@ -612,6 +605,26 @@ Le vallon de Saint-Colomban dispose de plusieurs launes (dont la laune de l'Él�
   La laune du diable aux Maurins, d'accès privé
 ])
 
+
+== Les cafés et buvettes
+
+Sur le chemin de la Gleya, dans la ruelle descendant à la place, on peut encore voir sur le haut d'une porte à droite en descendant l'enseigne d'un ancien café restaurant tenu par François et Philippine Thaon.
+
+#side-by-side(
+  figure(fit-image("/assets/lantosque-saint-colomban/st_col/chemin_de_la_gleya_ruelle.jpg", width: 100%), caption: [
+    La ruelle descendant à la place
+  ]),
+  figure(fit-image("/assets/lantosque-saint-colomban/st_col/chemin_de_la_gleya_bar.jpg", width: 100%), caption: [
+    L'enseigne du café restaurant de la place
+  ]),
+)
+
+Une buvettes était présente au quartier du Coulet dans la maison à droite de la placette.
+
+#figure(fit-image("/assets/lantosque-saint-colomban/st_col/buvette_coulet.jpg", width: 60%), caption: [
+  Photo d'avant le ravalement des façades qui a fait disparaître la mention de la buvette (\~1980)
+])
+
 == Le festin
 
 Tous les été, un festin est réalisé sur la place devant l'église.
@@ -663,11 +676,3 @@ L'eau était fournis par les Robini, détenant la maison attenante à la place.
     ..body-data.flatten(),
   )
 ]
-
-== Le bâti
-
-#link("https://www.google.com/maps/d/view?mid=1rW6JkY7RSwRCz1u5rN-LxLbp1iK0FFE&usp=sharing")
-
-== L'agriculture
-
-#highlight[TODO]
