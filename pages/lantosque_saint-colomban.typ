@@ -103,7 +103,7 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
       Le X sur l'église semble être une marque ultérieure à l'encre bleue.
     ]
 
-    On observe dans la végétation à gauche une bâtisse actuellement chez Jean-Paul à l'Ièra.\
+    On observe dans la végétation à gauche une bâtisse chez les héritiers Durante (Guillon notamment) à l'Ièra.\
     _La maison de l'Escassa n'est pas visible car en contre-bas._
     Au dessus, les maisons de la Glèia.\
     Au premier plan, les deux maisons du coté gauche du Chemin des Maurins en descendant de l'église ainsi que l'église elle-même avec le presbytère. _La maison "des Thaons" en face de la place est cachée par l'église._\
@@ -332,7 +332,7 @@ Sa construction mobilisa largement les habitants : chacun montait des pierres de
 
 Le clocher, ajouté ultérieurement, fut achevé en 1888 #footnote[Solenne Szys, op. cit., p. 3.]. L'église connut des travaux de rénovation après un incendie accidentel de l'autel en 1915 #footnote[Le mémoire du portail _Vesubian_ indique 1907, mais l'annotation manuscrite au dos d'une photographie d'époque confirme bien 1915, date également retenue par Solenne Szys (op. cit., p. 3).], puis à nouveau en 1933. La mairie fit refaire la façade en août 2013.
 
-#figure(caption: [Le maître-autel de l'église avant l'incendie de 1915], side-by-side(
+#figure(caption: [Le maître-autel de l'église avant l'incendie de 1915 (col. Emma ROBINI)], side-by-side(
   fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_maitre_autel_bef-1915.png", width: 100%),
   fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_maitre_autel_bef-1915_verso.png", width: 100%),
 ))
@@ -374,7 +374,27 @@ Le clocher, ajouté ultérieurement, fut achevé en 1888 #footnote[Solenne Szys,
   ),
 )
 
-Le presbytère est situé directement derrière le chevet, avec le logement du desservant à l'étage #footnote[Solenne Szys, op. cit., p. 3.]. Il a également été réparé en 1933 #footnote[Solenne Szys, op. cit., p. 3.]. De nos jours, le bâtiment tombe en ruine : il n'est plus hors d'eau, un pan de mur s'est ouvert et un autre s'affaisse au niveau des fenêtres. Sur la toiture, des pierres posées il y a plusieurs décennies comme solution provisoire menacent de glisser. Le balcon s'est effondré et la toiture des deux petites granges attenantes s'écroule. Lors du ravalement de 2013, seule la façade du presbytère visible depuis la place a été refaite, le reste fut laissé en l'état.
+Le presbytère est situé directement derrière le chevet, avec le logement du desservant à l'étage #footnote[Solenne Szys, op. cit., p. 3.]. Il a également été réparé en 1933 #footnote[Solenne Szys, op. cit., p. 3.]. De nos jours, le bâtiment tombe en ruine : il n'est plus hors d'eau, un pan de mur s'est ouvert et un autre montre des signes d'affaissement au niveau des fenêtres. Sur la toiture, des pierres posées il y a plusieurs décennies comme solution provisoire menacent de glisser. Le balcon s'est effondré et la toiture d'un des deux petits cabanons attenants s'écroule. Lors du ravalement de 2013, seule la façade du presbytère visible depuis la place a été refaite, le reste fut laissé en l'état.
+
+#side-by-side(
+  figure(
+    caption: [Façade est du presbytère (2020-07-28)],
+    fit-image("/assets/lantosque-saint-colomban/st_col/eglise/presbytere_vue_est_2020-07-28.jpg"),
+  ),
+  figure(
+    caption: [Vue nord-est du presbytère (2026-05-14)],
+    fit-image("/assets/lantosque-saint-colomban/st_col/eglise/presbytere_vue_nord-est_2026-05-14.jpg"),
+  ),
+
+  figure(
+    caption: [Façade sud du presbytère (2026-08-23)],
+    fit-image("/assets/lantosque-saint-colomban/st_col/eglise/presbytere_vue_sud_2026-08-23.jpg"),
+  ),
+  figure(
+    caption: [La cabanon dont le toit s'écroule (2026-08-23)],
+    fit-image("/assets/lantosque-saint-colomban/st_col/eglise/presbytere_cabanon_2026-08-23.jpg"),
+  ),
+)
 
 L'édifice surprend par ses dimensions au regard de l'isolement du hameau #footnote[Solenne Szys, op. cit., p. 3.]. La nef unique compte trois travées en plein cintre et reçoit le jour par trois fenêtres sur le flanc droit et deux sur le flanc gauche #footnote[Solenne Szys, op. cit., p. 3.]. La grande porte d'entrée et les bancs en bois, longtemps réservés aux familles du lieu par attribution nominative, avaient été façonnés par un menuisier du quartier Saint-Georges à Lantosque #footnote[Solenne Szys, op. cit., p. 3.].
 
@@ -405,6 +425,12 @@ On prêtait aux cloches de Saint-Colomban le don d'éloigner les orages #footnot
 Au-delà de l'office religieux, la messe dominicale était l'occasion pour les habitants de se retrouver, d'échanger les nouvelles et de s'organiser pour les travaux et coups de main de la semaine #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
 
 À droite de l'édifice, une petite pièce servait à l'origine de cimetière _ad sanctos_ #footnote[Solenne Szys, op. cit., p. 3.]. La terre et le sable nécessaires aux inhumations y étaient montés à dos d'homme dans des récipients confectionnés à partir de fonds d'épicéa #footnote[Solenne Szys, op. cit., p. 3.]. Le cimetière communal actuel, situé plus haut sur le replat dominant le hameau, semble quant à lui avoir été aménagé entre 1808 et 1874.
+
+#figure(
+  caption: [Le cimetière actuel (2020-08-03)],
+  fit-image("/assets/lantosque-saint-colomban/st_col/eglise/cimetiere_2020-08-03.jpg"),
+)
+
 
 == Les cafés et buvettes
 
