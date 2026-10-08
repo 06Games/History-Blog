@@ -425,7 +425,7 @@ On prêtait aux cloches de Saint-Colomban le don d'éloigner les orages #footnot
 
 Au-delà de l'office religieux, la messe dominicale était l'occasion pour les habitants de se retrouver, d'échanger les nouvelles et de s'organiser pour les travaux et coups de main de la semaine #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
 
-À droite de l'édifice, une petite pièce servait à l'origine de cimetière _ad sanctos_ #footnote[Solenne Szys, op. cit., p. 3.]. La terre et le sable nécessaires aux inhumations y auraient été montés à dos d'homme dans des récipients confectionnés à partir de fonds d'épicéa #footnote[Solenne Szys, op. cit., p. 3.]. Le cimetière communal actuel, situé plus haut sur le replat dominant le hameau, semble quant à lui avoir été aménagé entre 1808 et 1874.
+À droite de l'édifice, une petite pièce servait à l'origine de cimetière _ad sanctos_ #footnote[Solenne Szys, op. cit., p. 3.]. La terre et le sable nécessaires aux inhumations y auraient été montés à dos d'homme dans des récipients confectionnés à partir de fonds d'épicéa #footnote[Solenne Szys, op. cit., p. 3.]. Le cimetière communal actuel, situé plus haut et dominant le hameau, semble quant à lui avoir été aménagé entre 1808 et 1874.
 
 #figure(
   caption: [Le cimetière actuel (2020-08-03)],
