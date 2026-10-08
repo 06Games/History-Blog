@@ -685,10 +685,12 @@ L'eau était fournie par les Robini, détenant la maison attenante à la place.
   #show table.cell: set par(justify: false)
   #show table.cell.where(y: 0): it => {
     set text(weight: "bold", size: 1.1em)
-    if it.x > 2 {
-      align(center + horizon, rotate(-75deg, reflow: true, it))
-    } else {
-      it
+    context {
+      if target() != "html" and it.x > 2 {
+        align(center + horizon, rotate(-75deg, reflow: true, it))
+      } else {
+        it
+      }
     }
   }
 
