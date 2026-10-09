@@ -672,94 +672,91 @@ L'eau était fournie par les Robini, détenant la maison attenante à la place.
 
 == La population
 
-#let barres-empilees(
-  data,
-  series: ("Beasse", "St Colomban", "Raynaud", "Gorblaou", "Camari"),
-  width: 15cm,
-  height: 7cm,
-  colors: (
-    rgb("#496A81"), // bleu ardoise
-    rgb("#C9825B"), // terre cuite
-    rgb("#7A9273"), // vert sauge
-    rgb("#9A7A91"), // prune grisé
-    rgb("#B5A36A"), // ocre
-  ),
-) = {
-  show: lq.show_(
-    lq.tick-label.with(kind: "x"),
-    rotate.with(-90deg, reflow: true),
-  )
-  show: lq.theme.skyline
-
-  let annees = data.Année.map(int)
-  let n = annees.len()
-  let x = range(n)
-
-  // Valeurs numériques, avec #N/A et cellules vides remplacés par 0.
-  let ys = series.map(s => data
-    .at(s)
-    .map(elem => if elem == "#N/A" or elem == "" {
-      0
-    } else {
-      int(elem)
-    }))
-
-  let plots = ()
-
-  for i in range(series.len()) {
-    let values = ys.at(i)
-
-    // Base = somme des séries précédentes.
-    let base = x.map(j => range(i).fold(
-      0,
-      (acc, k) => acc + ys.at(k).at(j),
-    ))
-
-    // y = sommet du segment = base + valeur courante.
-    let top = x.map(j => base.at(j) + values.at(j))
-
-    plots.push(
-      lq.bar(
-        x,
-        top,
-        base: base,
-        width: 80%,
-        fill: colors.at(i),
-        stroke: white,
-        label: series.at(i),
-      ),
-    )
-  }
-
-  lq.diagram(
-    width: width,
-    height: height,
-
-    legend: (
-      position: top + right,
-      stroke: none,
-      fill: none,
-    ),
-
-    xaxis: (
-      subticks: none,
-      ticks: annees.map(y => str(y)).enumerate(),
-    ),
-
-    ..plots,
-  )
-}
-
-
-#let data = lq.load-txt(
-  read("/assets/lantosque-saint-colomban/demographie.csv"),
-  header: true,
-  converters: it => it,
-)
-
 #figure(
   caption: [Évolution de la population de Saint-Colomban et de ses écarts],
-  barres-empilees(data),
+  {
+    show: lq.show_(
+      lq.tick-label.with(kind: "x"),
+      rotate.with(-90deg, reflow: true),
+    )
+    show: lq.theme.skyline
+
+    let data = lq.load-txt(
+      read("/assets/lantosque-saint-colomban/demographie.csv"),
+      header: true,
+      converters: it => it,
+    )
+    let series = ("Béasse", "Total sans Béasse", "St Colomban", "Raynaud", "Gorblaou", "Camari")
+    let width = 15cm
+    let height = 7cm
+    let colors = (
+      rgb("#496A81"), // bleu ardoise
+      rgb("#c4a28f"), // terre cuite
+      rgb("#C9825B"), // terre cuite
+      rgb("#7A9273"), // vert sauge
+      rgb("#9A7A91"), // prune grisé
+      rgb("#B5A36A"), // ocre
+    )
+
+    let annees = data.Année.map(int)
+    let n = annees.len()
+    let x = range(n)
+
+    // Valeurs numériques, avec #N/A et cellules vides remplacés par 0.
+    let ys = series.map(s => data
+      .at(s)
+      .map(elem => if elem == "#N/A" or elem == "" {
+        0
+      } else {
+        int(elem)
+      }))
+
+    let plots = ()
+
+    for i in range(series.len()) {
+      let values = ys.at(i)
+
+      // Base = somme des séries précédentes.
+      let base = x.map(j => range(i).fold(
+        0,
+        (acc, k) => acc + ys.at(k).at(j),
+      ))
+
+      // y = sommet du segment = base + valeur courante.
+      let top = x.map(j => base.at(j) + values.at(j))
+
+      plots.push(
+        lq.bar(
+          x,
+          top,
+          base: base,
+          width: 80%,
+          fill: colors.at(i),
+          stroke: white,
+          label: series.at(i),
+        ),
+      )
+    }
+
+    lq.diagram(
+      width: width,
+      height: height,
+
+      legend: (
+        position: bottom + center,
+        dy: 4cm,
+        stroke: none,
+        fill: none,
+      ),
+
+      xaxis: (
+        subticks: none,
+        ticks: annees.map(y => str(y)).enumerate(),
+      ),
+
+      ..plots,
+    )
+  },
 )
 
 #figure(caption: [Population recensée à Saint-Colomban et dans ses écarts])[
@@ -781,7 +778,7 @@ L'eau était fournie par les Robini, détenant la maison attenante à la place.
   }
 
   #table(
-    columns: (25%, 25%, 15%, 1fr, 1fr, 1fr, 1fr, 1fr),
+    columns: (25%, 20%, 15%, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr),
     align: horizon + center,
     table.header(..header-data),
     ..body-data.flatten(),
