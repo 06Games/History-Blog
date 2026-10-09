@@ -365,7 +365,22 @@ La vallée prend le nom de Val de Lantosque dès 1141.
 
 Le XVIIe siècle est marqué par de nombreux tremblements de terre.
 
-31 juillet 1631, la peste arrive à Belvédère #footnote(link("https://www.geneanet.org/registres/view/17637/17")[Registres des sépultures 1609-1640 de Belvédère f. 17]).
+La grande peste de Milan atteint Belvédère le 31 juillet 1631 #footnote[#link("https://www.geneanet.org/registres/view/17637/17")[Registres des sépultures 1609-1640 de Belvédère, f. 17] : l'acte relate les premiers décès dans la famille de Barthélémy Plent, inhumés sans savoir qu'il s'agissait du fléau.\
+  "1631 die 31 julii incomincio
+  la peste nel p[rese]nte luoco di Belvedere
+  alla casa di Plente ove morse Antorina
+  moglie di Barth[olome]o Plente et una figliuola
+  sua non sapendo ancora che fusse peste
+  sepolta nella chiesa
+  Doppo la vigilia di S.to Lorenzo morse
+  detto Barth[olome]o Plente sua socera, un suo
+  figliuolo una sua figliuola et un figliuolo
+  di Gio Lud[ovi]co Dalmatio sepolti il giorno di
+  S.to Lorenzo al valu nel orto di sernello \
+  _si scoperse la peste alli 10 agosto_ #text(fill: luma(90))[⟨en marge⟩] \
+  Piu l'indomai morsero manoelan daniella et un
+  suo figliuolo pretzo brusalo nela granigo dil S.r Alexandro Isnardi"], mais sa nature n'est identifiée que le 10 août.
+L'épidémie fait 146 morts dans la communauté en l'espace de sept mois, jusqu'au 6 mars 1632 #footnote[#link("https://www.geneanet.org/registres/view/17637/19")[Registres des sépultures 1609-1640 de Belvédère, f. 19]], soit près de dix fois la mortalité habituelle pour une telle période #footnote[#link("https://www.geneanet.org/registres/view/17637/17")[Registres des sépultures 1609-1640 de Belvédère, f. 17] : Les registres comptabilisent 189 sépultures entre 1624 et juillet 1631, soit une moyenne ordinaire d'environ 25 décès par an (environ 15 décès attendus sur sept mois). L'épidémie concentre ainsi en sept mois l'équivalent de près de six années de décès ordinaires.].
 
 == Les occupations françaises
 
