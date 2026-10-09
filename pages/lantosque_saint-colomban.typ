@@ -761,26 +761,54 @@ L'eau était fournie par les Robini, détenant la maison attenante à la place.
 
 #figure(caption: [Population recensée à Saint-Colomban et dans ses écarts])[
   #let demographie = csv("/assets/lantosque-saint-colomban/demographie.csv")
-  #let header-data = demographie.at(0)
-  #let body-data = demographie.slice(1)
+  #let header-data = demographie.at(0).slice(2)
+  #let raw-body = demographie.slice(1)
 
-  #show table.cell: set text(size: .8em, hyphenate: false)
-  #show table.cell: set par(justify: false)
-  #show table.cell.where(y: 0): it => {
-    set text(weight: "bold", size: 1.1em)
-    context {
-      if target() != "html" and it.x > 2 {
-        align(center + horizon, rotate(-75deg, reflow: true, it))
-      } else {
-        it
-      }
+  // Label unique par combinaison (source, note)
+  #let entry-labels = (:)
+  #for row in raw-body {
+    let note = row.at(0, default: "").trim()
+    let src = row.at(1, default: "").trim()
+    let text = (src, note).filter(t => t != "").join(" : ")
+
+    if text != "" and not (text in entry-labels) {
+      entry-labels.insert(text, label("fn-" + str(entry-labels.len())))
     }
   }
 
+  #let declared = ()
+  #let body-data = ()
+
+  #for row in raw-body {
+    let note = row.at(0, default: "").trim()
+    let src = row.at(1, default: "").trim()
+    let cells = row.slice(2)
+    let text = (src, note).filter(t => t != "").join(" : ")
+
+    if text != "" {
+      let lbl = entry-labels.at(text)
+      let fn = if declared.contains(text) {
+        footnote(lbl)
+      } else {
+        declared.push(text)
+        [#footnote[#text] #lbl]
+      }
+      cells.at(0) = [#cells.at(0)#fn]
+    }
+
+    body-data += cells
+  }
+
+  #show table.cell: set text(size: .8em, hyphenate: false)
+  #show table.cell: set par(justify: false)
+
+  #show table.cell.where(y: 0): set text(weight: "bold", size: 1.1em)
+  #show table.cell.where(x: 0): set text(size: 1.1em)
+
   #table(
-    columns: (25%, 20%, 15%, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr),
+    columns: (25%, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr),
     align: horizon + center,
     table.header(..header-data),
-    ..body-data.flatten(),
+    ..body-data,
   )
 ]
