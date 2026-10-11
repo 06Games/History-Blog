@@ -14,6 +14,8 @@ Le hameau est mentionné dans le cartulaire de la cathédrale de Nice au XIIe si
 
 Les habitations sont décrites comme en ruine dans le registre d'"État des droits et revenus du comte Charles 1#super[er] en Provence" datant de 1252 #footnote[#link("https://odyssee.univ-amu.fr/files/original/1/532/FR_MMSH_MDQ_PRJ_MG_004.pdf")[Édouard Baratier, "Enquêtes sur les droits et revenus de Charles Ier d'Anjou en Provence (1252 et 1278)", 1969, p244] : #text(lang: "la", style: "italic")["San Columbar est castrum dirrutum, cujus territorium tenent homines de Lantoscha."] --- Saint-Colomban est un site fortifié en ruines, dont le territoire est tenu par les hommes de Lantosque.].
 
+Le hameau est de nouveau habité en 1580 #footnote[#link("https://archives06.fr/ark:/79346/765900.2436491/img:03E113_001 028_img")["Testamento di Lodovico Ferrier", Protocole avec répertoire du notaire Jean Antoine Auda à Lantosque (1579-12-26 - 1588-01-18), A.D.A.M., 3 E 113 1, vue 28]].
+
 == Les écarts
 
 Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou et Camari. Il existe également des écarts dorénavant abandonnés, comme la Couala de Guillerm _(La Colle)_ et Béasse sur la commune de Lucéram.
@@ -124,6 +126,8 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
 )
 
 === Gorblaou
+
+Mentionné en 1625 sous le nom "Gorgo blauo" #footnote[#link("https://archives06.fr/ark:/79346/765916.2436494/img:03E113_003 103_img")["Testamento di Antonio Gaglio fu Guglielmo", Protocole avec répertoire du notaire AUDA Jean à Lantosque (1622-01-12 - 1626-03-02), A.D.A.M., 3 E 113 3, vue 103]], sans qu'il ne puisse être affirmé que le lieu était habité.
 
 #side-by-side(
   [
