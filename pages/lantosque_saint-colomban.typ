@@ -342,6 +342,19 @@ Le clocher, ajouté ultérieurement, fut achevé en 1888 #footnote[Solenne Szys,
   fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_maitre_autel_bef-1915_verso.png", width: 100%),
 ))
 
+
+
+#figure(
+  caption: [Les anciennes tuiles écailles émaillées du clocher (col. Emma ROBINI)],
+  side-by-side(
+    stack(
+      fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_tuiles_recto.png"),
+      fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_tuiles_verso.png"),
+    ),
+    fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_tuiles_sim.png", width: 70%),
+  ),
+)
+
 #side-by-side(
   figure(
     caption: [L'église sous la neige (2011-01-30)],
