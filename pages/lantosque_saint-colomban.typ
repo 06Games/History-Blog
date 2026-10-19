@@ -351,10 +351,10 @@ Le clocher, ajouté ultérieurement, fut achevé en 1888 #footnote[Solenne Szys,
 #figure(
   caption: [Les anciennes tuiles écailles émaillées du clocher (col. Emma ROBINI)],
   side-by-side(
-    stack(
-      fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_tuiles_recto.png"),
-      fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_tuiles_verso.png"),
-    ),
+    {
+      fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_tuiles_recto.png")
+      fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_tuiles_verso.png")
+    },
     fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_tuiles_sim.png", width: 70%),
   ),
 )
