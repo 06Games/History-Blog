@@ -342,8 +342,6 @@ Le clocher, ajouté ultérieurement, fut achevé en 1888 #footnote[Solenne Szys,
   fit-image("/assets/lantosque-saint-colomban/st_col/eglise/eglise_maitre_autel_bef-1915_verso.png", width: 100%),
 ))
 
-
-
 #figure(
   caption: [Les anciennes tuiles écailles émaillées du clocher (col. Emma ROBINI)],
   side-by-side(
@@ -569,7 +567,7 @@ Jusqu'en 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement -
 
 #highlight[Parler des anciens chemins et de ce qu'il en reste]
 
-#box[
+#box(width: 100%)[
   Le pont au-dessus de la Vésubie a été construit aux alentours de 1883.
 
   #figure(
@@ -580,7 +578,18 @@ Jusqu'en 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement -
   )
 ]
 
-#box[
+#side-by-side(
+  figure(
+    caption: [Vue depuis le _Crouz de Puel_ sur la route en sortie des Oules (2022-10-31)],
+    fit-image("/assets/lantosque-saint-colomban/route/route_oules.jpg"),
+  ),
+  figure(
+    caption: [La route et ses murs de soutainement à flan de falaise au _Crouz de Puel_ (2022-10-31)],
+    fit-image("/assets/lantosque-saint-colomban/route/route_crouz_de_puel.jpg"),
+  ),
+)
+
+#box(width: 100%)[
   La première croix en vue de Saint-Colomban date de 1892 et a été restaurée par Jean-Marie Robini, mon arrière-grand-père, en 1992.
 
   #figure(
@@ -589,7 +598,7 @@ Jusqu'en 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement -
   )
 ]
 
-#box[
+#box(width: 100%)[
   Un éboulement était survenu (à une date que je ne saurais donner) au tout début de la route de Saint-Colomban en arrivant de Lantosque. Une grue avait alors été mise en place et a servi à libérer les véhicules pris au piège en amont.
 
   #figure(
@@ -599,6 +608,11 @@ Jusqu'en 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement -
 ]
 
 La route de Saint-Colomban à Camari (alors "Chemin vicinal n°5") a été construite entre 1862 et 1902#footnote(link("https://archives06.fr/ark:/79346/1161783.2481726")[A.D.A.M. : E-dépôt 78 4 O 20 -- Chemin vicinal n°5 "de Saint-Colomban" (du vallon de Guillerme au hameau de Camari).- Construction, classement : instructions préfectorales, rapports de l'agent-voyer, soumission, adjudication, correspondance.]) #footnote(link("https://archives06.fr/ark:/79346/1159169.2481261")[A.D.A.M. : E-dépôt 78 4 D 10 -- Procès de Louis Borriglione contre la commune pour occupation abusive d'un terrain lui appartenant, lors de la construction du chemin vicinal n° 5 à Saint-Colomban : correspondance.]).
+
+#figure(
+  caption: [Pont au dessus du ruisseau de la Couala, entre Saint-Colomban et Camari (2021-02-28)],
+  fit-image("/assets/lantosque-saint-colomban/route/pont_couala.jpg", width: 50%),
+)
 
 La piste de la Maïris date quant à elle de 1922-1926#footnote(link("https://archives06.fr/ark:/79346/1161833.2481733")[A.D.A.M. : E-dépôt 78 4 O 27 -- Chemin rural de Camari à la Maïris, construction : plan, profils, devis, état parcellaire, mémoire explicatif; acte de constitution d'une association syndicale libre, délibérations, correspondance.]).
 
