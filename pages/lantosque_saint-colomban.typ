@@ -80,12 +80,18 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
 === Saint-Colomban
 
 #side-by-side(
-  figure(fit-image("/assets/lantosque-saint-colomban/st_col/saint-colomban dessus.jpg", width: 100%), caption: [
-    Saint-Colomban vu du dessus
-  ]),
-  figure(fit-image("/assets/lantosque-saint-colomban/st_col/saint-colomban face.jpg", width: 100%), caption: [
-    Saint-Colomban vu d'en face
-  ]),
+  figure(
+    caption: [Saint-Colomban vu des _Ribas de Faraut_],
+    fit-image("/assets/lantosque-saint-colomban/st_col/saint-colomban_ribas-de_faraut.jpg", width: 100%),
+  ),
+  figure(
+    caption: [Saint-Colomban vu de Rabon (2020-07-01)],
+    fit-image("/assets/lantosque-saint-colomban/st_col/saint-colomban_rabon.jpg", width: 100%),
+  ),
+  figure(
+    caption: [Saint-Colomban vu de la crête des Martourins (2020-07-01)],
+    fit-image("/assets/lantosque-saint-colomban/st_col/saint-colomban_martourins.jpg", width: 100%),
+  ),
 )
 
 
@@ -95,7 +101,7 @@ Saint-Colomban dispose de plusieurs écarts, dont les principaux sont Gorblaou e
     width: 80%,
   ),
   caption: [
-    Saint-Colomban vu d'en face vers le début du siècle dernier. #footnote[
+    Saint-Colomban vu de _Petazzi_ vers le début du siècle dernier. #footnote[
       On notera que l'éditeur de la carte postale a eu bien du mal à comprendre les noms de lieu qui lui étaient présentés puisqu'ils ont été assez fortement écorchés.
 
       Collet = Le Coulet ("Lo Colet" en occitan, ce qui se prononce "Lou Coulet", désigne une zone de rupture de pente)\
