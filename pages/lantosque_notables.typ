@@ -374,6 +374,74 @@ La réélection de Baptistin Dragon fit cracher de l'encre. Le 24 mai, le Petit 
 
 Le docteur Charles Passeron fut réélu maire, le premier adjoint fut Antoine Cristini, le second adjoint, Etienne Adréani et l'adjoint spécial de Pélasque, Adolphe Baille #footnote[#link("https://archives06.fr/ark:/79346/240a487b07ebe0b42edd26f6a5a692be/dao/0/5")[Le Petit Niçois du 20 mai 1929, p.5]].
 
+==== ...
+
+==== 06 mars 1983
+
+La municipalité sortante est divisée par des querelles internes et seule une poignée des élus, ne comprenant pas l'ancien maire, reforme une liste.
+
+Inscrits, 840 (dont 54 à Saint-Colomban) #sym.dash.em Votants, 698 #sym.dash.em Exprimés, 673
+
+#side-by-side(
+  figure(caption: [Résultats de la liste "Pour Lantosque, dans l'union"], table(
+    columns: (1fr, 1cm, 1cm, 1cm),
+    align: horizon,
+    table.header([*Nom*], [*Total*], [*dont S#super[t] Col.*], [*dont Loda*]),
+
+    [#upper[Thaon] Jean\ #text(size: .75em)[Commerçant]], [424], [16], [13],
+    [#upper[Borriglione] Gérard\ #text(size: .75em)[Entrepreneur aux travaux publics]], [378], [19], [13],
+    [#upper[Gravant] Jean\ #text(size: .75em)[Retraité]], [392], [16], [12],
+    [#upper[Saifoudine] Colette\ #text(size: .75em)[Infirmière D.E.]], [420], [18], [12],
+    [#upper[Maurel] Paulin\ #text(size: .75em)[Commerçant]], [419], [15], [12],
+    [#upper[Cenciarini] Fernand\ #text(size: .75em)[Retraité]], [382], [15], [12],
+    [#upper[Montanari] Gérard\ #text(size: .75em)[Ingénieur IBM]],
+    [372#footnote[392 selon les notes de Jean Robini]],
+    [16],
+    [12],
+
+    [#upper[Olivari] Baptistin\ #text(size: .75em)[Commerçant]],
+    [362#footnote[352 selon les notes de Jean Robini]],
+    [18],
+    [17],
+
+    [#upper[Poincelet] Jules\ #text(size: .75em)[Retraité]], [376], [16], [12],
+    [#upper[Marsalla] Roger\ #text(size: .75em)[Agriculteur]], [384], [16], [12],
+    [#upper[Otto-Bruc] Louis\ #text(size: .75em)[Artisan maçon]], [400], [15], [12],
+    [#upper[Roux-Guisto] Pierre\ #text(size: .75em)[Éleveur]], [381], [15], [12],
+  )),
+  figure(caption: [Résultats de la liste d'"Union de la majorité" soutenue par le PS et le PCF], table(
+    columns: (1fr, 1cm, 1cm, 1cm),
+    align: horizon + center,
+    table.header([*Nom*], [*Total*], [*dont S#super[t] Col.*], [*dont Loda*]),
+
+    [#upper[Ciais] Paulin\ #text(size: .75em)[Premier adjoint sortant. Retraité, médaillé de la résistance et du travail]],
+    [282#footnote[281 selon la brève Nice-Matin]],
+    [26],
+    [23],
+
+    [#upper[Lemanac] Fortuné\ #text(size: .75em)[Conseiller sortant. Attaché de direction, retraité]], [240], [23], [23],
+    [#upper[Robini] Jean\ #text(size: .75em)[Conseiller sortant. Retraité de l’équipement]], [282], [28], [24],
+    [#upper[Martel] Jean-Pierre\ #text(size: .75em)[Conseiller sortant. Agriculteur, président de la coopérative agricole]],
+    [263],
+    [23],
+    [24],
+
+    [#upper[Otto-Bruc] Suzanne\ #text(size: .75em)[Retraitée du commerce, conseillière prud’homale]], [244], [21], [24],
+    [#upper[Thaon] Marinette\ #text(size: .75em)[Mère de famille]], [225], [22], [23],
+    [#upper[Ascenzi] Daniel\ #text(size: .75em)[Agriculteur]], [250], [23], [24],
+    [#upper[Borriglione] René\ #text(size: .75em)[Instituteur]], [259], [23], [24],
+    [#upper[Ciarlet] Joseph "Zézé"\ #text(size: .75em)[Sans profession, président du canal de Gordolon#footnote[Président du canal de "Gorddon" sur le tract]]],
+    [252],
+    [22],
+    [24],
+
+    [#upper[Martel] Alain\ #text(size: .75em)[Technicien construction mécanique]], [291], [22], [23],
+    [#upper[Sauli] Jean-Pierre\ #text(size: .75em)[Ouvrier du bâtiment]], [237], [21], [23],
+    [#upper[Tosan] Albert\ #text(size: .75em)[Professeur de musique]], [219], [19], [23],
+  )),
+)
+
+
 #pagebreak()
 
 == Les curés
