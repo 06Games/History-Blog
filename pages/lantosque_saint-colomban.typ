@@ -662,7 +662,12 @@ Après une pétition des habitants en avril 1896 et une délibération municipal
   Le lavoir du Coulet, à Saint-Colomban (Photo Christian LEVANIN)
 ])
 
-En avril 1923, trente-cinq propriétaires du secteur créèrent l'Association Syndicale Libre de Saint-Colomban pour solliciter des subventions #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. C'est dans ce cadre que fut aménagé en 1925 le canal d'irrigation captant les eaux de la forêt de la Maïris pour arroser les cultures jusqu'au hameau #footnote(link("https://archives06.fr/ark:/79346/1161889.2481744")[A.D.A.M. : E-dépôt 78 5 O 8 -- Construction et entretien : pétition, rapports de l'ingénieur, arrêté préfectoral, délibérations, acte de création d'association syndicale, devis, plan, correspondance.]).
+En avril 1923, trente-cinq propriétaires du secteur créèrent l'Association Syndicale Libre de Saint-Colomban pour solliciter des subventions #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.]. C'est dans ce cadre que fut aménagé en 1925 le canal d'irrigation captant les eaux de la forêt de la Maïris pour arroser les cultures jusqu'au hameau #footnote(link("https://archives06.fr/ark:/79346/1161889.2481744")[A.D.A.M. : E-dépôt 78 5 O 8 -- Construction et entretien : pétition, rapports de l'ingénieur, arrêté préfectoral, délibérations, acte de création d'association syndicale, devis, plan, correspondance.]). Celui-ci sera rénové en 1981 #footnote[#figure(caption: [
+  Comptes rédigés par Jean-Marie Robini pour la rénovation du canal de Saint-Colomban en 1981
+], side-by-side(fit-image("/assets/lantosque-saint-colomban/st_col/canal/canal_renov_1981_p1.jpg", width: 100%), {
+  fit-image("/assets/lantosque-saint-colomban/st_col/canal/canal_renov_1981_p2.jpg", width: 100%)
+  fit-image("/assets/lantosque-saint-colomban/st_col/canal/canal_renov_1981_p3.jpg", width: 100%)
+}))].
 
 Quant à l'adduction d'eau potable directement dans les habitations, elle ne s'est faite que tardivement et de façon progressive, entre 1947 et 1966 #footnote["Saint Colomban de Lantosque - Mémoire ethnologie rurale", op. cit.].
 
