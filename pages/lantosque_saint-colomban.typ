@@ -504,12 +504,24 @@ Trois fours assuraient ces besoins :
 
 Le hameau de Gorblaou ne disposait quant à lui d'aucun four propre #footnote[Solenne Szys, op. cit., p. 2.].
 
-#highlight[Photos St Col et Camari]
+#side-by-side(
+  figure(
+    caption: [
+      Le four du Coulet à Saint-Colomban (2026-10-24)
+    ],
+    fit-image("/assets/lantosque-saint-colomban/st_col/four.jpg", width: 100%),
+  ),
+  figure(
+    caption: [
+      Le four de Camari (2026-10-25)
+    ],
+    fit-image("/assets/lantosque-saint-colomban/camari/four.jpg", width: 100%),
+  ),
+  figure(fit-image("/assets/lantosque-saint-colomban/beasse/beasse_four_avant.jpg", width: 100%), caption: [
+    Le four de Béasse tel qu'il était (Photo Jean-Nicolas BEASSE)
+  ]),
+)
 
-#figure(fit-image("/assets/lantosque-saint-colomban/beasse/beasse_four_avant.jpg", width: 50%), caption: [
-  Le four à pain de Béasse tel qu'il était
-  (Photo Jean-Nicolas BEASSE)
-])
 #side-by-side(
   figure(
     [
@@ -517,7 +529,7 @@ Le hameau de Gorblaou ne disposait quant à lui d'aucun four propre #footnote[So
       #fit-image("/assets/lantosque-saint-colomban/beasse/beasse_four_pierres_2006.jpg", width: 100%)
     ],
     caption: [
-      Le même four après que des pierres ont été volées autour de 2006\
+      Le four de Béasse après que des pierres ont été volées autour de 2006\
       (Photos Jean-Nicolas BEASSE et Arlette GALLI)
     ],
   ),
@@ -527,7 +539,8 @@ Le hameau de Gorblaou ne disposait quant à lui d'aucun four propre #footnote[So
       #fit-image("/assets/lantosque-saint-colomban/beasse/beasse_four_restauration2.jpg", width: 100%)
     ],
     caption: [
-      Le four a été quelque peu réarrangé début octobre 2022 (Photos #link("https://www.facebook.com/groups/21906880800/permalink/10160040968690801/")[Jackou Laugier] et #link("https://www.facebook.com/groups/21906880800/permalink/10160039939100801/")[Olon Nolo])
+      Le four de Béasse a été quelque peu réarrangé début octobre 2022\
+      (Photos #link("https://www.facebook.com/groups/21906880800/permalink/10160040968690801/")[Jackou Laugier] et #link("https://www.facebook.com/groups/21906880800/permalink/10160039939100801/")[Olon Nolo])
     ],
   ),
 )
@@ -588,11 +601,11 @@ Jusqu'en 2016#footnote[Conseil municipal du #link("/assets/Lantosque Autrement -
 
 #side-by-side(
   figure(
-    caption: [Vue depuis le _Crouz de Puel_ sur la route en sortie des Oules (2022-10-31)],
+    caption: [Vue depuis la _Crouz de Puel_ sur la route en sortie des Oules (2022-10-31)],
     fit-image("/assets/lantosque-saint-colomban/route/route_oules.jpg"),
   ),
   figure(
-    caption: [La route et ses murs de soutainement à flan de falaise au _Crouz de Puel_ (2022-10-31)],
+    caption: [La route et ses murs de soutainement à flan de falaise à la _Crouz de Puel_ (2022-10-31)],
     fit-image("/assets/lantosque-saint-colomban/route/route_crouz_de_puel.jpg"),
   ),
 )
